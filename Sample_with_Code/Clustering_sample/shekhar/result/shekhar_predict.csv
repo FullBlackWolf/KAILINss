@@ -1,0 +1,3540 @@
+name,label,predict,Var4
+Bipolar6_GCGATGCTGATA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_TCGCAAACGCGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CCACCGGAACTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AGTTCCTTAAAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GCCCTGACCAAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_AAGGACTCTTAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_TGGACGACGGAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_TCACAGCCTGCC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CCTACAGTGAGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ATATGGGGCTCC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ATTTCTGACGCG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar6_TTACCATGTAGN,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_TGGGGTATCTGG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_GGAGGCGGATAA,BC5D,NaN,MG (Mueller Glia)
+Bipolar3_CTACGTCCGCCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_CGTACAAACTTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_TACGTGTGTGGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_CGCTTCCGAGCA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_CGTAGCTGCAAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_AGATCTCTAATG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TGAAGAAACGGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_ATAGAATAACTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CCTCTGGAAACA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GTCCGTTAAGCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_TCGGGAATGATC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_TCAGGAAGGACG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_TGTCACTGCCAT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GATCTTATAATN,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GTTAGGGAGAAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_GGACATGATTAT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ATTCAAAGGCAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GTAGCTGCACTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_GGCGACAATGTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_TTTACTAGCCAT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_TGAGAACGCTAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_GCTCGGTTTTGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_ACTTTTATGTAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TCCTCAAGTAGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GGTCAACTATGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ATAGGTATTAGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_AACCTAACGCTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AGAGCACGAACA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_GGTCGCCGCGGC,BC5D,NaN,MG (Mueller Glia)
+Bipolar5_CCATATGAAGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_ACCCCTGGTCGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ACATAACAGGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AAATTGTCGGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_CGGCCGACATAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_TCAACGTATCCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GCCGCGGGGCAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_GTAGACATACAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_ATCCGAAGCGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_GAAGGGTAGCCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GTAAACCCTTGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CTCTGATTAATC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_CTGATCTGTGTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_TAACAGTCTTGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AATGCAGCCAGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CCATACAAAGCT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_CCCAAGTGGGTA,BC5B,NaN,MG (Mueller Glia)
+Bipolar5_ATGTGACCGAAG,BC5B,NaN,MG (Mueller Glia)
+Bipolar2_GGATCATTGAGT,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_CCCGTTCATTGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TGATGCAAAGTC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GAGCAGCCTAAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GGCGCGTAGAAT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CCGCACTTGAAN,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CCGGATACCGCC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_TTGTTAAGAGTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_CAGACGGCCACG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_TAATTGCGCTGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CCAGTTGCTCAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GTCATTCGAAAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_CAAATCACCGGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_TCATAGTATGTG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ATAAACCTTGCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_TGAAACTAGAAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_ATTTGGGGGCCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GCTGCGTCGGCC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_TTAGGATGTACC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_TAATTGGCTCGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CCTAGGTCGGCC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GTTGGAAATCCA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_GTGGACCATTAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TCTGAACAGTGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TAGAGAGTCTTG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_TAAACATAGTCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_AAGCGTGACCGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_TGATGCCAGTCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_CCCTGACCTCGG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_TTATACACGAAC,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar6_TCAAAGAGCTCA,BC4,NaN,MG (Mueller Glia)
+Bipolar5_ATCACCCTACAC,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_TCTGTGCTTTCT,BC5D,NaN,MG (Mueller Glia)
+Bipolar5_TTTCAATATCAG,BC5D,NaN,MG (Mueller Glia)
+Bipolar4_GCCAATTAACGA,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_CAGAGCCCAGAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ATTTCAAGAAAT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_ATAAGTAATGTG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ATCTTATTAGGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_GGGACCTCAGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_CCCCACGTAAAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GTAGTGGCTGCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CTTGAAGTCACA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CATTGTGGCAGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CGTTGTTGAATA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_CGATGGACGCAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_AGTAATTGTCCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GTTGAGTGATAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AAACGTAGCGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GGCGGTGTACGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_GGAGGCACGAGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GACAGTATCGTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GGTTCCGAAAAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GTCTTTGGAGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_AAATAGCTTATG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar6_GCGCGTTTACTC,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_TCCACGTTGCCA,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_GCTTTCGTCAAG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar1_AAACCTGCTTTT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_CCTAGGTCTACT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar6_TTCTGCTATGAT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar2_CTAACCCGCTCT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar6_GTCCTTCCACAG,BC4,NaN,MG (Mueller Glia)
+Bipolar6_ACCGCATTCTTC,BC4,NaN,MG (Mueller Glia)
+Bipolar6_GCCCTAACGTGA,BC4,NaN,MG (Mueller Glia)
+Bipolar5_CAGCCCCTGTAT,BC4,NaN,MG (Mueller Glia)
+Bipolar2_TCAAAGTCTAGC,BC4,NaN,MG (Mueller Glia)
+Bipolar6_ATCACGAGAACG,BC4,NaN,MG (Mueller Glia)
+Bipolar5_AGTTAGAGTGTG,BC4,NaN,MG (Mueller Glia)
+Bipolar6_CTTCCGGATTTN,BC4,NaN,MG (Mueller Glia)
+Bipolar6_GCTACACTCTCC,BC5A (Cone Bipolar cell 5A),NaN,MG (Mueller Glia)
+Bipolar5_ACGCGATTCCAA,BC5B,NaN,MG (Mueller Glia)
+Bipolar6_GAGGATTGTCTT,BC5D,NaN,MG (Mueller Glia)
+Bipolar5_ATTGGCGAGATT,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_GAACCCTTTACA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_GAACCTTTCGAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_GGTCATATTCGN,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_TACGACGATCAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_ACGTTCGGATGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ATAACGCGACAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_TTGTCTGAACAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TATTTATCTAGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_ATCCTTAGAATA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TACGATTGGGAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_CTGAGGAGGGCG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar3_CCATCGGGAGTG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar6_TACAGACGACAT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar3_GAACCCAAGGAT,BC5A (Cone Bipolar cell 5A),NaN,MG (Mueller Glia)
+Bipolar6_CATGGCTACTTC,BC5B,NaN,MG (Mueller Glia)
+Bipolar6_GGTGTGCTACCA,BC5D,NaN,MG (Mueller Glia)
+Bipolar5_TATGGCACGATC,BC5D,NaN,MG (Mueller Glia)
+Bipolar2_GTTCTCACATTT,BC5D,NaN,MG (Mueller Glia)
+Bipolar4_AACATCGTATTC,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_AGCATCCCGGGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GATGTCATTCGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ATGTGGAGCCAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_AAAATGTCTATC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_CTAATTCGATCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_CGGGTTTCAGAC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CTTACATTTATC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_TTCGATTCTATT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ACCTCACCAAGG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_TGCTTATTTGTC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_AAAAAGGGAGTG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_GTATGTTCTCTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_AGGCAAAAGGCA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_AAAAGAGCTACG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_CGTCTAGAGCAG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_GCCACCTTTCGA,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar4_GCCAAGATGGTT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar4_CCCACTTAGGGG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar3_ACGTCAACTCTT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar5_CGGTAATTTATT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar2_GCTCGCAGTCGC,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar3_ATAAGAGGAAAG,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar2_TATCCGCCTAGT,RBC (Rod Bipolar cell),NaN,MG (Mueller Glia)
+Bipolar2_TGACGCCCTTTG,RBC (Rod Bipolar cell),NaN,BC4
+Bipolar6_GCATCCGACGCC,BC4,NaN,BC4
+Bipolar6_GCCACACTAATC,BC4,NaN,BC4
+Bipolar1_TTAGTAAGCTAG,BC4,NaN,BC4
+Bipolar3_GGGACTAAAAGC,BC4,NaN,BC4
+Bipolar5_CCGTTCGGGATT,BC4,NaN,BC4
+Bipolar6_TCCGCCGTCTTC,BC4,NaN,BC4
+Bipolar4_AGGCAGGCTAGC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar6_CTGGTTGAATAG,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar4_TAATAGGTCCCT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar1_CCCCGCCCGGAG,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_TCAGCTTGGAGA,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar3_ATTTCGGTTGCT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_GTGATTTCGCTA,BC5B,NaN,BC4
+Bipolar2_GTCGCATTTCAC,BC5C,NaN,BC4
+Bipolar3_TTCAGTTGAGCC,BC5D,NaN,BC4
+Bipolar6_GCCGATGCAGTG,BC5D,NaN,BC4
+Bipolar5_CCACGCCGTATA,BC5D,NaN,BC4
+Bipolar6_GACCGTGCTGGC,MG (Mueller Glia),NaN,BC4
+Bipolar5_GTTAACAAGGCG,MG (Mueller Glia),NaN,BC4
+Bipolar6_GAGGTTAGAGCN,MG (Mueller Glia),NaN,BC4
+Bipolar5_GGGTTCGTTTAT,RBC (Rod Bipolar cell),NaN,BC4
+Bipolar1_GGAGACTAGAAT,RBC (Rod Bipolar cell),NaN,BC4
+Bipolar2_CATAGCCCTAAC,RBC (Rod Bipolar cell),NaN,BC4
+Bipolar6_GTCTGACGGGGT,BC4,NaN,BC4
+Bipolar5_CATCAAATCGTA,BC4,NaN,BC4
+Bipolar5_GCATGGAGTCTA,BC4,NaN,BC4
+Bipolar6_AGATTCTACGCC,BC4,NaN,BC4
+Bipolar1_AAATACCCCCCG,BC4,NaN,BC4
+Bipolar6_CTTCTCAGAGCT,BC4,NaN,BC4
+Bipolar6_ATCCTTCCACAG,BC4,NaN,BC4
+Bipolar5_TTTAAGGGTACN,BC4,NaN,BC4
+Bipolar5_ATTGCCCGAGCC,BC4,NaN,BC4
+Bipolar6_GCTTGGACCTCG,BC4,NaN,BC4
+Bipolar1_AACAGGCTCGAG,BC4,NaN,BC4
+Bipolar5_GTGCTACATCAG,BC4,NaN,BC4
+Bipolar5_CAATGGATTAGA,BC4,NaN,BC4
+Bipolar5_GGACTAAATTCA,BC4,NaN,BC4
+Bipolar2_CTCCGATATAGC,BC4,NaN,BC4
+Bipolar6_CATCTGGCGCCC,BC4,NaN,BC4
+Bipolar6_ATCGCGAACTGG,BC4,NaN,BC4
+Bipolar5_GAAAGCGGGGTA,BC4,NaN,BC4
+Bipolar4_TTAGCAGCAGGC,BC4,NaN,BC4
+Bipolar6_GTGTCCATTGAC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar6_TGTCCAACTCGC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar3_ATATGCGGGTTC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_ATATCCAGCTAT,BC5B,NaN,BC4
+Bipolar6_GCTAGCAGATTG,BC5B,NaN,BC4
+Bipolar5_ACGATTTGTTGG,BC5B,NaN,BC4
+Bipolar1_CGTGAGAGGTCG,MG (Mueller Glia),NaN,BC4
+Bipolar4_CAACTGGGTAAC,MG (Mueller Glia),NaN,BC4
+Bipolar4_AGCCCTTTATCA,MG (Mueller Glia),NaN,BC4
+Bipolar5_CGCAGGCAAGGG,BC4,NaN,BC4
+Bipolar5_AAGTGCACCGTT,BC4,NaN,BC4
+Bipolar6_ACGAATACCTAA,BC4,NaN,BC4
+Bipolar6_ACTCGCGCCTGC,BC4,NaN,BC4
+Bipolar2_GACGGGGAATCC,BC4,NaN,BC4
+Bipolar6_CCAGCTGACTAA,BC4,NaN,BC4
+Bipolar3_GCTGTGTTAGAG,BC4,NaN,BC4
+Bipolar6_AAACGGGCGTGA,BC4,NaN,BC4
+Bipolar5_CCAGTCGCATCG,BC4,NaN,BC4
+Bipolar3_TTTACCGAGCTT,BC4,NaN,BC4
+Bipolar1_TAACGTAGCCTT,BC4,NaN,BC4
+Bipolar5_TCCCCAGGGATN,BC4,NaN,BC4
+Bipolar6_GTGGCGCTGGAC,BC4,NaN,BC4
+Bipolar3_CCGGCAGTTTCT,BC4,NaN,BC4
+Bipolar3_TTCAGCCATGGC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar2_CCTTAATGCGTG,MG (Mueller Glia),NaN,BC4
+Bipolar6_ACTAAGGCGAAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AAGTGACGGAAN,BC4,NaN,MG (Mueller Glia)
+Bipolar6_TTATACATTATT,BC4,NaN,MG (Mueller Glia)
+Bipolar6_TTTCGCCGGCGT,BC4,NaN,MG (Mueller Glia)
+Bipolar5_GTCGATCACACA,BC4,NaN,MG (Mueller Glia)
+Bipolar6_CGTCGCCGTGGG,BC4,NaN,MG (Mueller Glia)
+Bipolar6_TCGTTTAATATC,BC5A (Cone Bipolar cell 5A),NaN,MG (Mueller Glia)
+Bipolar5_CTGAATAATGAC,BC5A (Cone Bipolar cell 5A),NaN,MG (Mueller Glia)
+Bipolar5_CTATACCTGGTA,BC5A (Cone Bipolar cell 5A),NaN,MG (Mueller Glia)
+Bipolar4_GGGAGTAGCTAT,BC5A (Cone Bipolar cell 5A),NaN,MG (Mueller Glia)
+Bipolar5_TAGTACCTCAGA,BC5B,NaN,MG (Mueller Glia)
+Bipolar3_ATTCAAGGCACT,BC5B,NaN,MG (Mueller Glia)
+Bipolar6_CTTGGACTCCTN,BC5B,NaN,MG (Mueller Glia)
+Bipolar5_TATGATTAAGCG,BC5C,NaN,MG (Mueller Glia)
+Bipolar5_ATACGGGGCCTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ATGTGTCTAGAN,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CAATGTAACTCN,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CACTCAGTTCAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CTACTGGCGGTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_TCCACCTGCTCG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_TGGCCTCTTGTC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_CTTTAACTACAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GGTTCAGCCTTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_ATCGCCTTACTC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GGAGATAATAGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GATTCTTGTCTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_CCCTCCGCTTCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CTCTAACAGGGT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_AAGTAACTACTT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_ACGTGCGTACGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_GGCGCAACAGCC,MG (Mueller Glia),NaN,BC4
+Bipolar2_TAACTGACGGTA,BC4,NaN,BC4
+Bipolar5_ATCCCGTAAAAC,BC4,NaN,BC4
+Bipolar4_ACGTCTATCTAT,BC4,NaN,BC4
+Bipolar5_TAGGAATCTCTT,BC4,NaN,BC4
+Bipolar5_CGGCTGCGGATC,BC4,NaN,BC4
+Bipolar5_GCTGCGCCGATG,BC4,NaN,BC4
+Bipolar5_TGTTCGGGCCAC,BC4,NaN,BC4
+Bipolar5_TGCGCCATATGT,BC4,NaN,BC4
+Bipolar6_TATGTCATGCGC,BC4,NaN,BC4
+Bipolar5_ACTATACAGGCA,BC4,NaN,BC4
+Bipolar6_GCTCGCGCCTGC,BC4,NaN,BC4
+Bipolar6_TCCAACCCTGTT,BC4,NaN,BC4
+Bipolar1_TAGAAGTTTACG,BC4,NaN,BC4
+Bipolar2_TGCCGAGGGACT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_CTGCATCTCTAA,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_TGTCTGGTGAGT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_GCACCCATTCCG,BC5B,NaN,BC4
+Bipolar3_ATTTGCCAGGGC,BC5B,NaN,BC4
+Bipolar6_ACCTAACTTACT,MG (Mueller Glia),NaN,BC4
+Bipolar5_CACGAGTCGCTA,MG (Mueller Glia),NaN,BC4
+Bipolar2_CGTCTAATTCCC,MG (Mueller Glia),NaN,BC4
+Bipolar2_CAGTCCCTCATC,MG (Mueller Glia),NaN,BC4
+Bipolar5_TGACCGAAATCC,MG (Mueller Glia),NaN,BC4
+Bipolar4_TACACAATGATA,MG (Mueller Glia),NaN,BC4
+Bipolar5_CTTTCGGAGCTA,MG (Mueller Glia),NaN,BC4
+Bipolar1_CGTCATACCAAA,MG (Mueller Glia),NaN,BC4
+Bipolar5_TTGTAGGTTGAA,MG (Mueller Glia),NaN,BC4
+Bipolar5_CGCACCTCGAAG,BC4,NaN,BC4
+Bipolar5_ATTTGTAAAGAG,BC4,NaN,BC4
+Bipolar6_TTATTATCACTA,BC4,NaN,BC4
+Bipolar2_CAGCAGCGAACC,BC4,NaN,BC4
+Bipolar1_ATATTGAGGAGC,BC4,NaN,BC4
+Bipolar6_GCGGACCTCTCC,BC4,NaN,BC4
+Bipolar3_TTCGAAAAGACT,BC4,NaN,BC4
+Bipolar6_GACGGTGTCAAG,BC4,NaN,BC4
+Bipolar5_GATGGTATGGAG,BC4,NaN,BC4
+Bipolar2_TCCGGGTGCTCT,BC4,NaN,BC4
+Bipolar4_AGATCGACTCCC,BC4,NaN,BC4
+Bipolar6_AGAATGACGGTN,BC4,NaN,BC4
+Bipolar5_GACAGCAGCACA,BC4,NaN,BC4
+Bipolar5_TTTATCCGCTAA,BC4,NaN,BC4
+Bipolar4_AGTGCCACAGGA,BC4,NaN,BC4
+Bipolar1_TGTTAACGTTCG,BC4,NaN,BC4
+Bipolar5_GACCTCCATTAA,BC4,NaN,BC4
+Bipolar5_AGTCATGTCATG,BC4,NaN,BC4
+Bipolar3_GTTAGGATGATA,BC4,NaN,BC4
+Bipolar1_GGGCGACTTCGA,BC4,NaN,BC4
+Bipolar6_CGCGCAATAGTT,BC4,NaN,BC4
+Bipolar5_TCTTGCACATGN,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_AATTATTATTAG,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar2_GCAAACTCCTTC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar1_TAGGCATTCGAC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar1_GGTCACTTAGTT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar6_ACCGACTAACAT,BC5B,NaN,BC4
+Bipolar5_GAGGATAGCTAT,BC5B,NaN,BC4
+Bipolar4_GAGCTGTTGTCC,BC5C,NaN,BC4
+Bipolar3_CCAAGTTATCAC,BC5C,NaN,BC4
+Bipolar6_GTAGGGACCTAT,BC5C,NaN,BC4
+Bipolar6_AATCCCGCTAGN,BC5C,NaN,BC4
+Bipolar3_CTCTACTAGGCG,MG (Mueller Glia),NaN,BC4
+Bipolar5_CACACTTTTTGT,MG (Mueller Glia),NaN,BC4
+Bipolar6_TTCGCTTTTTGN,MG (Mueller Glia),NaN,BC4
+Bipolar6_TGTCCGGAATAT,MG (Mueller Glia),NaN,BC4
+Bipolar3_TACCTAAGAAGG,RBC (Rod Bipolar cell),NaN,BC4
+Bipolar5_TTATGTTGAGTG,BC4,NaN,BC4
+Bipolar5_GTTACTTGTCCC,BC4,NaN,BC4
+Bipolar6_ACCACACTAATC,BC4,NaN,BC4
+Bipolar4_GCCAGCCTCGCT,BC4,NaN,BC4
+Bipolar5_CATCTTGAACTT,BC4,NaN,BC4
+Bipolar4_TAATCCTCCCGC,BC4,NaN,BC4
+Bipolar5_CTTACAAATTCC,BC4,NaN,BC4
+Bipolar6_CATACCTTGTTA,BC4,NaN,BC4
+Bipolar5_TAGCGCGCAGTA,BC4,NaN,BC4
+Bipolar2_TGCATATACTCT,BC4,NaN,BC4
+Bipolar1_AATTGATGCTCC,BC4,NaN,BC4
+Bipolar4_CACAGATTAGTC,BC4,NaN,BC4
+Bipolar4_GTTAGAGGTCTT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar3_TATGCCGGTGAC,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar6_CATATGCCAAAN,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_CGCTGCCGGGCG,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar5_CGAGCAACGGCT,BC5A (Cone Bipolar cell 5A),NaN,BC4
+Bipolar6_TATATGGCTGAG,BC5C,NaN,BC4
+Bipolar5_GCTCAGTGATCA,BC5C,NaN,BC4
+Bipolar5_GCTTTCGGGTTT,MG (Mueller Glia),NaN,BC4
+Bipolar6_TATCTAATAGCT,MG (Mueller Glia),NaN,BC4
+Bipolar5_CAGTTATGTTCA,MG (Mueller Glia),NaN,BC4
+Bipolar2_TAGTCCAGGGAT,MG (Mueller Glia),NaN,BC4
+Bipolar6_TTGTCGTCCCAT,MG (Mueller Glia),NaN,BC4
+Bipolar5_GTCTCACTGAAG,MG (Mueller Glia),NaN,BC4
+Bipolar5_GAAATACCTAGC,MG (Mueller Glia),NaN,BC4
+Bipolar4_AAGTGCGTCTAG,MG (Mueller Glia),NaN,BC4
+Bipolar1_GTGGGAAGTATT,MG (Mueller Glia),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CGGGACGGCTAA,BC2,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TAAGTGTCCAAA,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AACGACAAACGA,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GTTTCCGGACTT,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TATACAGCGTCT,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AATATCAAAAAC,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TAGATCCCGATG,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GCCATGAGACGT,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TAAGAACCCCAG,BC4,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_AGCCGGAATTAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_GGTGTCCATCTG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_ACGCCCTACCCT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CTTCTGCAGCGN,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TGACAACCAACA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_CAGAGACACCTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTAATCAGTGGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TATAGGTAGACC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CGATGTTAGGTT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TGTCGCCATCGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GACTCTCCAACG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GTGCACTAGCGA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ATTCCAGTTCCA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GGACCATATCCC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CTAGGCCTTCTT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AGCTCAGCGGTA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GCGGTCACTGCC,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CAATGCGTTGAA,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AGCGCGTGAGAA,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ATTGTCCGAACT,MG (Mueller Glia),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TGCTTATATGCN,MG (Mueller Glia),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AATATTCAGAGC,MG (Mueller Glia),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TGTTGTGTGTGT,MG (Mueller Glia),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TTCGGTACGGAT,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GTGGGTGAACTA,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ACGTCGGTGGAT,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGGTCGATGGAA,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GCGGGCTTATAA,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTTGAGGCACTC,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGCATAAAGCCC,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AACGCACCGGGT,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TGGGAGACCCCA,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_ATCTCAACATGG,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GGTAGTACGAAA,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCTTGTTCGCTC,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_AGTGCTACGCAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGTTCCAGAGAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_AACTAAAACATC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_TGGAGGCTTCCG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGCGCCTACAAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CCCCCATTTCAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GTTTGCCCGGAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TAACCACATTCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GCTAACTTGGCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TTAAATCGCCTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GGCTACCCAGCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_CCCGATCCGGAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_CGGTTAGAAATC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_ACGGCTTCTGTT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTACACCTACGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AAAGTTTGTAAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CAGGTGCAATGG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_CATCAGCCTCCG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TGCGTGTACGGG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTTATAAAGGAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TCGTTCAGTGTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ACAAATTTCGAN,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TGCAATCTGCCG,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TGGCACGTACCT,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GAACTTGCCAAT,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AGCGTTGGTCTN,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTCTCAACGAAG,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CTTCTACCTCTA,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GACTAGAGGGTN,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_CCGGGCGCTTAG,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_CACTGTGGAAAG,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_GATATCAGCGGT,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GTCGACCTGCCT,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_CGGTGATTGGGT,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GCCCCGACGATA,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_GCGACTTATCCT,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GTAATCTTACTC,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCGTAGAAGGGA,BC5D,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GAGCAAGAAACT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GTCCCAAGCCAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGCGCGCCAATG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ACCGATACAGCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_CCAAGATTCTTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_GAAAATCCCTTC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AAGAATGTTCAN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTATGGGAACTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_CCAGGGATGTCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TCCGGTCCTTCT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCGTAGCTATGA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_CTACTCCTAGGA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GGCCTCCCTGGC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGCCCATCGCCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCGTCCAAGGAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_TCGTTTCACTAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TCCGTGCCGGGN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_TTGCCTGGAGCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_AGCAAGTCCATT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_GGCTATTGAGCN,BC5B,NaN,BC5D
+Bipolar5_CCGAAACAGGTG,BC5B,NaN,BC5D
+Bipolar5_GAAGCAAGGCTA,BC5B,NaN,BC5D
+Bipolar6_ACAAAACGGAGA,BC5B,NaN,BC5D
+Bipolar6_TACCAAGGCCAC,BC5B,NaN,BC5D
+Bipolar6_ACCTCTGTGCGC,BC5B,NaN,BC5D
+Bipolar4_CAACTCCTCTGC,BC5B,NaN,BC5D
+Bipolar6_TAAGGGCCAAAC,BC5B,NaN,BC5D
+Bipolar6_AGTCCTACGGTA,BC5B,NaN,BC5D
+Bipolar5_CACCTGAAATCA,BC5C,NaN,BC5D
+Bipolar5_TTGCAAGTTCCG,BC5C,NaN,BC5D
+Bipolar4_TATTCTCGTGAC,BC5C,NaN,BC5D
+Bipolar6_ACTCATACGGCC,BC5C,NaN,BC5D
+Bipolar1_CCGCTTACACTT,BC5C,NaN,BC5D
+Bipolar4_GTTGTCCAGGCA,BC5D,NaN,BC5D
+Bipolar6_GGGTGTATTCGT,BC5D,NaN,BC5D
+Bipolar5_GTGGGGTTATAA,BC5D,NaN,BC5D
+Bipolar1_TAAATCGATAAC,BC5D,NaN,BC5D
+Bipolar6_TCGTAGTGTTAC,BC5D,NaN,BC5D
+Bipolar6_CGGTAGCTTAGC,BC5D,NaN,BC5D
+Bipolar5_GAGACTACGTAA,BC5D,NaN,BC5D
+Bipolar3_CTTCGCATGGGC,BC5D,NaN,BC5D
+Bipolar1_GTATATGACCGT,BC5D,NaN,BC5D
+Bipolar6_AGCAACCGCGCT,BC5D,NaN,BC5D
+Bipolar1_TGTGGCTACCTT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar2_ATTATATGTTAG,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar2_CTTAATGCGCAT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_GTCCGCCGAAGA,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_TTTGTTTAAGAN,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar4_TCCGAGTGAACG,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar1_AGAGACCCGGTA,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_GCTATCCGAACT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_AAGAGCAGTTTA,Doublets/Contaminants,NaN,BC5D
+Bipolar5_GCACTTCCCTCC,Rod Photoreceptors,NaN,BC5D
+Bipolar5_CAATCCCTAACC,Rod Photoreceptors,NaN,BC5D
+Bipolar5_TGTAAAGCTCGN,Rod Photoreceptors,NaN,BC5D
+Bipolar5_AGCGATGTTAAG,BC5B,NaN,BC5D
+Bipolar6_AACATCATCCTA,BC5B,NaN,BC5D
+Bipolar6_GGTGCCCTCCGG,BC5B,NaN,BC5D
+Bipolar4_GACCTATAGAGG,BC5B,NaN,BC5D
+Bipolar5_GTCCTTATAAGG,BC5B,NaN,BC5D
+Bipolar5_TAGAATTTCGAT,BC5B,NaN,BC5D
+Bipolar2_GATCCTGAAATC,BC5B,NaN,BC5D
+Bipolar5_TGGAGTGACTAT,BC5C,NaN,BC5D
+Bipolar3_ATTCTAAATAGC,BC5C,NaN,BC5D
+Bipolar1_GGCGATCTGGGC,BC5C,NaN,BC5D
+Bipolar6_AACCACTCGGAA,BC5D,NaN,BC5D
+Bipolar5_GAAGAATGGCAA,BC5D,NaN,BC5D
+Bipolar5_AAAAGCGAACGN,BC5D,NaN,BC5D
+Bipolar5_GTACTATCATCC,BC5D,NaN,BC5D
+Bipolar5_CATAACCTCTAN,BC5D,NaN,BC5D
+Bipolar6_AGAAGGCACGCA,BC5D,NaN,BC5D
+Bipolar3_CGGGCCTTTCTT,BC5D,NaN,BC5D
+Bipolar5_TCCAGTTGATTT,BC5D,NaN,BC5D
+Bipolar6_ATAAGACCTACT,BC5D,NaN,BC5D
+Bipolar3_TTGAGTTCGTGG,BC5D,NaN,BC5D
+Bipolar6_ATCCCGCTTTCG,BC5D,NaN,BC5D
+Bipolar6_ATCCCGCCAATT,BC5D,NaN,BC5D
+Bipolar6_GCGCACCAAGGG,BC5D,NaN,BC5D
+Bipolar5_TCTACACACCGC,BC5D,NaN,BC5D
+Bipolar5_GCTAACCGTATA,BC5D,NaN,BC5D
+Bipolar1_TGGACACGGTCT,BC5D,NaN,BC5D
+Bipolar3_ATGCCGTGCCGT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_AGCATGAGGCTC,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar4_CTATTTTTCTAT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar6_TAATCATGTTGT,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_TAAAAGAGGATN,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_TTCAATTCGTAC,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar6_CTCTTCCTTCGC,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar5_CTAAGACGTGCN,BC8/9 (mixture of BC8 and BC9),NaN,BC5C
+Bipolar5_TGCAGATTATCG,BC5B,NaN,BC5C
+Bipolar3_AGGGTGTTAAGG,BC5B,NaN,BC5C
+Bipolar5_GATGACCCAGCG,BC5B,NaN,BC5C
+Bipolar5_GAGGTAGGACAG,BC5B,NaN,BC5C
+Bipolar2_TGGCCAACGCGC,BC5B,NaN,BC5C
+Bipolar5_GAGGAGCGCCGC,BC5B,NaN,BC5C
+Bipolar6_CAGGTCGGGCGA,BC5B,NaN,BC5C
+Bipolar5_GTTCTGAGTACC,BC5B,NaN,BC5C
+Bipolar1_ACAGTGTCAGGA,BC5B,NaN,BC5C
+Bipolar6_TTCTCCGAGGCC,BC5B,NaN,BC5C
+Bipolar5_GTGTCACTTCCT,BC5B,NaN,BC5C
+Bipolar5_AACCCCTTTGAA,BC5C,NaN,BC5C
+Bipolar2_TTTTATATGCTG,BC5C,NaN,BC5C
+Bipolar5_TCCGCGGTAAAA,BC5C,NaN,BC5C
+Bipolar6_TCCTCGGCACCT,BC5C,NaN,BC5C
+Bipolar4_CTAGCTCCTGGA,BC5C,NaN,BC5C
+Bipolar4_GAGCCGTCGAAG,BC5C,NaN,BC5C
+Bipolar5_AATATACTCTAN,BC5C,NaN,BC5C
+Bipolar2_CTCCAAACTTAC,BC5C,NaN,BC5C
+Bipolar5_AACTAGTCGCTC,BC5C,NaN,BC5C
+Bipolar6_TGTTTACCCGTG,BC5C,NaN,BC5C
+Bipolar6_AGATCTTTCCAG,BC5C,NaN,BC5C
+Bipolar3_GGTGAAACGGAA,BC5C,NaN,BC5C
+Bipolar6_CGGTTAAAGTAG,BC5C,NaN,BC5C
+Bipolar6_AATCGTTGAGTG,BC5C,NaN,BC5C
+Bipolar6_TCAGAGTGTCCC,BC5C,NaN,BC5C
+Bipolar4_CGCGCACAGCCC,BC5C,NaN,BC5C
+Bipolar5_GCCGAATCGATA,BC5C,NaN,BC5C
+Bipolar6_GTTATCCTCCCN,BC5C,NaN,BC5C
+Bipolar6_ACGGAGTCCCGT,BC5C,NaN,BC5C
+Bipolar4_TGCCCATTCTTT,BC5C,NaN,BC5C
+Bipolar5_TACGCACAGCCC,BC5C,NaN,BC5C
+Bipolar4_TCCAGCGCGCTT,BC5C,NaN,BC5C
+Bipolar6_GTGAGCGATGTA,BC5C,NaN,BC5C
+Bipolar5_GTTCTGTTCACN,BC5C,NaN,BC5C
+Bipolar5_AGCCGGACGCAA,BC5C,NaN,BC5C
+Bipolar4_AACAAGGAACCA,BC5C,NaN,BC5C
+Bipolar4_TCCGGCTAGAAA,BC5D,NaN,BC5B
+Bipolar5_GTGTATGGCCTG,BC4,NaN,BC5B
+Bipolar5_ATTAGTGCTAAA,BC5B,NaN,BC5B
+Bipolar6_ATGGTGCGAAGT,BC5B,NaN,BC5B
+Bipolar6_CCTTGTGTCCGN,BC5B,NaN,BC5B
+Bipolar5_AAAGCTATTACA,BC5B,NaN,BC5B
+Bipolar3_GAGTCTTAGCTC,BC5B,NaN,BC5B
+Bipolar5_CGGATCGAAGCT,BC5B,NaN,BC5B
+Bipolar6_TACATCCGCCAA,BC5B,NaN,BC5B
+Bipolar5_TTGGCCTGTCAA,BC5B,NaN,BC5B
+Bipolar5_GGTCCGAAATCA,BC5B,NaN,BC5B
+Bipolar4_TACTACCCTCAC,BC5B,NaN,BC5B
+Bipolar5_AGCCATAAGGTC,BC5B,NaN,BC5B
+Bipolar6_TTTGATACGTCA,BC5B,NaN,BC5B
+Bipolar5_GAGTACGTTCCG,BC5B,NaN,BC5B
+Bipolar6_GATATAGATAAC,BC5B,NaN,BC5B
+Bipolar5_GTTCAACAGACG,BC5B,NaN,BC5B
+Bipolar5_GGTCACCGAGAT,BC5B,NaN,BC5B
+Bipolar5_GGTTCCCATAGT,BC5B,NaN,BC5B
+Bipolar6_GCGTAGGTTCTT,BC5B,NaN,BC5B
+Bipolar6_TTTCCTAGGGTC,BC5C,NaN,BC5B
+Bipolar4_CCGGCCCAAGCC,BC5C,NaN,BC5B
+Bipolar5_ACCAGTGAAGCN,BC5C,NaN,BC5B
+Bipolar6_TTTTCACGTAAN,BC5C,NaN,BC5B
+Bipolar5_CAGTTCACATAA,BC5C,NaN,BC5B
+Bipolar5_CGACACTGAGCT,BC5C,NaN,BC5B
+Bipolar4_AAGCTTATGGGT,BC5C,NaN,BC5B
+Bipolar3_GGCACCACTGCA,BC5C,NaN,BC5B
+Bipolar6_TTCTACTTGGAC,BC5C,NaN,BC5B
+Bipolar6_CCACCTTACGGC,BC5C,NaN,BC5B
+Bipolar2_ATTATCACGTGA,BC5C,NaN,BC5B
+Bipolar6_CCATTGTAAGCA,BC5D,NaN,BC5B
+Bipolar6_GGTATGCCTTCN,BC8/9 (mixture of BC8 and BC9),NaN,Rod Photoreceptors
+Bipolar3_TGTAGCTAAATC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar2_CACAATGCGAGC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar6_ATCATTCCTACT,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar2_AGACACAGGTAC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar1_GGCCAGGAGTTT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar1_TCGATGTTTCTT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar2_TCACCAATCTAG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_TACGGTATTGTG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GCACTGGCGGAG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CAATTTTTTCAC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_AGGTTCTCGACC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CGCTACTTAAAN,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CGAGGAATTTGT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_AGTTAGTTTGAA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GCTCCGTTGTAT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_CCCAAGCTGGAC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GGCTCCGATCAC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar3_TGCTAAATGGTT,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar3_TTCCCCCGTTTA,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar2_GGTATGTTTCGA,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar1_TTATGCAGATTC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar4_TAACGTAGTCTT,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar1_CACTTATTATAG,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar4_AGACGGCCTGCC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar5_GGCCGCCTGACC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar3_GACGACTCTGTG,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar1_TGATAACGCAAC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar3_TTGGCCCAGCAC,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar1_ATATTGCTCGTT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar1_CCCGACGGCGTG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar2_CAGACACAACTC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar2_ACTTTGTTGGAG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar2_GTCATCGACTCG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar2_GGAGGAAGGAGC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_GGCTAGGATGTT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_ATATGGCTTGGA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_GATAGTCAAAGA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_CGCTATCGTGAT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_ATGCTTCAAGAC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_ACGTCAATATTG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_TACTAAGTCTAG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_GAGAGATGCGTA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar6_GTCTCATCTTCT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar5_CCCACATCCCAG,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar2_CAACCAAGAAAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_CATATATTAGTG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TCATAGACTTGN,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_TGCAGCGAGTAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_CGTGCCTAGCAT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_ACATCTCCCAGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GATTACATTGGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GAAAGGCCGGAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TATGCCAGCTGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GAGGGTCGATGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GCGGTTAAAGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTCGGCTCGCAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CTCGTGTACGCG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GCCACATCAAAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GAACAGGAGTCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_CTGGGGGAGACA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GTCGCATGTAGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_AGGCTGTAAGCG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_AATAACCGACGA,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_GGCCTCTAGATN,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_AGACTCTACTTT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_TTTTATGTTAAG,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTTCCTAATGAT,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar6_ACGTAGCAGCAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_AGCTACCACTCG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_ACTATTAATCTG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTGCGTATGCTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_CGGCCCTACCGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GGAAAGGGATGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_ATGTGCCGAGCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TTGGGTTCCGGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_AGAGGGTAGGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_ATTTGTATCTCC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GCCACTTTTCTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_CATGCATCGACG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_AAACAAATCTGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TTCATCCAGGAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TACTGGGAGACT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_GCTGTATTCTAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_ACATTTGGGGAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GCGGCGCCTATA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CACGGGAGAATG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_GCGCTCAATAGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_CCATCACCAATG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TTCCCCCAAAAN,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar5_ATCCAAAGCTCC,BC5C,NaN,Rod Photoreceptors
+Bipolar4_TTGGTTCGCCTA,BC5C,NaN,Rod Photoreceptors
+Bipolar5_GATGCAGACAGC,BC5D,NaN,Rod Photoreceptors
+Bipolar6_CCGCTAGAAGCA,BC7 (Cone Bipolar cell 7),NaN,Rod Photoreceptors
+Bipolar4_AGTGAAGTAGTG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_TCCTATAACGAA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_GTGAGGTAGATC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_AGTATTTACACG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_GACCTGAACTGC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_TCCTTTCAATGG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_AAGGTGACGGAT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GTTCTTCGCTCN,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_AGCATAATTTGG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_TTAACGCTAGCT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_ACTCTAGCTCCA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CTATCGTTAGAC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CGCACCACGTAA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CCTGTCTCAACC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GGTCTCCTTTTT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_TTTCTCTTTGTN,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_ACACCTTCTTAT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GCGGCGACGCAT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GACCCCTTTGAA,BC5C,NaN,Rod Photoreceptors
+Bipolar5_CAGCCCGTGTTC,BC5C,NaN,Rod Photoreceptors
+Bipolar2_GTGGTTAACGAT,BC5C,NaN,Rod Photoreceptors
+Bipolar5_TTAATGTCAACT,RBC (Rod Bipolar cell),NaN,Rod Photoreceptors
+Bipolar3_CGGGGCAGTATC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar3_TTCTGGGTCCCT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_ATGGCCGTCACG,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_AGCCTCGCTACA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_AGTTCCGCAGAA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar4_GGTCCAAGTAGC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CCATCTAAATGC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GTACAACCGGGC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CTGCCTCCCCTC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CAAATGCTAGGA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_TCCGAGATAGCA,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_ATGATCCTACAT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GTAGTCACTAAC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GCAAACATCCCT,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_GGCCGACAGCCC,Rod Photoreceptors,NaN,Rod Photoreceptors
+Bipolar5_CTCGAAGCAAGG,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar5_CTAAATGATGAT,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar2_GGTGGGCTATTA,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar3_GTGCGGAGGGTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GTCACACCTCGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TGTAAGCGACAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_ATTGCCCTATAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TCAAGATGAGAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GACCGCTGCCTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TGTTGGACACTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TATAGGAGCTCG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_ACGTTCCCGCAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CACGCGGATCAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GAGCTTGCTTCA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_CTCGTAAATATT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_ACCATGTACCAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TATGGAGGGGTA,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar2_CCCCCATAGAAC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar2_AGGGCGCAAATC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar5_TTGGCCGTGCAG,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar5_TTTACAGAGCTC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar4_CGACCATTCCGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GTGTGACGATGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TCGCCCACGATG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CCAATTCAATGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GCCACTAGATTN,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTAACTGTTTTT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_AGGATCGCTCCG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CCCACTCCGTCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_ATCCGCCAGGAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_CAATGAGAGATA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TAATGGTGGCAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_GTCGGCGGATCA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TTTTAGCGAAAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_CGCTTAGCTAAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_TTCCCCCACAGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_CGTTTAAAGTAC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GAACGTGTACTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_GCGTATGGTGGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_AACGCTCAACCA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_ACCGCGCTTCGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GTGAGCCCGGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TGTGCTGACTAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TATCGACCTGTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GACATGAATTCA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_GCCAAGAACTGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TCACCTATTCCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TCTATCAGAGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_GATCAAGAGCTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTGCGACTACCC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GCTTATAAGGAG,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar4_GTCAAAACCGAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_CCGCGGACGGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CACCCACCTGCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_ATATACAATCGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GAAATGTCAGAT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_ATCTAATCAGAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TGCATCTTACGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GCTATGAGATAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GAACTCGTTCGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_CAGGTAGACGCC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TCGACCCCGCTG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTTCCGGACCTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_ACTTCCCAGATG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CATTCCCGCTCA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TCACACTTCTCC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GTTAGACCATGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TTACATCGAATT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_ATACACCGCTAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_CTGATGGGTCGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CTGAAAGCTTTT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_GAGGAGTAGGTT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_CTTGTGCATGGA,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_CTGGGACTAGAC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_GCTAGTGATGTA,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_CGTGCCCCTCTA,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_TTCATCTCCACG,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_AAGCCGAACTCT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_GTTTCCGTATGC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_ATGCTCCCGTAG,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_ACGATTGCAGCC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar6_ATACGGTTTGAC,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar6_GGTCTAGTAAGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_CGACCTCGAGAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TTCGCCTAGGAT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_CACATAGGCGTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GGTTCGAAGGTT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_AGCCAAACTGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TACTCCCCCGGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_CATCTCGTCTGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GCTCTTTAGCAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GACACTTGGATA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TACAAGGGCCAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_ATGCTTAGTGAT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_GTTGGCACAAAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_CAACGACTCTCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TATTTCTTTGAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GGAAGCGTAGTG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TATAGAACCCGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_CAATACGCCATA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_TGACAACTCAGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TATAGCTAGTCC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TCCGCGCACGTT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GTTTAGGACGTT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TTCGACACTAAG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_GAGATAGCTCCC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GTCCGGTCTGTT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_AGCCGGAGGAGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_CTTTGTAGCATT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_GGATACGTTCTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_AGTAGAAGCACT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_CAGCTGCATACG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_GCTTCGAAACTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TAACGTGGAGCA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_GCCTTACACGAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_TCACCGGCCGTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_TGGCTGGTACTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_CATCATTATAAC,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar3_GAAGATCTTTGC,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar3_TGATACCATCAG,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar6_CTCGCCCCGTCA,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar5_CTAGGCCGTCGA,BC5C,NaN,RBC (Rod Bipolar cell)
+Bipolar1_TAAGTCAAACTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_ATATGCCACAGT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_CCTTATCAGGAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_CCGCTTCTGCGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_TTGCTAGCTTGG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar6_GGACGGTCCCTC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_GCCTTGCATATT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar1_TCGTCTGGACGA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar4_CTAGCGTGGACC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_CGTCGCCGAGGC,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar5_TATATGCCCGCT,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_CGTATTGAGACG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar3_ATAATGGCCCTA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TACCTTAATCCG,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_TCACATCGCAAA,RBC (Rod Bipolar cell),NaN,RBC (Rod Bipolar cell)
+Bipolar2_ACTGAACGGGGC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar2_ACGTTATCGGCT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar2_AGAATATAAGGT,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar3_AGAAACGGAGCC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar3_CATCGCATGACC,Rod Photoreceptors,NaN,RBC (Rod Bipolar cell)
+Bipolar3_GTGAGCCGACTT,Rod Photoreceptors,NaN,BC2
+Bipolar3_CTTTAGTAGTCC,BC2,NaN,BC2
+Bipolar5_CATGTCGTCCTC,BC2,NaN,BC2
+Bipolar6_TGATAGCAGGAA,BC2,NaN,BC2
+Bipolar5_GAATTCAAGGAG,BC2,NaN,BC2
+Bipolar6_TGTTCGATCTCT,BC2,NaN,BC2
+Bipolar3_CGTATCTAGCGG,BC2,NaN,BC2
+Bipolar5_AAGCGCCCGGGG,BC2,NaN,BC2
+Bipolar1_ATTCGCCGCCCT,BC2,NaN,BC2
+Bipolar6_CAGCCGACGGGT,BC2,NaN,BC2
+Bipolar4_TTAGCCCTAGTC,BC2,NaN,BC2
+Bipolar5_GCGGTATATCGA,BC2,NaN,BC2
+Bipolar3_ATGACATCTCGG,BC2,NaN,BC2
+Bipolar3_CGATGGCCTACT,BC2,NaN,BC2
+Bipolar5_TCCGACCGTACN,BC2,NaN,BC2
+Bipolar6_GGCGCACGACGC,BC2,NaN,BC2
+Bipolar6_TGTACGTATCAG,BC2,NaN,BC2
+Bipolar5_ATCAGTGCTTAC,BC2,NaN,BC2
+Bipolar3_CACCCAGGGCCG,BC2,NaN,BC2
+Bipolar6_GGCGCACACGCN,BC2,NaN,BC2
+Bipolar2_ATCTGGCTCGCG,BC2,NaN,BC2
+Bipolar6_TTGCTAGCACGT,BC2,NaN,BC2
+Bipolar5_CTATCTACAACT,BC2,NaN,BC2
+Bipolar5_TATCATGCTCCG,BC2,NaN,BC2
+Bipolar5_CCTACCCTTTCG,BC2,NaN,BC2
+Bipolar6_TTTGATAATAGC,BC2,NaN,BC2
+Bipolar5_TTCTCATTTCGT,BC2,NaN,BC2
+Bipolar5_ACACGCGTGAGT,BC2,NaN,BC2
+Bipolar5_TATTAGGCAAAG,BC2,NaN,BC2
+Bipolar1_CAAATTTAATTG,BC2,NaN,BC2
+Bipolar1_GTGTGTAAAGAG,BC5C,NaN,BC2
+Bipolar5_TCACTTAGGCGT,BC2,NaN,BC2
+Bipolar3_CACGTAAGCAAG,BC2,NaN,BC2
+Bipolar5_TTACCGGGGCTN,BC2,NaN,BC2
+Bipolar6_TTATATTATGCT,BC2,NaN,BC2
+Bipolar3_ATGCAAACGTCT,BC2,NaN,BC2
+Bipolar2_TTATGTCCGGGA,BC2,NaN,BC2
+Bipolar5_TAAGCAACAGCN,BC2,NaN,BC2
+Bipolar3_AGCTTCAATAAA,BC2,NaN,BC2
+Bipolar5_CACTAGACGCCA,BC2,NaN,BC2
+Bipolar6_TGTGCGTTCCGT,BC2,NaN,BC2
+Bipolar5_TTTGATTCCTTT,BC2,NaN,BC2
+Bipolar3_ATCAGCGAACAA,BC2,NaN,BC2
+Bipolar6_GATGTGCTTATT,BC2,NaN,BC2
+Bipolar6_GTGGCCACAGCG,BC2,NaN,BC2
+Bipolar6_TCTAGATAGGTG,BC2,NaN,BC2
+Bipolar6_ATGGCCACAGCG,BC2,NaN,BC2
+Bipolar5_TGTACAGTTTAG,BC2,NaN,BC2
+Bipolar4_CATCGACGGACC,BC2,NaN,BC2
+Bipolar2_AAGTCTCCCAGG,BC2,NaN,BC2
+Bipolar6_GCCACAAGGCAG,BC2,NaN,BC2
+Bipolar5_TTTGGGTGCTCT,BC2,NaN,BC2
+Bipolar2_GGCGTATCGTTG,BC2,NaN,BC2
+Bipolar5_GACTACTACTGC,BC2,NaN,BC2
+Bipolar3_AGTTCTCACTGC,BC2,NaN,BC2
+Bipolar1_TCTCGTGCAGTA,BC2,NaN,BC2
+Bipolar3_CTATGAAGCTAG,BC2,NaN,BC2
+Bipolar6_TAGGACTGGGCA,BC2,NaN,BC2
+Bipolar4_CGGAGGCATCGG,BC2,NaN,BC2
+Bipolar6_GTAGCATGACGA,BC2,NaN,BC2
+Bipolar2_CTGTCGAATGCG,BC2,NaN,BC2
+Bipolar1_GTTCGCGGTAGA,BC2,NaN,BC2
+Bipolar5_GCTCGCAACCCT,BC2,NaN,BC2
+Bipolar5_GTCCGACCGTAC,BC2,NaN,BC2
+Bipolar2_TTAACACGTCCG,BC2,NaN,BC2
+Bipolar6_ATTACTAGTTGN,BC2,NaN,BC2
+Bipolar6_GCTCCCTGCTGN,BC2,NaN,BC2
+Bipolar5_CTGGACCCATAC,BC2,NaN,BC2
+Bipolar1_CAAGAGTGACAG,BC2,NaN,BC2
+Bipolar4_TTGCGGCCTAAA,BC2,NaN,BC2
+Bipolar5_GCCACGCTGAAT,BC2,NaN,BC2
+Bipolar6_CGGGTGCCAGCA,BC2,NaN,BC2
+Bipolar4_CTATCACGCAAG,BC2,NaN,BC2
+Bipolar1_ATTTATTCTGAC,BC2,NaN,BC2
+Bipolar1_TTCCGGCTTTTC,BC2,NaN,BC2
+Bipolar6_CCGTCGCGCTAG,BC2,NaN,BC2
+Bipolar2_GGGGTGCCGACA,BC2,NaN,BC2
+Bipolar6_CACAGTATCAGN,BC2,NaN,BC2
+Bipolar5_AAGACTACTAAN,BC2,NaN,BC2
+Bipolar3_CACTACGTCCAC,BC2,NaN,BC2
+Bipolar5_GTAGGTAACTAA,BC2,NaN,BC2
+Bipolar5_AATAGATAAGAC,BC2,NaN,BC2
+Bipolar5_GCCGCAACGCAA,BC2,NaN,BC2
+Bipolar5_CTCAGGTATCCG,BC2,NaN,BC2
+Bipolar2_ATGCACAGTCAA,BC2,NaN,BC2
+Bipolar6_GCTGGCGTCTCG,BC2,NaN,BC2
+Bipolar5_GTTCTCACGAAT,BC2,NaN,BC2
+Bipolar4_TACGAGGTACAG,BC2,NaN,BC2
+Bipolar1_GCTTGGGCAGGG,BC2,NaN,BC2
+Bipolar5_GCCTACGTCGGT,BC2,NaN,BC2
+Bipolar3_ATGTCGTACGCA,BC2,NaN,BC2
+Bipolar6_TGTACAGTTAGG,BC2,NaN,BC2
+Bipolar5_GGTGGCGCATCA,BC2,NaN,BC2
+Bipolar6_CGGAGAATCTGC,BC5C,NaN,BC2
+Bipolar5_GCGTAAGGTACG,BC2,NaN,BC2
+Bipolar5_TCGCGCACTATG,BC2,NaN,BC2
+Bipolar6_CAACTATACTGA,BC2,NaN,BC2
+Bipolar3_CGGCAAGAAAAG,BC2,NaN,BC2
+Bipolar5_GACTTGCATTCA,BC2,NaN,BC2
+Bipolar1_TTGAAAGATCAT,BC2,NaN,BC2
+Bipolar6_CGTGATGTACCA,BC2,NaN,BC2
+Bipolar6_GCCTTACGAACC,BC2,NaN,BC2
+Bipolar1_GGAACCTGACTT,BC2,NaN,BC2
+Bipolar4_TAGTCCGTCCGC,BC2,NaN,BC2
+Bipolar6_ATGTAAGGTATN,BC2,NaN,BC2
+Bipolar2_TTCATATCAATT,BC2,NaN,BC2
+Bipolar3_TGGCGAAATTAC,BC2,NaN,BC2
+Bipolar5_GTTGGCTACAGT,BC2,NaN,BC2
+Bipolar2_ATTTTCTCGAAA,BC2,NaN,BC2
+Bipolar1_TGCATGCAAATC,BC2,NaN,BC2
+Bipolar5_CTGTCTGGCAAC,BC2,NaN,BC2
+Bipolar1_CTGGATGGGATG,BC2,NaN,BC2
+Bipolar6_AAACGGTGAACT,BC2,NaN,BC2
+Bipolar5_TACAACCGACCG,BC2,NaN,BC2
+Bipolar3_CAACACGCTATC,BC2,NaN,BC2
+Bipolar5_GCCGGATTGGGC,BC2,NaN,BC2
+Bipolar1_AGCATTTATCAC,BC2,NaN,BC2
+Bipolar2_AACCAGACAGTA,BC2,NaN,BC2
+Bipolar6_TGCCATCTTTTG,BC2,NaN,BC2
+Bipolar5_TGAACTCATGCG,BC2,NaN,BC2
+Bipolar2_CTCAGTCCAATC,BC2,NaN,BC2
+Bipolar5_CTCGCGTCGCGT,BC2,NaN,BC2
+Bipolar6_TATCTAGTAGGA,BC2,NaN,BC2
+Bipolar5_GAGGCGCAGCAN,BC2,NaN,BC2
+Bipolar5_TGATGCATTAAA,BC2,NaN,BC2
+Bipolar5_ACTCGCAACCCT,BC2,NaN,BC2
+Bipolar5_GTTCCGTCAGCN,BC2,NaN,BC2
+Bipolar2_AGCAGTATTGAC,BC2,NaN,BC2
+Bipolar6_AACATGAAGGCG,BC2,NaN,BC2
+Bipolar5_TATACGCGTGAG,BC2,NaN,BC2
+Bipolar6_TGGTGCACGCAT,BC2,NaN,BC2
+Bipolar6_TTAAGAGGGTGC,BC2,NaN,BC2
+Bipolar2_CTCGCTTCTGAA,BC2,NaN,BC2
+Bipolar3_CCAACCCCGATA,BC2,NaN,BC2
+Bipolar6_TTATATTTTGTC,BC2,NaN,BC2
+Bipolar5_ACACAGGTGTCT,BC2,NaN,BC2
+Bipolar5_ACTTCTTGTATA,BC5C,NaN,BC2
+Bipolar6_GGTCATCTAAAG,BC1A,NaN,BC2
+Bipolar5_GAAGTAAGAATT,BC2,NaN,BC2
+Bipolar4_CAAAGGTAAATG,BC2,NaN,BC2
+Bipolar5_CCATACGTGAAC,BC2,NaN,BC2
+Bipolar3_GTATGTCGGGAC,BC2,NaN,BC2
+Bipolar6_GGCGTCCGAGAC,BC2,NaN,BC2
+Bipolar6_CTACCCCTCCAA,BC2,NaN,BC2
+Bipolar5_GTTACTGTGGTT,BC2,NaN,BC2
+Bipolar6_GTAGACGAGGAT,BC2,NaN,BC2
+Bipolar5_TCCGAACAAGTG,BC2,NaN,BC2
+Bipolar3_ATCTAGTTAAGA,BC2,NaN,BC2
+Bipolar6_GACTCACCAATN,BC2,NaN,BC2
+Bipolar6_TAGTGACGACTG,BC2,NaN,BC2
+Bipolar5_ATATTTGCAACC,BC2,NaN,BC2
+Bipolar5_GTCCGGAGGAAT,BC2,NaN,BC2
+Bipolar6_CGCACGCACTTT,BC2,NaN,BC2
+Bipolar6_CCCGTCGCCGAN,BC2,NaN,BC2
+Bipolar5_CCGTAAGCCGGC,BC2,NaN,BC2
+Bipolar5_GACTCCGATCTG,BC2,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_ATTCAGTTATGG,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_CTGGTTCGTCGG,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AGGACTACAGGA,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GCCACCCCGGTG,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_AAGGGCCACCCG,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_TGAACCGTTGCA,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_TAGAAGCCCTAG,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CCGATGCGGTGC,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_AAGGTCACTGTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GGATCAACGCAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CCCTATACCATA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TAGACCTCGGGG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TCGACGCGTGTN,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TCCCTCGCCGAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_TCCATGACTATA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_TAGCCGCTGTTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_CACTGAGTATCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_TTTGACTGAGGC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_TGGCAAGGTAGA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_ACGAGGTACGAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GTCGGCGTTGAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_TATATTAGCCTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_GTCAGGGATTCT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GCTTGCCGTCAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CCATAATGTGAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CAGGACTTTAGC,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CGTGTCGAAGCA,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GACCCATAGACC,BC6,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CTAGTCCCTTTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_AGGTTTAGATGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GTGCAACGGTTA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_AATCAGGTAGAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CGTAGTCATGGG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CTTAGCCACCCA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_GAACTCTAAACT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_ATCATTATCATT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_ACGGAATCACGA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CATGGATGCACG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GTTGTGATCCGG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GGATGACTGGGA,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar1_CAACTAGCACGC,BC6,NaN,BC6
+Bipolar2_CGAACAACAAGA,BC6,NaN,BC6
+Bipolar3_GCCCTGTATTGG,BC6,NaN,BC6
+Bipolar3_TGCCGAATATTA,BC6,NaN,BC6
+Bipolar4_CTATCTTACTAA,BC6,NaN,BC6
+Bipolar4_GATAGTACCAAT,BC6,NaN,BC6
+Bipolar5_AACGGACCACAA,BC6,NaN,BC6
+Bipolar4_CAGCTTTCGAGT,BC6,NaN,BC6
+Bipolar3_CAATCATCTTTG,BC6,NaN,BC6
+Bipolar5_CCGGGAAATCTC,BC6,NaN,BC6
+Bipolar4_CAAGCTATACAT,BC6,NaN,BC6
+Bipolar5_CTGATCTTCTAC,BC6,NaN,BC6
+Bipolar6_TTATGTGTCCCG,BC6,NaN,BC6
+Bipolar6_TTTCATAGAAGN,BC6,NaN,BC6
+Bipolar5_GAGTCCCTCAAC,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar4_CAAAAGAATCGC,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar1_CGCAAGCGAGCT,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar5_CTTCACGCTCAA,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar2_CTTTCTCAAATC,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar5_TTCTACGCCCTT,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar1_CTTCACCCCTGG,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar5_AAAGATAGACAT,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar2_TCAGGTCGTACG,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar5_CGTGCTGCTCTA,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar6_GCTTGATATAAC,BC5C,NaN,BC6
+Bipolar4_GCAGACCTTTTC,BC6,NaN,BC6
+Bipolar2_GCAAGCCTGGTA,BC6,NaN,BC6
+Bipolar3_CCAGAATACAAA,BC6,NaN,BC6
+Bipolar3_GAGGACTATAGA,BC6,NaN,BC6
+Bipolar5_TAGAAGCTAGAA,BC6,NaN,BC6
+Bipolar1_ATAATGATCAGA,BC6,NaN,BC6
+Bipolar1_ACAATAAGCGTC,BC6,NaN,BC6
+Bipolar2_GAATATCCAACC,BC6,NaN,BC6
+Bipolar5_CCATAAGATTGC,BC6,NaN,BC6
+Bipolar3_TAACTAAGACCC,BC6,NaN,BC6
+Bipolar2_GAAGAGTCTTCT,BC6,NaN,BC6
+Bipolar4_AGCCCCGTCGAA,BC6,NaN,BC6
+Bipolar1_CTGGACTCGGAG,BC6,NaN,BC6
+Bipolar4_CGGATGAATTGT,BC6,NaN,BC6
+Bipolar5_CCCATTTTTAAN,BC6,NaN,BC6
+Bipolar5_ACGCTCTCAGGA,BC6,NaN,BC6
+Bipolar3_ATTGTCATCTCC,BC6,NaN,BC6
+Bipolar6_AGGCACGTTTAG,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar3_TGTAGTGTATTC,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar2_TGGACGCTCATG,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar5_GAATCACGCTTG,BC7 (Cone Bipolar cell 7),NaN,BC6
+Bipolar6_CTAGCAAGCCCA,BC7 (Cone Bipolar cell 7),NaN,BC4
+Bipolar4_GCAAGGGTAGAC,BC4,NaN,BC4
+Bipolar5_ATTTGCAGAGCT,BC4,NaN,BC4
+Bipolar6_CCCCTTCGTATT,BC4,NaN,BC4
+Bipolar5_ATACGTGATCTT,BC4,NaN,BC4
+Bipolar6_TACTAGTACTTN,BC4,NaN,BC4
+Bipolar1_TAACCGTGGCAT,BC4,NaN,BC4
+Bipolar2_AGTCGTAACGTG,BC4,NaN,BC4
+Bipolar6_AAACTCAATCTG,BC4,NaN,BC4
+Bipolar6_GAAATAGATAGC,BC4,NaN,BC4
+Bipolar5_GCACATCCAAAA,BC4,NaN,BC4
+Bipolar1_GTCGGAAGCTCA,BC4,NaN,BC4
+Bipolar5_CTCGTAGACCGA,BC4,NaN,BC4
+Bipolar4_AGCATGGCTGCG,BC4,NaN,BC4
+Bipolar6_TATTCGTGCAAG,BC4,NaN,BC4
+Bipolar5_GACGACAAACGA,BC4,NaN,BC4
+Bipolar4_CAAAGTAAGTCA,BC4,NaN,BC4
+Bipolar6_ACTTGGACCTCG,BC4,NaN,BC4
+Bipolar6_TGGCAACGAATA,BC4,NaN,BC4
+Bipolar4_TATGCGCGTACC,BC4,NaN,BC4
+Bipolar4_CTTGTAAAGTCG,BC4,NaN,BC4
+Bipolar1_AAAGCCTGGCGA,BC4,NaN,BC4
+Bipolar5_CTAAAGGCGACT,BC4,NaN,BC4
+Bipolar1_TTTCCCCGAGCT,BC4,NaN,BC4
+Bipolar6_AGTGGGAGTGTA,BC4,NaN,BC4
+Bipolar4_GGTCGCGTAGCC,BC4,NaN,BC4
+Bipolar6_AGTTCTACGCCN,BC4,NaN,BC4
+Bipolar4_CCTCGCCTGCTC,BC4,NaN,BC4
+Bipolar5_ATTTGGTCTCGA,BC5C,NaN,BC4
+Bipolar4_GAGTGAGAGCAC,BC5C,NaN,BC4
+Bipolar1_CCCGCCCCCGTA,BC5C,NaN,BC4
+Bipolar5_GAGACGGTAAAN,BC5C,NaN,BC4
+Bipolar5_CTCTATTCGGAT,BC5C,NaN,BC4
+Bipolar5_TACTGCCTACCT,BC5C,NaN,BC4
+Bipolar6_AGAACATCCTGT,BC5C,NaN,BC4
+Bipolar6_GATGAAGGTAGC,BC5C,NaN,BC4
+Bipolar5_TCCACAGAAGCC,BC5C,NaN,BC4
+Bipolar5_GACCCAAATTAA,BC5C,NaN,BC4
+Bipolar4_GTAGCGGAGATC,BC5C,NaN,BC4
+Bipolar2_TAATAACGTCGA,Doublets/Contaminants,NaN,BC4
+Bipolar6_CAGTACACCTAA,BC3B,NaN,BC4
+Bipolar6_TCTGCCTCGGCT,BC3B,NaN,BC4
+Bipolar4_CAGGCCCCTGCG,BC3B,NaN,BC4
+Bipolar2_GTATCACGAAGT,BC3B,NaN,BC4
+Bipolar6_CCGTCAATTCGA,BC3B,NaN,BC4
+Bipolar5_CCTCATTGCAAC,BC3B,NaN,BC4
+Bipolar1_TCAGGTCTAACG,BC4,NaN,BC4
+Bipolar6_CTAATTTGATTT,BC4,NaN,BC4
+Bipolar4_ATACGAAGCTAG,BC4,NaN,BC4
+Bipolar6_TGCTGATCTCTT,BC4,NaN,BC4
+Bipolar6_CCTTATAATAAA,BC4,NaN,BC4
+Bipolar6_CGTTTACGCGAT,BC4,NaN,BC4
+Bipolar6_GAGCCTAGCCTC,BC4,NaN,BC4
+Bipolar2_ACCATTGTAGCG,BC4,NaN,BC4
+Bipolar4_GAAATAGATCTA,BC4,NaN,BC4
+Bipolar1_TGTAGAATATCG,BC4,NaN,BC4
+Bipolar2_CGATTGCCCTCT,BC4,NaN,BC4
+Bipolar6_CTGGACAAAGTA,BC4,NaN,BC4
+Bipolar3_CATTGTAGCCTT,BC4,NaN,BC4
+Bipolar5_CCCTTCGTTGGC,BC4,NaN,BC4
+Bipolar2_GCACACCCGATT,BC4,NaN,BC4
+Bipolar5_AATCGCCCCTGC,BC4,NaN,BC4
+Bipolar5_AATCTTAACTAA,BC4,NaN,BC4
+Bipolar5_AGTCTGGGAAGC,BC4,NaN,BC4
+Bipolar2_GCGTCTCGTTTC,BC4,NaN,BC4
+Bipolar1_GAACTCAAGTGA,BC4,NaN,BC4
+Bipolar5_CATGCTTACCGG,BC4,NaN,BC4
+Bipolar5_CGTAGTTGTGAC,BC4,NaN,BC4
+Bipolar5_GGGTCACTTCTC,BC4,NaN,BC4
+Bipolar6_TTCACGTACCGG,BC4,NaN,BC4
+Bipolar6_CTTGTTTCTAAC,BC4,NaN,BC4
+Bipolar5_GGCACGTTTCGA,BC4,NaN,BC4
+Bipolar5_TTGACGGACCTA,BC4,NaN,BC4
+Bipolar4_CTTGCGTTCCTA,BC4,NaN,BC4
+Bipolar6_TGAGCGTACAAC,BC4,NaN,BC4
+Bipolar5_TCAGACCATCCG,BC5C,NaN,BC4
+Bipolar4_CTGGGGATCACT,BC5C,NaN,BC4
+Bipolar6_CCGGGTCGCCGG,BC5C,NaN,BC4
+Bipolar2_TCGGTTAAACAA,BC5C,NaN,BC1A
+Bipolar1_GAAATGCTTCTA,BC1A,NaN,BC1A
+Bipolar5_CCGTACCCCCCC,BC1A,NaN,BC1A
+Bipolar1_CTAGGACGTTTG,BC1A,NaN,BC1A
+Bipolar2_GTGGGGCCGCCG,BC1A,NaN,BC1A
+Bipolar5_GATATAGCAACT,BC1A,NaN,BC1A
+Bipolar6_GCGGCCCATTCG,BC1A,NaN,BC1A
+Bipolar6_ACGGTCATTATG,BC1A,NaN,BC1A
+Bipolar4_TTGTTTAAGCAG,BC1A,NaN,BC1A
+Bipolar6_AGAATTAGCCGC,BC1A,NaN,BC1A
+Bipolar1_GTACTGCTACGT,BC1A,NaN,BC1A
+Bipolar5_TCACTCCTCCTA,BC1A,NaN,BC1A
+Bipolar6_TTGATCAACATG,BC1A,NaN,BC1A
+Bipolar3_TGACGCAACACC,BC1A,NaN,BC1A
+Bipolar6_TTCATAACGGCG,BC1A,NaN,BC1A
+Bipolar5_TAGCTCTAAAGG,BC1A,NaN,BC1A
+Bipolar6_GGACTCTCGAAC,BC1A,NaN,BC1A
+Bipolar6_GTGTTATGTGTN,BC1A,NaN,BC1A
+Bipolar6_TTCTTGGATACN,BC1A,NaN,BC1A
+Bipolar3_CTCGAAGCTATG,BC1A,NaN,BC1A
+Bipolar2_GCTTCCATAGGG,BC1A,NaN,BC1A
+Bipolar3_TTACGCCGCTAT,BC1A,NaN,BC1A
+Bipolar6_CTGAACATAGGG,BC1A,NaN,BC1A
+Bipolar5_GCCTATTAGACG,BC1A,NaN,BC1A
+Bipolar4_TCCCTTCTTCAC,BC1A,NaN,BC1A
+Bipolar4_GATACGCATGAC,BC1A,NaN,BC1A
+Bipolar1_GCTATCAATACT,BC1A,NaN,BC1A
+Bipolar4_TCTTCTCTGTGA,BC1A,NaN,BC1A
+Bipolar5_GTCAAGATGAAG,BC1A,NaN,BC1A
+Bipolar4_GCATCTTGACGC,BC1A,NaN,BC1A
+Bipolar1_CGATAGCGAAAC,BC1A,NaN,BC1A
+Bipolar2_AGGGTATCGCTA,BC1A,NaN,BC1A
+Bipolar5_CTTCAACTAGAG,BC1A,NaN,BC1A
+Bipolar2_ATCAAGCGAGAA,BC5C,NaN,BC1A
+Bipolar5_TAAGCATACGGG,AC (Amacrine cell),NaN,BC1A
+Bipolar5_GCCGGGCAACTC,AC (Amacrine cell),NaN,BC1A
+Bipolar1_ACCTGTTTTGCT,BC1A,NaN,BC1A
+Bipolar5_TCATCATAGATN,BC1A,NaN,BC1A
+Bipolar4_GTAGACTTGCAC,BC1A,NaN,BC1A
+Bipolar3_GTGTCAATGTAC,BC1A,NaN,BC1A
+Bipolar4_GATTCGCATAGC,BC1A,NaN,BC1A
+Bipolar5_TGAGATTTAATC,BC1A,NaN,BC1A
+Bipolar3_GTGTCTCCCCTC,BC1A,NaN,BC1A
+Bipolar5_CCGCCGACAAAA,BC1A,NaN,BC1A
+Bipolar6_TGTTGAGAGGTT,BC1A,NaN,BC1A
+Bipolar6_GCGCTCACACTC,BC1A,NaN,BC1A
+Bipolar6_TCGTCAATGGAN,BC1A,NaN,BC1A
+Bipolar5_TTACGCGCTCAC,BC1A,NaN,BC1A
+Bipolar6_ATACAGAGGTCG,BC1A,NaN,BC1A
+Bipolar4_TCCGTAGCATCT,BC1A,NaN,BC1A
+Bipolar1_CCGATTTTATGA,BC1A,NaN,BC1A
+Bipolar5_CAATGTATTGCA,BC1A,NaN,BC1A
+Bipolar3_AAGGCGGTCTAT,BC1A,NaN,BC1A
+Bipolar5_CAGACCCGTGTC,BC1A,NaN,BC1A
+Bipolar3_GTCAGCGAGAAG,BC1A,NaN,BC1A
+Bipolar3_CATAAATGAGAA,BC1A,NaN,BC1A
+Bipolar5_GATCAAATGCAG,BC1A,NaN,BC1A
+Bipolar6_GGCAGGAATCTC,BC1A,NaN,BC1A
+Bipolar3_CTGGGAGTTAGT,BC1A,NaN,BC1A
+Bipolar6_GAGAACTAGGGA,BC1A,NaN,BC1A
+Bipolar3_GGCAGAAGACGA,BC1A,NaN,BC1A
+Bipolar4_TCTCGTATTACG,BC1A,NaN,BC1A
+Bipolar5_AGCCTCCGAGAG,BC1A,NaN,BC1A
+Bipolar4_GAGATTAGAGGC,BC1A,NaN,BC1A
+Bipolar2_AATCCCCTTGCT,BC1A,NaN,BC1A
+Bipolar5_GCGCCTTCCGAN,BC5D,NaN,BC1A
+Bipolar5_GCGGGAAGAACA,BC5D,NaN,BC6
+Bipolar3_CCACGGGGTTTA,BC1B,NaN,BC6
+Bipolar4_TATTAAGCTAAC,BC1B,NaN,BC6
+Bipolar5_CCGAATGGCCAA,BC5D,NaN,BC6
+Bipolar5_GCCCATAGGCAT,BC5D,NaN,BC6
+Bipolar5_GTTCTTAGGACA,BC5D,NaN,BC6
+Bipolar5_TAAAACTTGCCT,BC5D,NaN,BC6
+Bipolar4_CTACGGTAGCCC,BC5D,NaN,BC6
+Bipolar6_GATAAGCCGCCC,BC5D,NaN,BC6
+Bipolar6_CTAAAATGTACC,BC5D,NaN,BC6
+Bipolar6_CCCAAACCGTGT,BC5D,NaN,BC6
+Bipolar5_GTCCCGGATCAG,BC5D,NaN,BC6
+Bipolar3_ATTACGGTAGCT,BC5D,NaN,BC6
+Bipolar6_CACATCCGGGTC,BC5D,NaN,BC6
+Bipolar2_CTAAGCGCTGAC,BC6,NaN,BC6
+Bipolar2_ATGACAGGCTTT,BC6,NaN,BC6
+Bipolar5_TGTAAAAGTGTT,BC6,NaN,BC6
+Bipolar2_AACCTCGGAAAT,BC6,NaN,BC6
+Bipolar1_GAGCAGTTCTTC,BC6,NaN,BC6
+Bipolar3_TAGACAAGGCAT,BC6,NaN,BC6
+Bipolar4_GTTACTTGATTG,BC6,NaN,BC6
+Bipolar4_GCCAACTATCAC,BC6,NaN,BC6
+Bipolar6_GTTCCTAAGATA,BC6,NaN,BC6
+Bipolar3_AGGCTAACGTGT,BC6,NaN,BC6
+Bipolar5_CAGGTTCGTCAA,BC6,NaN,BC6
+Bipolar6_AGCAATTAGCGA,BC6,NaN,BC6
+Bipolar5_AAGTTCCGTGCC,BC6,NaN,BC6
+Bipolar6_CGCAGTCAACTC,BC6,NaN,BC6
+Bipolar6_ATAAGTACCTGT,BC6,NaN,BC6
+Bipolar4_GACGGTGTTATC,BC6,NaN,BC6
+Bipolar6_GATGCTTCCTAC,BC6,NaN,BC6
+Bipolar5_GTGAACACGGGC,BC1B,NaN,BC6
+Bipolar1_CTTTGTATAGCC,BC1B,NaN,BC6
+Bipolar1_CTAGAAGCTGGG,BC5D,NaN,BC6
+Bipolar1_TAAGCACGGCTC,BC5D,NaN,BC6
+Bipolar6_CGCCACGCAGCA,BC5D,NaN,BC6
+Bipolar6_TTTAGTCTTAGC,BC5D,NaN,BC6
+Bipolar4_TGTCTCCTGTGC,BC6,NaN,BC6
+Bipolar2_TCCAACTTGGTG,BC6,NaN,BC6
+Bipolar6_TCTGTTAAGTCG,BC6,NaN,BC6
+Bipolar5_GACATGAATCTG,BC6,NaN,BC6
+Bipolar2_AGTACTACATTG,BC6,NaN,BC6
+Bipolar3_AGTCCGGGGACT,BC6,NaN,BC6
+Bipolar6_GTGGCCATTTCC,BC6,NaN,BC6
+Bipolar5_GGTCACTGTCAT,BC6,NaN,BC6
+Bipolar3_CATTCTGAGTGA,BC6,NaN,BC6
+Bipolar1_CGGCTACTTGTC,BC6,NaN,BC6
+Bipolar1_TCGCTACAGTGG,BC6,NaN,BC5D
+Bipolar4_GTCTGTTGCTCC,BC1B,NaN,BC5D
+Bipolar4_CTTGTATCGCGT,BC1B,NaN,BC5D
+Bipolar6_GAAGCCCCGGAC,BC1B,NaN,BC5D
+Bipolar1_AGTGTCTTCGAC,BC5D,NaN,BC5D
+Bipolar4_ACAGACCATAAT,BC5D,NaN,BC5D
+Bipolar6_TTACAGCGAGCG,BC5D,NaN,BC5D
+Bipolar5_CGCGGCACGAGT,BC5D,NaN,BC5D
+Bipolar4_CGGCTAATCATT,BC5D,NaN,BC5D
+Bipolar4_TTGCTCGTGTGT,BC5D,NaN,BC5D
+Bipolar1_CCCACAAGCCTA,BC5D,NaN,BC5D
+Bipolar6_CCACCCGCTGAC,BC5D,NaN,BC5D
+Bipolar5_TCATGTGAAATA,BC5D,NaN,BC5D
+Bipolar1_TGGTGGTGCTTA,BC5D,NaN,BC5D
+Bipolar5_TCTTTATGGCGT,BC5D,NaN,BC5D
+Bipolar6_ACCGATGCAGTG,BC5D,NaN,BC5D
+Bipolar5_GTCCCACACGAT,BC5D,NaN,BC5D
+Bipolar6_AACCAGGAAACC,BC6,NaN,BC5D
+Bipolar5_TTATGACTCTCC,BC6,NaN,BC5D
+Bipolar5_AAGAGGTTAACC,BC6,NaN,BC5D
+Bipolar2_TGTGCCCCTGTG,BC6,NaN,BC5D
+Bipolar5_TGGATCCGCAGC,BC6,NaN,BC5D
+Bipolar6_CTACATCGCTCC,BC6,NaN,BC5D
+Bipolar6_GGTAGTTTTAGG,BC6,NaN,BC5D
+Bipolar4_CACCTCACCTCT,BC6,NaN,BC5D
+Bipolar6_CACGACACTGTC,BC6,NaN,BC6
+Bipolar4_AGCAAAGACCCT,BC1A,NaN,BC6
+Bipolar4_GACTAGAGTAGT,BC1A,NaN,BC6
+Bipolar4_GTTCCGCTGGTG,BC1B,NaN,BC6
+Bipolar2_GGCGGTACTAGT,BC1B,NaN,BC6
+Bipolar5_TCAAGACGAGGT,BC1B,NaN,BC6
+Bipolar4_GACCCATCAGGC,BC1B,NaN,BC6
+Bipolar5_TTTTACTTTGAG,BC1B,NaN,BC6
+Bipolar5_TAGCATCATCGT,BC1B,NaN,BC6
+Bipolar1_ATCACTGGGTGC,BC5C,NaN,BC6
+Bipolar5_ATCCTAAAAGGA,BC5C,NaN,BC6
+Bipolar6_GTAGCAAAGGAC,BC5D,NaN,BC6
+Bipolar6_CCCCTGTTGAGA,BC5D,NaN,BC6
+Bipolar6_TCGGCCGCCTCC,BC5D,NaN,BC6
+Bipolar5_GTTCTATGTTCT,BC5D,NaN,BC6
+Bipolar6_TGCCTTCGACGC,BC5D,NaN,BC6
+Bipolar2_ACAGACGTCAGG,BC6,NaN,BC6
+Bipolar5_CTGGTCTGCAAA,BC6,NaN,BC6
+Bipolar2_CTTTTATTAAAT,BC6,NaN,BC6
+Bipolar6_AACAGATCTTGA,BC6,NaN,BC6
+Bipolar5_AGTACTTCGGAA,BC6,NaN,BC6
+Bipolar4_GGCTTGTGCTAC,BC6,NaN,BC6
+Bipolar4_TCCGTAAGGATG,BC6,NaN,BC6
+Bipolar6_GGCTGAACTAAG,BC6,NaN,BC6
+Bipolar3_TACCAAGTTGAG,BC6,NaN,BC6
+Bipolar6_TAGCGAGTGTCT,BC6,NaN,BC6
+Bipolar6_GCCGAAGAGGAN,BC1B,NaN,BC6
+Bipolar2_TGGGATGCCCCA,BC1B,NaN,BC6
+Bipolar4_AATAAGCTTGAG,BC1B,NaN,BC6
+Bipolar1_GGCGGACAAAGT,BC1B,NaN,BC6
+Bipolar6_ATGCCTATCAGT,BC1B,NaN,BC6
+Bipolar5_ACATTATCTCGC,BC1B,NaN,BC6
+Bipolar6_CAGGTCACTCTG,BC1B,NaN,BC6
+Bipolar6_ACGCAGTACGGC,BC2,NaN,BC6
+Bipolar6_ATGACAGCAGAT,BC4,NaN,BC6
+Bipolar4_TTCCTCCGCTAA,BC5C,NaN,BC6
+Bipolar4_TGGACCAGCGAG,BC5D,NaN,BC6
+Bipolar5_ATTTGCCGCTGA,BC5D,NaN,BC6
+Bipolar6_CAAATCTTGGAC,BC5D,NaN,BC6
+Bipolar5_ATACTGTCGCTT,BC5D,NaN,BC6
+Bipolar6_GGTCATACACGA,BC6,NaN,BC6
+Bipolar3_TGTGACCAAGAA,BC6,NaN,BC6
+Bipolar6_TTCTACACTCGT,BC6,NaN,BC6
+Bipolar6_GTGTTAGGCGAA,BC6,NaN,BC6
+Bipolar3_ACAGGGTTTAAA,BC6,NaN,BC6
+Bipolar2_TTCATATCACAC,BC6,NaN,BC6
+Bipolar4_CGAATTTTCTTC,BC6,NaN,BC6
+Bipolar4_TTTTAGTCTGCA,BC6,NaN,BC6
+Bipolar5_GACGCTTTACCG,BC6,NaN,BC6
+Bipolar4_ACTATTGCTGGC,BC6,NaN,BC6
+Bipolar3_CCGCTTGGACGT,BC6,NaN,BC6
+Bipolar5_CCCGAGCCGGGG,BC6,NaN,BC6
+Bipolar6_GACAGTACTTGN,BC6,NaN,BC6
+Bipolar4_CTAGAGCCCTGT,BC6,NaN,BC6
+Bipolar5_GTGGAAAATGCC,BC6,NaN,BC6
+Bipolar6_ATAAGGGCAACT,BC6,NaN,BC6
+Bipolar2_CTGCCTTGCGGT,BC6,NaN,BC6
+Bipolar5_GCACACGTTAAA,BC6,NaN,BC6
+Bipolar3_CCGACCGAGGCC,BC6,NaN,BC6
+Bipolar3_ATTCGCTGTTCG,BC6,NaN,BC1B
+Bipolar2_GTGTAATATGTT,BC1A,NaN,BC1B
+Bipolar2_CGTTACGCTTAC,BC1B,NaN,BC1B
+Bipolar6_ATCAACAAGCTG,BC1B,NaN,BC1B
+Bipolar2_TCGCATTAGGGT,BC1B,NaN,BC1B
+Bipolar6_GTATAGGCTGAA,BC1B,NaN,BC1B
+Bipolar5_AGGGCTGCGAAA,BC1B,NaN,BC1B
+Bipolar5_GAATGCCCCCAG,BC1B,NaN,BC1B
+Bipolar5_TACGGCACTCCC,BC1B,NaN,BC1B
+Bipolar2_TCCGTACACTGT,BC1B,NaN,BC1B
+Bipolar5_GACAGATATATC,BC1B,NaN,BC1B
+Bipolar4_ATCTGGCCCGGG,BC1B,NaN,BC1B
+Bipolar6_GCGGATACAACT,BC1B,NaN,BC1B
+Bipolar6_TATTTCTTACCA,BC5A (Cone Bipolar cell 5A),NaN,BC1B
+Bipolar5_TCTATGATAAGA,BC5B,NaN,BC1B
+Bipolar5_TATAGAAAAGCA,BC5C,NaN,BC1B
+Bipolar4_CCATAGCCGGAC,BC5D,NaN,BC1B
+Bipolar3_CGTCTGGATAAG,BC5D,NaN,BC1B
+Bipolar5_ACTAGTGGTTAC,BC6,NaN,BC1B
+Bipolar5_CTCCCCAAGACT,BC6,NaN,BC1B
+Bipolar2_CGATAATCAGAC,BC6,NaN,BC1B
+Bipolar4_ATTCTGGCGCTC,BC6,NaN,BC1B
+Bipolar4_CTGTCTGAAAGT,BC6,NaN,BC1B
+Bipolar2_AATAGCCTCGAC,BC6,NaN,BC1B
+Bipolar4_CCACCCAATAAT,BC6,NaN,BC1B
+Bipolar5_GACAGCCGCTCA,BC6,NaN,BC1B
+Bipolar5_TCTCGACAAAAA,BC8/9 (mixture of BC8 and BC9),NaN,BC1B
+Bipolar6_TCTTCAAGGCGG,BC8/9 (mixture of BC8 and BC9),NaN,BC1B
+Bipolar4_AGATTGGCAAAG,BC8/9 (mixture of BC8 and BC9),NaN,BC1B
+Bipolar6_AGGGGAGGAGTT,BC8/9 (mixture of BC8 and BC9),NaN,BC6
+Bipolar6_GCCACGGCGGCA,BC1B,NaN,BC6
+Bipolar6_TCGGACCGTTCT,BC1B,NaN,BC6
+Bipolar5_CCGCCACTAGCC,BC1B,NaN,BC6
+Bipolar1_TCCCTCCCTTCT,BC1B,NaN,BC6
+Bipolar5_CTTTGAACCTAA,BC1B,NaN,BC6
+Bipolar3_TGGCTTTCCTCG,BC1B,NaN,BC6
+Bipolar2_TACTTACATCCA,BC1B,NaN,BC6
+Bipolar6_ACGCTGGGTCCC,BC5D,NaN,BC6
+Bipolar6_TTCTGTTGTTGT,BC5D,NaN,BC6
+Bipolar6_TCCATCCAGCGC,BC5D,NaN,BC6
+Bipolar5_ACTTAGCATGGC,BC5D,NaN,BC6
+Bipolar1_CTCTGATCTCCA,BC6,NaN,BC6
+Bipolar6_TACGTTAGGCTN,BC6,NaN,BC6
+Bipolar3_ACCTAGTATGGC,BC6,NaN,BC6
+Bipolar5_GGGAGTTCCTGG,BC6,NaN,BC6
+Bipolar6_AGTAGTTTTAGG,BC6,NaN,BC6
+Bipolar3_TGGTACAACTAC,BC6,NaN,BC6
+Bipolar5_GACGCCGGAAAA,BC6,NaN,BC6
+Bipolar6_TGCGCGTCGAAA,BC6,NaN,BC6
+Bipolar1_GGACTGAGCCTT,BC6,NaN,BC6
+Bipolar5_CGCTGCGGCATC,BC6,NaN,BC6
+Bipolar3_ACTTCGAACTCT,BC6,NaN,BC6
+Bipolar5_ATTTACATGGGA,BC6,NaN,BC6
+Bipolar1_TACGGCATACGG,BC6,NaN,BC6
+Bipolar3_CAGCCCCCACCG,BC6,NaN,BC6
+Bipolar3_CAGTATTTTTCC,BC6,NaN,BC6
+Bipolar5_CTCGCTCGACTG,BC6,NaN,BC6
+Bipolar6_CCCATCCTATCT,BC6,NaN,BC6
+Bipolar5_ATCTGACGAGTN,BC6,NaN,BC6
+Bipolar6_CACGATGCAAAA,BC6,NaN,BC6
+Bipolar5_GCACACGTTAAT,BC6,NaN,BC6
+Bipolar2_CACTAAGTATTA,BC6,NaN,BC6
+Bipolar5_CAAGACGCGAAG,BC1A,NaN,BC6
+Bipolar4_GTCTATGCTCCT,BC1B,NaN,BC6
+Bipolar1_CTTCTGTAACTG,BC1B,NaN,BC6
+Bipolar6_TAAGCTTCCCTA,BC1B,NaN,BC6
+Bipolar6_CTCAGCTTCCAG,BC1B,NaN,BC6
+Bipolar3_TGCGCAGTTACA,BC1B,NaN,BC6
+Bipolar5_GCGTACAACTTA,BC1B,NaN,BC6
+Bipolar3_TACATCAATCTA,BC1B,NaN,BC6
+Bipolar5_GAAACTTGGCCG,BC4,NaN,BC6
+Bipolar3_CGAACCTCGGAG,BC5D,NaN,BC6
+Bipolar6_GACCTAGGGTTA,BC5D,NaN,BC6
+Bipolar6_TACTGTGAAGTG,BC5D,NaN,BC6
+Bipolar5_GACGCCTCTCCC,BC5D,NaN,BC6
+Bipolar3_CGTCCGCCCTCC,BC5D,NaN,BC6
+Bipolar3_TGTTAACTAGAT,BC5D,NaN,BC6
+Bipolar5_TCGTAACTTCGT,BC5D,NaN,BC6
+Bipolar4_GGATTCAGTAAT,BC5D,NaN,BC6
+Bipolar5_AGACAACGAACA,BC6,NaN,BC6
+Bipolar5_CCTGCGCGAATG,BC6,NaN,BC6
+Bipolar2_CCCTACCTCTAT,BC6,NaN,BC6
+Bipolar4_CGGCCGTAGCGC,BC6,NaN,BC6
+Bipolar6_ACCTATAAGAAT,BC6,NaN,BC6
+Bipolar5_GAACTTGCTCCA,BC6,NaN,BC6
+Bipolar2_TAATAGAACGAA,BC6,NaN,BC6
+Bipolar3_TGACAAGACAAA,BC6,NaN,BC6
+Bipolar5_CCATGCCTCTAC,BC6,NaN,BC6
+Bipolar1_ATCACGAGCTAT,BC6,NaN,BC6
+Bipolar5_CACCCAAAACAN,BC6,NaN,BC6
+Bipolar6_GCGAGTTCCCCC,BC6,NaN,BC6
+Bipolar5_GATAGGCCTCGG,BC6,NaN,BC6
+Bipolar3_CCTTAGTCGCCC,BC6,NaN,BC6
+Bipolar5_CGACGCAATTCC,BC6,NaN,BC6
+Bipolar5_TCAGAACGAACG,BC6,NaN,BC6
+Bipolar4_CTGTTACGACGT,BC6,NaN,BC6
+Bipolar6_TTCGACAATCCN,BC6,NaN,BC6
+Bipolar6_GAAATGCGCCTA,BC6,NaN,BC6
+Bipolar5_ATACACTCACGA,BC6,NaN,BC6
+Bipolar2_GCCTTAAAAGAT,BC6,NaN,BC6
+Bipolar6_CGGATACATACA,BC6,NaN,BC6
+Bipolar3_TTAGATACGAAG,BC6,NaN,BC6
+Bipolar2_GTCCCCCAAAAC,BC6,NaN,BC6
+Bipolar3_CTTCGACTAAAG,BC6,NaN,BC6
+Bipolar1_CTTTGTCGTCCT,BC6,NaN,BC6
+Bipolar6_CGTATTTCGGCA,BC6,NaN,BC6
+Bipolar2_CCACGTGTACCG,BC6,NaN,BC6
+Bipolar2_AGTACTCGATAA,BC6,NaN,BC6
+Bipolar4_AGACAGCGACTT,BC6,NaN,BC6
+Bipolar5_TTGCACCCATTA,BC6,NaN,BC6
+Bipolar2_TGTGATAGACTG,BC6,NaN,BC6
+Bipolar6_ATTGTCACCGAG,BC6,NaN,BC6
+Bipolar5_CGGAGGACGGTC,BC6,NaN,BC6
+Bipolar6_GTAGCCGCGAAA,BC6,NaN,BC6
+Bipolar6_TCGGCGCAGCGG,BC6,NaN,BC6
+Bipolar6_CGAGCGCACCGT,BC6,NaN,BC6
+Bipolar6_CTCCCTCCTCGA,BC5D,NaN,BC6
+Bipolar4_CAGCCCCCGAGT,BC6,NaN,BC6
+Bipolar5_GCCTCTGAGTCC,BC6,NaN,BC6
+Bipolar1_TTCTGAATTACT,BC6,NaN,BC6
+Bipolar4_CTAAATAGCCTG,BC6,NaN,BC6
+Bipolar4_CTTCTCGCCGCT,BC6,NaN,BC6
+Bipolar2_CTGATAACCACG,BC6,NaN,BC6
+Bipolar4_TGCTATCTGAAT,BC6,NaN,BC6
+Bipolar2_TCTGCCAAGCAT,BC6,NaN,BC6
+Bipolar1_AACCAACCGAAG,BC6,NaN,BC6
+Bipolar6_AGGTCGGGTCAA,BC6,NaN,BC6
+Bipolar2_TTGCAAGTTCTG,BC6,NaN,BC6
+Bipolar2_TACTAATAGGGT,BC6,NaN,BC6
+Bipolar5_TTACCTGTAGGT,BC6,NaN,BC6
+Bipolar3_TGAGCGTGTCCC,BC6,NaN,BC6
+Bipolar6_TTGGGTGGCCTT,BC6,NaN,BC6
+Bipolar1_TTTGGCGAGACC,BC6,NaN,BC6
+Bipolar5_TGCGGACGATTT,BC6,NaN,BC6
+Bipolar2_GTGGATTTTCTT,BC6,NaN,BC6
+Bipolar1_TTGCCATCGCAA,BC6,NaN,BC6
+Bipolar5_CAACGCTAGGGG,BC6,NaN,BC6
+Bipolar5_AGCCTTGTGCCG,BC6,NaN,BC6
+Bipolar5_GGAGCTCGTCCT,BC6,NaN,Doublets/Contaminants
+Bipolar6_GCGTAAAGAGAC,BC5D,NaN,Doublets/Contaminants
+Bipolar2_TACCTCTAGCCC,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar3_AAGCTGTCGGAA,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar3_ACTTTCTTCACG,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar4_ATATGGCGGAGT,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar6_CCATAGCGAGGN,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar6_TGTAGAATCTCG,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar6_GGCTGACAGACA,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar6_TAGACACTAGAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GTACTTTCAAGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_CCGTAGCTAGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_ATGAGTGAAGCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_ATGCCTCCGGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_ATTAAATTTACC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GAGATCGATGCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TTATACCTACTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_AAAAACTTTCTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_GTGGCCGCATTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TAGGCAGTCTGN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_AGTCGCCGCTCG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TCAACGCACGAG,BC5C,NaN,Doublets/Contaminants
+Bipolar3_AGTCACGCAGAG,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar5_CTGTCAATGCGN,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar1_CGAACGCCATGG,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar3_TATTCCCCGGCA,BC7 (Cone Bipolar cell 7),NaN,Doublets/Contaminants
+Bipolar1_GACTTCACACTG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_TAAGCAGTGGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TATTCATCTAAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_ATTAATGGCCTG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_GCACAGCGGGAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TGTGCAAGGAGA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_ACGCGCGATCAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_ATTGATGTTCCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GACCGCATCCTG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_CTTTACTGAAAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GATATCCAGGTN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_CCGATCTTAGGT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TTATACTTCACG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GGAGCGTTACCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_ACCCTCCGCCCC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_ATTTTAGTATAG,Doublets/Contaminants,NaN,BC2
+Bipolar5_ATGGCTAACCCG,BC2,NaN,BC2
+Bipolar6_TCTCACATATCT,BC2,NaN,BC2
+Bipolar1_AGGTGTTATGCC,BC2,NaN,BC2
+Bipolar6_GTGCTCTGGTCA,BC2,NaN,BC2
+Bipolar6_AATGTGCTTATT,BC2,NaN,BC2
+Bipolar5_GATCAGACTCTG,BC2,NaN,BC2
+Bipolar3_GTATCTGGAATA,BC2,NaN,BC2
+Bipolar1_CCTAGTTGCTGT,BC2,NaN,BC2
+Bipolar6_GCCGGCCGTTGG,BC2,NaN,BC2
+Bipolar6_ACGGCCATCCCN,BC2,NaN,BC2
+Bipolar6_GAGGCATCCACG,BC2,NaN,BC2
+Bipolar5_CCTGACGCTGGG,BC2,NaN,BC2
+Bipolar6_GCACTCCCGTGT,BC2,NaN,BC2
+Bipolar6_AATGATGTGGAC,BC2,NaN,BC2
+Bipolar3_GATTATACAGTG,BC2,NaN,BC2
+Bipolar5_TAAAGGTACGTC,BC2,NaN,BC2
+Bipolar5_TGTTAGGCGCTT,BC2,NaN,BC2
+Bipolar4_GACCCGGAGGAC,BC2,NaN,BC2
+Bipolar5_ACGTGAGGGCGA,BC2,NaN,BC2
+Bipolar6_TGCACCATCTGC,BC2,NaN,BC2
+Bipolar6_CTAATGGGGATA,BC1A,NaN,BC2
+Bipolar6_GCGATCACATCC,BC2,NaN,BC2
+Bipolar5_CAAGAGCGTACT,BC2,NaN,BC2
+Bipolar3_CCAGATAGAAAC,BC2,NaN,BC2
+Bipolar5_GCGGCAACACAG,BC2,NaN,BC2
+Bipolar5_TGAGGACCTGAG,BC2,NaN,BC2
+Bipolar6_TCACGTCCGCTC,BC2,NaN,BC2
+Bipolar5_TTTCGTACGTTN,BC2,NaN,BC2
+Bipolar6_ATATCCAAGTAG,BC2,NaN,BC2
+Bipolar5_GGGGTAGCCCCA,BC2,NaN,BC2
+Bipolar5_TCGGATATATCA,BC2,NaN,BC2
+Bipolar6_CACCACGAGGGC,BC2,NaN,BC2
+Bipolar6_GTTATGTGTCTG,BC2,NaN,BC2
+Bipolar2_CTCAGTCCAATA,BC2,NaN,BC2
+Bipolar3_GGGGAGGTCGGC,BC2,NaN,BC2
+Bipolar4_AGACATTACATA,BC2,NaN,BC2
+Bipolar5_TCAAATAGACTC,BC2,NaN,BC2
+Bipolar6_ATAATATGGCGT,BC5B,NaN,BC2
+Bipolar5_TGAAAGACGCCA,BC5B,NaN,BC2
+Bipolar5_TTTTATATGATC,BC5C,NaN,BC1B
+Bipolar6_CCCCAAAGCTCG,BC1B,NaN,BC1B
+Bipolar5_CATTGGACGACC,BC1B,NaN,BC1B
+Bipolar6_CAAAACGTAGGT,BC1B,NaN,BC1B
+Bipolar1_TATGCATCAAAG,BC1B,NaN,BC1B
+Bipolar4_ACACCGGCGCCC,BC1B,NaN,BC1B
+Bipolar6_ATGGTATAAGTA,BC1B,NaN,BC1B
+Bipolar5_TAGGATTACTCG,BC1B,NaN,BC1B
+Bipolar6_ATTATTTCTCTA,BC1B,NaN,BC1B
+Bipolar1_TACCTAAATGCA,BC1B,NaN,BC1B
+Bipolar5_CTGTGACCAAAG,BC1B,NaN,BC1B
+Bipolar6_ATTATCCCGTTA,BC1B,NaN,BC1B
+Bipolar6_CTGACCACCTGA,BC1B,NaN,BC1B
+Bipolar6_TACAGATCGAAG,BC1B,NaN,BC1B
+Bipolar2_AGTCCACGTCTG,BC1B,NaN,BC1B
+Bipolar5_TTCGAGGGTCGT,BC1B,NaN,BC1B
+Bipolar3_CGGGGCGAAAAT,BC1B,NaN,BC1B
+Bipolar5_GTGCCCCCCCAG,BC1B,NaN,BC1B
+Bipolar2_AAGATTTTGGTC,BC1B,NaN,BC1B
+Bipolar6_ACTCCTGAGCCT,BC1B,NaN,BC1B
+Bipolar5_ACACCACTACTT,BC1B,NaN,BC1B
+Bipolar5_GGGTGAGGGACC,BC1B,NaN,BC1B
+Bipolar6_TTAGAGATCCCT,BC1B,NaN,BC1B
+Bipolar6_TTGCCACCAATG,BC1B,NaN,BC1B
+Bipolar6_CTACAGGCCTAT,BC1A,NaN,BC1B
+Bipolar6_CCGTTTACGGAA,BC1A,NaN,BC1B
+Bipolar4_TCGTATGGGCGT,BC1B,NaN,BC1B
+Bipolar6_CCGAGAGAGTAT,BC1B,NaN,BC1B
+Bipolar5_CGACCTCTGAAN,BC1B,NaN,BC1B
+Bipolar3_CAATCCGGAGCT,BC1B,NaN,BC1B
+Bipolar5_AGAATTGACACA,BC1B,NaN,BC1B
+Bipolar5_CGAACGTCGGGT,BC1B,NaN,BC1B
+Bipolar5_TTAGAGATCCGT,BC1B,NaN,BC1B
+Bipolar1_CAGGGGCGAGAA,BC1B,NaN,BC1B
+Bipolar6_AGATAACGCGAG,BC1B,NaN,BC1B
+Bipolar5_ATAACCATCACG,BC1B,NaN,BC1B
+Bipolar5_TTGTTCCTCCGG,BC1B,NaN,BC1B
+Bipolar5_CAAGGAGATCAA,BC1B,NaN,BC1B
+Bipolar1_ACCAGCGCAACT,BC1B,NaN,BC1B
+Bipolar5_TGGAGACATAGC,BC1B,NaN,BC1B
+Bipolar4_AGTGCTCCGATG,BC1B,NaN,BC1B
+Bipolar6_GGCGTTCGAGTA,BC1B,NaN,BC1B
+Bipolar6_AGAAGCCCTAAC,BC1B,NaN,BC1B
+Bipolar3_ATCCGCGTGCTG,BC1A,NaN,BC1B
+Bipolar6_ATACGTCACCGT,BC1A,NaN,BC1B
+Bipolar6_CTCCCTGGATGG,BC1A,NaN,BC1B
+Bipolar2_CATATGGCAGTC,BC1A,NaN,BC1B
+Bipolar6_ATGTCCCGGCGA,BC1A,NaN,BC1B
+Bipolar6_TAGCACAGGATT,BC1B,NaN,BC1B
+Bipolar2_GTGCGTCTCCAT,BC1B,NaN,BC1B
+Bipolar5_AGGAATATGTAG,BC1B,NaN,BC1B
+Bipolar6_GCTCCTAATTCT,BC1B,NaN,BC1B
+Bipolar4_CTGTACCGTAAC,BC1B,NaN,BC1B
+Bipolar5_GTGGTACTGGTA,BC1B,NaN,BC1B
+Bipolar6_GTATCGCCTTCA,BC1B,NaN,BC1B
+Bipolar6_TGGTATACTCAG,BC1B,NaN,BC1B
+Bipolar6_TATTTAGCGCGT,BC1B,NaN,BC1B
+Bipolar5_AGCCTGGTGAGT,BC1B,NaN,BC1B
+Bipolar5_ACCAAGTCGCAG,BC1B,NaN,BC1B
+Bipolar2_CCTGCCTATATC,BC1B,NaN,BC1B
+Bipolar5_AGTGTCATCATA,BC1B,NaN,BC1B
+Bipolar6_GTTACGACGTTN,BC1B,NaN,BC1B
+Bipolar1_CTTAAGCTAATT,BC1B,NaN,BC1B
+Bipolar2_CGCTGCAGGAAG,BC1B,NaN,BC1B
+Bipolar6_CGTCATAATTGG,BC1B,NaN,BC1B
+Bipolar4_CTGCGCCAGCTC,BC1A,NaN,BC1B
+Bipolar5_TCGCATAAATTA,BC1B,NaN,BC1B
+Bipolar1_CGTCGCCGTCCC,BC1B,NaN,BC1B
+Bipolar2_AAACCACGACCT,BC1B,NaN,BC1B
+Bipolar5_CCCCAGTAACGA,BC1B,NaN,BC1B
+Bipolar6_CGGTCTCCGGTG,BC1B,NaN,BC1B
+Bipolar4_ACGCTCGCACTG,BC1B,NaN,BC1B
+Bipolar5_TCGAAGAACTCT,BC1B,NaN,BC1B
+Bipolar5_GCCTTACAGGGG,BC1B,NaN,BC1B
+Bipolar2_GGAAGTGGTGCA,BC1B,NaN,BC1B
+Bipolar1_GATGCCTTTACT,BC1B,NaN,BC1B
+Bipolar5_TCTCTGTCGATA,BC1B,NaN,BC1B
+Bipolar5_ACCCCCCGATAC,BC1B,NaN,BC1B
+Bipolar5_GTTGTTGCTCAA,BC1B,NaN,BC1B
+Bipolar1_GTCAACTCGAAG,BC1B,NaN,BC1B
+Bipolar6_CTTATAACACCA,BC1B,NaN,BC1B
+Bipolar5_GTTCGCCACGAA,BC1B,NaN,BC1B
+Bipolar2_GGGTTAGACATC,BC1B,NaN,BC1B
+Bipolar6_TCACACACAACG,BC1B,NaN,BC1B
+Bipolar5_AAGACATCAGAA,BC1B,NaN,BC1B
+Bipolar6_CCGTAAACACCA,BC1B,NaN,BC1B
+Bipolar4_AGCAATAACTAC,BC1B,NaN,BC1B
+Bipolar6_GGTCAGAAAGAN,BC1B,NaN,BC1B
+Bipolar5_GCGGTAGGTCAT,BC1B,NaN,BC1B
+Bipolar5_CAACTCGCGCTA,BC1B,NaN,BC1B
+Bipolar3_TCCAGAATGGCT,BC1B,NaN,BC1B
+Bipolar5_ATCATGGGGGAT,BC1B,NaN,BC1B
+Bipolar5_GTACAGACAGTC,BC1A,NaN,BC1B
+Bipolar5_GTTCGATAGGCG,BC1A,NaN,BC1B
+Bipolar2_GTCTGGCCCTGT,BC1A,NaN,BC1B
+Bipolar5_CTGTTCTCTCGC,BC1A,NaN,BC1B
+Bipolar1_CTTTTCAGTTCC,BC1A,NaN,BC1B
+Bipolar6_AAGCGCTGGGTC,BC1A,NaN,BC1B
+Bipolar6_TCTGGCTCAACC,BC1A,NaN,BC1B
+Bipolar5_TTTCTCGGATGG,BC1A,NaN,BC1B
+Bipolar5_TATGGGGCAACT,BC1B,NaN,BC1B
+Bipolar5_CCAACATCCCTN,BC1B,NaN,BC1B
+Bipolar5_GGAATTGACACA,BC1B,NaN,BC1B
+Bipolar5_TTGACCTGTCCN,BC1B,NaN,BC1B
+Bipolar5_GTATTAAAAAGA,BC1B,NaN,BC1B
+Bipolar4_CAACTTAGACTC,BC1B,NaN,BC1B
+Bipolar5_TAGTTCCCCTCT,BC1B,NaN,BC1B
+Bipolar3_ATTATTACTACC,BC1B,NaN,BC1B
+Bipolar4_TGTTATACACGG,BC1B,NaN,BC1B
+Bipolar5_TGCCCAACCTCT,BC1B,NaN,BC1B
+Bipolar6_AGGTAGCTCCGA,BC1B,NaN,BC1B
+Bipolar2_TGCCGATCGATC,BC1B,NaN,BC1B
+Bipolar3_ATCTTACCGGTC,BC1B,NaN,BC1B
+Bipolar5_AGCTAGCGCACT,BC1B,NaN,BC1B
+Bipolar5_TCTCTGTGGCTT,BC1B,NaN,BC1B
+Bipolar6_AGTTAAGCGTTC,BC1B,NaN,BC1B
+Bipolar5_GGCGCACGCGCC,BC5D,NaN,BC1B
+Bipolar2_AGAGGGATACCA,BC5D,NaN,BC1B
+Bipolar1_CGGTTGGAAAGT,BC6,NaN,BC1B
+Bipolar5_GCGGTCTGTCCG,BC1A,NaN,BC1B
+Bipolar2_GAGAGCCTTCAA,BC1A,NaN,BC1B
+Bipolar6_CGGACATGGTAG,BC1A,NaN,BC1B
+Bipolar6_CTTTTTAGGAAC,BC1A,NaN,BC1B
+Bipolar6_GCTTAAGGTCGC,BC1A,NaN,BC1B
+Bipolar4_ATTACCTTTTTA,BC1A,NaN,BC1B
+Bipolar6_GGCAAGACGATG,BC1A,NaN,BC1B
+Bipolar4_ATCGCGACGTAC,BC1B,NaN,BC1B
+Bipolar4_CGCTCTGGTCTG,BC1B,NaN,BC1B
+Bipolar3_CATCTAGACCGT,BC1B,NaN,BC1B
+Bipolar4_TCCAACTCCGTT,BC1B,NaN,BC1B
+Bipolar5_GCATACTTATTT,BC1B,NaN,BC1B
+Bipolar6_GTGACGAAACCT,BC1B,NaN,BC1B
+Bipolar6_ATCGACCCATTG,BC1B,NaN,BC1B
+Bipolar5_TAGATAAGGGCT,BC1B,NaN,BC1B
+Bipolar6_AGCTTGTTACGC,BC1B,NaN,BC1B
+Bipolar3_CAATACGAGTAG,BC1B,NaN,BC1B
+Bipolar5_ATGCCCGCTTTG,BC1B,NaN,BC1B
+Bipolar4_CCATTAACGAGT,BC1B,NaN,BC1B
+Bipolar5_ATTGACTAAGGN,BC1B,NaN,BC1B
+Bipolar2_GCTCAACTTCGG,BC1B,NaN,BC1B
+Bipolar1_AGACAATGGGTC,BC1B,NaN,BC1B
+Bipolar5_GCTTACGATCTA,BC1B,NaN,BC1B
+Bipolar5_GAAGAGAACTGN,AC (Amacrine cell),NaN,BC1B
+Bipolar5_CCGTTGACTGGA,BC1A,NaN,BC1B
+Bipolar5_TTGCTCGATCCG,BC1A,NaN,BC1B
+Bipolar5_ATGCGCGGCTCT,BC1A,NaN,BC1B
+Bipolar5_GCCTCATCTCCT,BC1A,NaN,BC1B
+Bipolar2_CTGTTTAGAATC,BC1B,NaN,BC1B
+Bipolar6_GATTACGACTCT,BC1B,NaN,BC1B
+Bipolar2_TAGAGCGTGACG,BC1B,NaN,BC1B
+Bipolar1_TGTGGCTTCCGA,BC1B,NaN,BC1B
+Bipolar6_GGGCAATGACAN,BC1B,NaN,BC1B
+Bipolar4_GGTTCGATGGCT,BC1B,NaN,BC1B
+Bipolar5_AAGAGAGTTCAC,BC1B,NaN,BC1B
+Bipolar4_TTTTGGTGCGAG,BC1B,NaN,BC1B
+Bipolar5_GGTGCTAAGGTN,BC1B,NaN,BC1B
+Bipolar6_GAACGAAGACAA,BC1B,NaN,BC1B
+Bipolar6_CTACCGTCCAGG,BC1B,NaN,BC1B
+Bipolar5_GCATTGGAACGG,BC1B,NaN,BC1B
+Bipolar5_TATTCGATAGTC,BC1B,NaN,BC1B
+Bipolar6_CTACATCGGGCC,BC1B,NaN,BC1B
+Bipolar5_GACAGATTACCG,BC1B,NaN,BC1B
+Bipolar2_ACGGCGACTCGT,BC1B,NaN,BC1B
+Bipolar5_AGTACATTTCTC,BC1B,NaN,BC1B
+Bipolar6_AACTGCCACGAC,BC1B,NaN,BC1B
+Bipolar3_GGCAGCTTTCGA,BC1B,NaN,BC1B
+Bipolar5_TCCTCCAGCTCA,BC1B,NaN,BC1B
+Bipolar6_AAGCCTAGCAAG,BC5D,NaN,BC1B
+Bipolar6_GCCGCTTAATTA,BC5D,NaN,BC1B
+Bipolar5_CGACTCACCTAC,AC (Amacrine cell),NaN,BC1B
+Bipolar5_GTCACCATCGGT,BC1A,NaN,BC1B
+Bipolar2_GAGCACTCAATC,BC1A,NaN,BC1B
+Bipolar6_GTTCCACGTGCG,BC1A,NaN,BC1B
+Bipolar3_CTGAAAAGTAGT,BC1A,NaN,BC1B
+Bipolar6_CGAGCGGCGCTA,BC1A,NaN,BC1B
+Bipolar5_CGGTTCTCACCA,BC1A,NaN,BC1B
+Bipolar5_ACACACGTTACC,BC1A,NaN,BC1B
+Bipolar6_CGTCATCCGCCC,BC1A,NaN,BC1B
+Bipolar5_ACCATATTGACA,BC1A,NaN,BC1B
+Bipolar4_CGGTCCAACACA,BC1A,NaN,BC1B
+Bipolar3_TCACCCTTCAGC,BC1A,NaN,BC1B
+Bipolar4_AGTACTTGTTGA,BC1A,NaN,BC1B
+Bipolar3_TATATACCTAGC,BC1B,NaN,BC1B
+Bipolar3_GGCTTGAAAACG,BC1B,NaN,BC1B
+Bipolar5_TTTACCAGGTTN,BC1B,NaN,BC1B
+Bipolar2_ATAGGATCGAGA,BC1B,NaN,BC1B
+Bipolar5_GGCCATAGTAAA,BC1B,NaN,BC1B
+Bipolar6_TATCTCATCTTT,BC1B,NaN,BC1B
+Bipolar1_GCGAGCAGACGC,BC1B,NaN,BC1B
+Bipolar5_GTTTCAGTGGAC,BC1B,NaN,BC1B
+Bipolar1_ACTCGGCGCGAC,BC1B,NaN,BC1B
+Bipolar5_CCAAGAGTTTAN,BC1B,NaN,BC1B
+Bipolar6_AACCGGTGTACC,BC1B,NaN,BC1B
+Bipolar1_TAATGCACAACC,BC1B,NaN,BC1B
+Bipolar3_CCCCTCCTAAAC,BC1B,NaN,BC1B
+Bipolar6_GCCTCGGGCTAA,BC1B,NaN,BC1B
+Bipolar5_ACATTGGAACGG,BC1B,NaN,BC1B
+Bipolar4_TCATCCGCAACA,BC1B,NaN,BC1B
+Bipolar5_GAGGCGAAGGAC,BC1B,NaN,BC1B
+Bipolar6_CAAGAAAGGTGA,BC1B,NaN,BC1B
+Bipolar5_AAGTTTGAGGTN,BC1B,NaN,BC1B
+Bipolar4_GGTATTGATAGA,BC1B,NaN,BC1B
+Bipolar3_GAACTTGCAGTC,BC2,NaN,BC1B
+Bipolar3_CCGGACGGCAGA,BC5C,NaN,BC5B
+Bipolar5_TCTAAGAGTACG,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_TTCAAGGGCTAA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar5_GATGGCGGCCGT,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_GTGTCGCACGCN,BC5B,NaN,BC5B
+Bipolar6_TAGACCAGCTGC,BC5B,NaN,BC5B
+Bipolar5_AGAGCCCCAGAT,BC5B,NaN,BC5B
+Bipolar6_TTTCATGCGGTG,BC5B,NaN,BC5B
+Bipolar5_CGTTAGCAACCA,BC5B,NaN,BC5B
+Bipolar6_TATCACTCTTCG,BC5B,NaN,BC5B
+Bipolar2_CTCGCTACAGTA,BC5B,NaN,BC5B
+Bipolar3_ACATGAAATTAA,BC5B,NaN,BC5B
+Bipolar6_CTAGATTAGGTT,BC5B,NaN,BC5B
+Bipolar6_GTACGCACGAAC,BC5B,NaN,BC5B
+Bipolar5_GAAGTCTCCAAN,BC5B,NaN,BC5B
+Bipolar3_CTATTTTAGAAG,BC5B,NaN,BC5B
+Bipolar5_CATTAGCTGTCG,BC5B,NaN,BC5B
+Bipolar2_AGGCGGGATAGA,BC5B,NaN,BC5B
+Bipolar6_TTTTGCATACGT,BC5B,NaN,BC5B
+Bipolar5_GGCTATTGACGC,BC5B,NaN,BC5B
+Bipolar5_GTATCCGGAGAA,BC5B,NaN,BC5B
+Bipolar6_GGTTGCTCTCCT,BC5B,NaN,BC5B
+Bipolar3_GGATAGCTCATC,BC5B,NaN,BC5B
+Bipolar3_ACGTAGATAATT,BC5B,NaN,BC5B
+Bipolar6_ATAGCTCCACAG,BC5B,NaN,BC5B
+Bipolar6_CTTTAGCGTTCG,BC5B,NaN,BC5B
+Bipolar5_CGTAAACCCCAC,BC5B,NaN,BC5B
+Bipolar5_GGAGCCCCAGAT,BC5B,NaN,BC5B
+Bipolar5_CTATTTTAGGCA,BC5B,NaN,BC5B
+Bipolar5_GGCCACAGAGAT,BC5B,NaN,BC5B
+Bipolar6_GGAGGTTCGGAG,BC5C,NaN,BC5B
+Bipolar4_GCATTTAAGGCT,BC5C,NaN,BC5B
+Bipolar1_GCCGAAATCTGC,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar2_CTCACCAGACCA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_GTTATCGCGGGC,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_CCTACGCCGGTN,BC5B,NaN,BC5B
+Bipolar5_GAGCTATATAAN,BC5B,NaN,BC5B
+Bipolar5_GAGTCACCCTGA,BC5B,NaN,BC5B
+Bipolar5_CACTTTCCCTCT,BC5B,NaN,BC5B
+Bipolar5_TTACCTGCCCTN,BC5B,NaN,BC5B
+Bipolar6_GAAATGGTCATA,BC5B,NaN,BC5B
+Bipolar5_ATGCTTCAAGTC,BC5B,NaN,BC5B
+Bipolar5_GCAAGGATGAAG,BC5B,NaN,BC5B
+Bipolar6_GGACCTAAAGCG,BC5B,NaN,BC5B
+Bipolar6_CGAGAGGTCTTG,BC5B,NaN,BC5B
+Bipolar2_GCTTATGGGATA,BC5B,NaN,BC5B
+Bipolar5_TGCCGGAACTGG,BC5B,NaN,BC5B
+Bipolar5_TTACCTGCACCT,BC5B,NaN,BC5B
+Bipolar5_ACGGACAAATAN,BC5B,NaN,BC5B
+Bipolar6_CTCAGGTGAGGC,BC5B,NaN,BC5B
+Bipolar6_TGTTGTTTTCTA,BC5B,NaN,BC5B
+Bipolar1_TTATATGCCTGG,BC5B,NaN,BC5B
+Bipolar5_AGAGTTGTCACN,BC5B,NaN,BC5B
+Bipolar5_GGAAGGCTTGGG,BC5B,NaN,BC5B
+Bipolar5_TTAGGGCTGGGC,BC5C,NaN,BC5B
+Bipolar1_CTATTCTTCTCG,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar5_GTAGCAGGCCCG,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar5_ATATTACTATTA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_TGAACTGGGATA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar4_CATTGCCCGCCT,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_GCCGACCCCTGC,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar3_GACGAATTGAGA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar4_GTTATTCCCTGA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar3_CCGCTACAGTCA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_GTGACCGATTCA,BC5B,NaN,BC5B
+Bipolar5_TGCGCTTTCTTC,BC5B,NaN,BC5B
+Bipolar5_ACATCTAAAAGT,BC5B,NaN,BC5B
+Bipolar6_GATATTGAACCA,BC5B,NaN,BC5B
+Bipolar5_TGAATCTTAGTT,BC5B,NaN,BC5B
+Bipolar5_CTTTGACGAGTG,BC5B,NaN,BC5B
+Bipolar6_GAGTGAGCGATG,BC5B,NaN,BC5B
+Bipolar4_CATAACTACGCT,BC5B,NaN,BC5B
+Bipolar5_GGGTGTACTGGG,BC5B,NaN,BC5B
+Bipolar6_GACGGAGACCTT,BC5B,NaN,BC5B
+Bipolar1_CGGTAATTTGGA,BC5B,NaN,BC5B
+Bipolar5_GAACATTGACAA,BC5B,NaN,BC5B
+Bipolar6_CCAGTAGGTAGA,BC5B,NaN,BC5B
+Bipolar6_GAGGAGGTCAGA,BC5B,NaN,BC5B
+Bipolar5_CCGTCTCTACGG,BC5C,NaN,BC5B
+Bipolar1_TACCCGACCCCG,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GGTGGACTGATG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TCGATAGCCAGN,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CTTCATGTTGGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AGGTGCCGTTAN,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_TGATTTACAGCC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_ATGAACTATTGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCATTTAAGTAA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GCTACGGATCCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GGAGTTAGCTGA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GCATGATTCTCA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CGTAGTATTCTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TTACCGTGTCTC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCGCTATGACAT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CTCTCAGGCAAG,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCACCTGGAATC,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AAGCCGAAGCTA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CCGGCTTACTCG,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ACATCAGGGCAC,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GGTGAAAACCCT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CCCCAAAAAAGC,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GGAAGGCTGGTT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ATGCCGTCTAAT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TAAAGGTCAGCA,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCATTTAAGTTN,BC5C,NaN,BC5B
+Bipolar6_AACAGCAAGGAA,BC3B,NaN,BC5B
+Bipolar5_GGACAGGCTATC,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_TCTGAACGAGAA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar3_GCTGCGGACTTG,BC5B,NaN,BC5B
+Bipolar6_TGTATCAGTGTG,BC5B,NaN,BC5B
+Bipolar3_TTAGACCATTGA,BC5B,NaN,BC5B
+Bipolar6_TAGATTCGTTTA,BC5B,NaN,BC5B
+Bipolar6_ACAGCCAGCAGT,BC5B,NaN,BC5B
+Bipolar5_CGTTACTCGCGT,BC5B,NaN,BC5B
+Bipolar6_GGTGGGCTAGGN,BC5B,NaN,BC5B
+Bipolar5_GCAGATCGCTCT,BC5B,NaN,BC5B
+Bipolar6_GAGCCTAATAAG,BC5B,NaN,BC5B
+Bipolar5_AAGCGAGGACTG,BC5B,NaN,BC5B
+Bipolar5_CTTCGGTTAGAA,BC5B,NaN,BC5B
+Bipolar5_GACCTGGCGAGA,BC5B,NaN,BC5B
+Bipolar6_TTTTCGTTAGTT,BC5B,NaN,BC5B
+Bipolar2_TTTACTTATCAC,BC5B,NaN,BC5B
+Bipolar5_ATACTCGTGACN,BC5B,NaN,BC5B
+Bipolar5_TGTGTTACAACT,BC5C,NaN,BC5B
+Bipolar6_CTATACGTTCCC,BC5C,NaN,BC5B
+Bipolar5_TAATCTGAGATT,BC8/9 (mixture of BC8 and BC9),NaN,BC5B
+Bipolar1_GAGCGTACCTTA,BC8/9 (mixture of BC8 and BC9),NaN,BC5B
+Bipolar5_TTGATTACGATG,BC8/9 (mixture of BC8 and BC9),NaN,BC5B
+Bipolar6_ATGGCGGGAGTC,BC8/9 (mixture of BC8 and BC9),NaN,BC5B
+Bipolar2_CTGCTCACAACC,Doublets/Contaminants,NaN,BC5B
+Bipolar6_TGAGGGTACTCC,Doublets/Contaminants,NaN,BC5B
+Bipolar5_AAGACCCGATAA,Doublets/Contaminants,NaN,BC5B
+Bipolar6_AATCCTTGCTTA,Doublets/Contaminants,NaN,BC5B
+Bipolar1_TCGACAAGGAAG,Doublets/Contaminants,NaN,BC5B
+Bipolar5_TGCTTGCGTGAN,Doublets/Contaminants,NaN,BC5B
+Bipolar6_TACGTCGCTACG,Doublets/Contaminants,NaN,BC5B
+Bipolar6_AGTTAACATGCC,Doublets/Contaminants,NaN,BC5B
+Bipolar1_CGTGCGTCCATC,Doublets/Contaminants,NaN,BC5B
+Bipolar6_GTGAGCCCACAN,Doublets/Contaminants,NaN,BC5B
+Bipolar6_CGTACAACGTGA,MG (Mueller Glia),NaN,BC5B
+Bipolar4_CTAGGTACGTCA,MG (Mueller Glia),NaN,BC5B
+Bipolar5_ATTCACAGGACA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar2_TCCCCGAAGACA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar2_ATCTTGAATAAA,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar6_TGTGCCGAAGTT,BC5A (Cone Bipolar cell 5A),NaN,BC5B
+Bipolar5_CAGGACACGAGT,BC5B,NaN,BC5B
+Bipolar5_ACATGAACTCGC,BC5B,NaN,BC5B
+Bipolar6_GGATCCTCAACC,BC5B,NaN,BC5B
+Bipolar6_GCCCTTGCGCAA,BC5B,NaN,BC5B
+Bipolar5_TGGGTAAGCCAT,BC5B,NaN,BC5B
+Bipolar6_AACCCTATTCGT,BC5B,NaN,BC5B
+Bipolar5_GCATCTAAAAGT,BC5B,NaN,BC5B
+Bipolar5_CCTCATAGCAAG,BC5B,NaN,BC5B
+Bipolar5_GTGCTTCAAGTC,BC5B,NaN,BC5B
+Bipolar3_CCATTCCCATTA,BC5B,NaN,BC5B
+Bipolar6_CTGTCACTCTAG,BC5B,NaN,BC5B
+Bipolar4_CATGGATTCTCT,BC5B,NaN,BC5B
+Bipolar6_CATAAACGTAGN,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_GCCCCCTCTCGT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GTGCCCGGTAAC,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_TCCAACTAGGCA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CAGAGGGATCGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GCGATCTTAATG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CAAGCAGGAGAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GAATGAGGCCAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_TACCTCCAGTCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_AAACAAAAACTG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CTCAGCTTGAGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_AGGACTCGAATT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CTATTATTAGCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GCCGCGTACTAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TATCTCGTTAAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CATCACGCCTAC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_TGTTTTAACCCA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TGCCACTGCAGC,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AATTATTTGGAA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ATGGTTGGTGGA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GACTTCAGGGGA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CAATCTCCGTTA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ACGGATCTGATC,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AAAACGCTTCCG,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GGCGACGTCCTT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CGTCTATAGGCA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CGAAAATTCTTT,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GAAGAGCCCGGC,BC2,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_TGGTAAGTTACT,BC3A,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_TTTGAACTGCGG,BC3A,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GCTAAGGGTGGT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GATTGCCGAAGT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TGACCCCTTGCC,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TACCGGTTTCAG,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_CCGACCTGGTAA,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CTCACCCACGCT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_ATCGCGACCAGT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CCTGCCAGGACC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_AATTTCGACTGA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_GGCCACTGGAGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CACTTGCAAAGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_CGACCCATCCGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TGGTTCACGCAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GCTCCAAAAACA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_TATGGCCAAACC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GTAGGGGGTACG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GTCTCTTCCTTC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_AGCATGAACTGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TCAAGTAGTCAC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_AGCGGAAGAGAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_ACCTCCGTAGAA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CAGTCCAGATAA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TATATAAAACGA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CTTTGAGATACG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_GGGCTATCGATG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_TTCGAGAAACAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_AAACCAATTGTC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CCCCTGCATACG,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CCCACAGCAGAA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CTTCTGCTCGGA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_ACAACCTTTGGA,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_TACAGTAGCATT,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CTCACTTAATTT,BC5C,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ACTAAAAGGCTN,Doublets/Contaminants,NaN,BC3A
+Bipolar5_GTCGCGCGCCCC,BC3A,NaN,BC3A
+Bipolar5_AGCCTGGAGAGT,BC3A,NaN,BC3A
+Bipolar3_CCCGCTATCTTC,BC3A,NaN,BC3A
+Bipolar1_CTCGGTGACAAT,BC3A,NaN,BC3A
+Bipolar3_AGTGAGTTCCTT,BC3A,NaN,BC3A
+Bipolar1_GTCCTCACGTCC,BC3A,NaN,BC3A
+Bipolar6_CATCTACGAGCC,BC3A,NaN,BC3A
+Bipolar2_TAAGAGCGGAGG,BC3A,NaN,BC3A
+Bipolar2_TACCTTAGGCCC,BC3A,NaN,BC3A
+Bipolar5_TGTTGGATTCCT,BC3A,NaN,BC3A
+Bipolar1_GCACCACGAAAG,BC3A,NaN,BC3A
+Bipolar3_GTCTAGTACTAA,BC3A,NaN,BC3A
+Bipolar5_GCCTGGCAGGCC,BC3A,NaN,BC3A
+Bipolar6_TTACTGAGATCG,BC3A,NaN,BC3A
+Bipolar4_TTCCGACTGCGT,BC3A,NaN,BC3A
+Bipolar6_GCTAAAGGTCAA,BC3A,NaN,BC3A
+Bipolar2_AGGGAGGATCCA,BC3A,NaN,BC3A
+Bipolar5_AGAGGACAGTAT,BC3A,NaN,BC3A
+Bipolar5_AGGCTAATGGCA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_TGTACACATTTA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_AAACGGGGGAAN,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar1_AGTAACTGCTTG,BC3A,NaN,BC3A
+Bipolar1_GGTTCGTAGCCC,BC3A,NaN,BC3A
+Bipolar4_GACTACTCTATA,BC3A,NaN,BC3A
+Bipolar4_AGTTACGAACGT,BC3A,NaN,BC3A
+Bipolar4_CTGTCGTGCTTG,BC3A,NaN,BC3A
+Bipolar5_GTTTGCCAAATC,BC3A,NaN,BC3A
+Bipolar2_AGTATATCGGCA,BC3A,NaN,BC3A
+Bipolar6_ATCTTCCCAATC,BC3A,NaN,BC3A
+Bipolar6_GACTGATAATGG,BC3A,NaN,BC3A
+Bipolar5_AGGTCAGATGCA,BC3A,NaN,BC3A
+Bipolar6_CCGTGCAGGGCC,BC3A,NaN,BC3A
+Bipolar6_TATTCTAAGCTA,BC3A,NaN,BC3A
+Bipolar2_CTTAATGTCAAG,BC3A,NaN,BC3A
+Bipolar5_CAACGCATTACA,BC3A,NaN,BC3A
+Bipolar6_AGAGTGCTCCAA,BC3A,NaN,BC3A
+Bipolar1_AAGTCTCCGCGA,BC3A,NaN,BC3A
+Bipolar5_TCCATTTCCGGA,BC3A,NaN,BC3A
+Bipolar4_CGTGAATCGTCT,BC3A,NaN,BC3A
+Bipolar3_TGTGGTCAAAGC,BC3A,NaN,BC3A
+Bipolar5_ATGAGAGAGAAA,BC3A,NaN,BC3A
+Bipolar5_GTTGTACTTGGN,BC3A,NaN,BC3A
+Bipolar5_ATGTCCTCCCCA,BC5B,NaN,BC3A
+Bipolar6_GCAATGCTTTCA,BC3A,NaN,BC3A
+Bipolar4_CCAAAGAGAAGA,BC3A,NaN,BC3A
+Bipolar5_ACTTGTGTATCG,BC3A,NaN,BC3A
+Bipolar6_GGCACAGCGAGA,BC3A,NaN,BC3A
+Bipolar5_GACCCCTGCTCA,BC3A,NaN,BC3A
+Bipolar1_TCCAGGGCGACG,BC3A,NaN,BC3A
+Bipolar6_ATGCCCAGCCAC,BC3A,NaN,BC3A
+Bipolar2_AACTCACCGGTC,BC3A,NaN,BC3A
+Bipolar2_CACCTCGTCGCC,BC3A,NaN,BC3A
+Bipolar4_ACTGGAACACAG,BC3A,NaN,BC3A
+Bipolar6_TTTGCGAGATAT,BC3A,NaN,BC3A
+Bipolar5_TTTGTTCCTAGA,BC3A,NaN,BC3A
+Bipolar2_CAGCGGAAGTGT,BC3A,NaN,BC3A
+Bipolar6_TATTCGGCACGN,BC3A,NaN,BC3A
+Bipolar5_CAGTTGGCGGCA,BC3A,NaN,BC3A
+Bipolar3_TCCAAACTCTCT,BC3A,NaN,BC3A
+Bipolar6_GTGCTGACGAAT,BC3A,NaN,BC3A
+Bipolar6_ATTATAATTATG,BC3A,NaN,BC3A
+Bipolar6_GTAAACCTATGN,BC5D,NaN,BC3A
+Bipolar6_CGTTGGTATTCT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_ACAATTTCAGGA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar3_CCCCCGGATACC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_GCAATTTCAGGA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_GTCTTTTAAACA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar1_CCATCACGAAGC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_TACAGTGAGGCT,BC3A,NaN,BC3A
+Bipolar5_TCGCATTGATTN,BC3A,NaN,BC3A
+Bipolar5_GATGACATTGTN,BC3A,NaN,BC3A
+Bipolar4_TAGTTCAACCGT,BC3A,NaN,BC3A
+Bipolar1_ACCCATCCCTAG,BC3A,NaN,BC3A
+Bipolar2_AAGTTACGACTA,BC3A,NaN,BC3A
+Bipolar3_CAAATAGATATC,BC3A,NaN,BC3A
+Bipolar6_GCATATTACAAA,BC3A,NaN,BC3A
+Bipolar3_CACTGGGACCGT,BC3A,NaN,BC3A
+Bipolar3_ACGTTCACGAGG,BC3A,NaN,BC3A
+Bipolar5_CAATTGTGTTCG,BC3A,NaN,BC3A
+Bipolar6_GTGTCGCCTAAT,BC3A,NaN,BC3A
+Bipolar5_ATCGCGCGCCCC,BC3A,NaN,BC3A
+Bipolar3_CGCTTCAATCGC,BC3A,NaN,BC3A
+Bipolar4_GTATATTTCGTT,BC5D,NaN,BC3A
+Bipolar6_TGAAATCTCTAG,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_GGCTAGTTAGAG,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_GTCACAGTCCCC,BC2,NaN,BC3A
+Bipolar6_CATGCACTGTAT,BC2,NaN,BC3A
+Bipolar2_CGGATGCAATCG,BC2,NaN,BC3A
+Bipolar5_TTCAGAGGAATT,BC2,NaN,BC3A
+Bipolar3_ACCCGTAACTCA,BC3A,NaN,BC3A
+Bipolar5_TCGCATTGGTCA,BC3A,NaN,BC3A
+Bipolar5_AGCATCGCGACC,BC3A,NaN,BC3A
+Bipolar5_GAGGGAAACCTG,BC3A,NaN,BC3A
+Bipolar6_AGTCGCCCCAGA,BC3A,NaN,BC3A
+Bipolar6_TGTTCAGTGTTA,BC3A,NaN,BC3A
+Bipolar2_GTCTCTTATGCT,BC3A,NaN,BC3A
+Bipolar5_GGCAATGGATTG,BC3A,NaN,BC3A
+Bipolar1_AGCCTTGCCGAG,BC3A,NaN,BC3A
+Bipolar5_ATGCAGAGAGAA,BC3A,NaN,BC3A
+Bipolar5_CTATCGCAAAAT,BC3A,NaN,BC3A
+Bipolar2_AGTATACCCCTC,BC3A,NaN,BC3A
+Bipolar2_TCTAGGGCGAGG,BC3A,NaN,BC3A
+Bipolar5_GCCCAAAACTTA,BC3A,NaN,BC3A
+Bipolar5_GGTAACAGGAAT,BC3A,NaN,BC3A
+Bipolar4_GGAACGACACTA,BC3A,NaN,BC3A
+Bipolar3_GCCTTCACTAAC,BC3B,NaN,BC3A
+Bipolar5_TGACTACAGGGA,BC3B,NaN,BC3A
+Bipolar5_GCCTCCGATTAC,BC5A (Cone Bipolar cell 5A),NaN,BC3A
+Bipolar5_AAGATCGGATAA,BC5D,NaN,BC3A
+Bipolar2_GTAACCTTTAAG,BC5D,NaN,BC3A
+Bipolar5_CCGGTCTCTACA,BC5D,NaN,BC3A
+Bipolar6_ATTCGCTTAGTG,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_TGTGAGTATGCC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_ATAAAGGCTCCG,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar4_GACCTTGAGTCT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_CTCGGCGAGACT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_GGTTCGCAGAAC,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar1_TATGGCTGGCTG,BC2,NaN,BC3A
+Bipolar5_TGCCCGCGGAAG,BC2,NaN,BC3A
+Bipolar6_ATTTATAAACGN,BC3A,NaN,BC3A
+Bipolar6_CTTACCTCGGGC,BC3A,NaN,BC3A
+Bipolar5_TTCGGCATTCAC,BC3A,NaN,BC3A
+Bipolar3_AGCAGAAAAGGT,BC3A,NaN,BC3A
+Bipolar4_TTCCGGGAGGTA,BC3A,NaN,BC3A
+Bipolar2_CGGTCCTGGAGC,BC3A,NaN,BC3A
+Bipolar5_GACTCACGAGCG,BC3A,NaN,BC3A
+Bipolar6_AATTTGAATGCG,BC3A,NaN,BC3A
+Bipolar6_ATTTTACCCCAC,BC3B,NaN,BC3A
+Bipolar3_TATCCGAAATCA,BC3B,NaN,BC3A
+Bipolar2_GCCTAGCTTGGG,BC3B,NaN,BC3A
+Bipolar6_TAGCATAATAAC,BC3B,NaN,BC3A
+Bipolar5_GGTGGAGTGCTC,BC3B,NaN,BC3A
+Bipolar5_TACACGTAAGAC,BC3B,NaN,BC3A
+Bipolar5_CCCCGCATCGGT,BC3B,NaN,BC3A
+Bipolar6_GTTTTACAGCTG,BC5C,NaN,BC3A
+Bipolar1_GTGGTCTCTCGG,BC5D,NaN,BC3A
+Bipolar5_GAAGTGTCTCCG,BC5D,NaN,BC3A
+Bipolar1_CCTTTCTACAAG,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar2_CAACCAGACGGT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_CGGAGTAAGCGT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar3_GCTCACGGGTAT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_AAAGGACGTGAG,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar5_AAATGTAAGCCN,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar4_ATCACCAATCAC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar2_AGTCGAGAAAGA,Doublets/Contaminants,NaN,BC3A
+Bipolar6_TACGCTTGAATA,BC3A,NaN,BC3A
+Bipolar5_GCGGACCTAGGC,BC3A,NaN,BC3A
+Bipolar6_GAATCACAACGC,BC3A,NaN,BC3A
+Bipolar5_GTACCCCGGTGC,BC3A,NaN,BC3A
+Bipolar5_GATGGTAAATAG,BC3A,NaN,BC3A
+Bipolar3_CCGGCGTGCTAA,BC3A,NaN,BC3A
+Bipolar5_ATTTCTGAGCTG,BC3A,NaN,BC3A
+Bipolar6_CATCCGAGCGAT,BC3A,NaN,BC3A
+Bipolar4_CACACAATCGAG,BC3A,NaN,BC3A
+Bipolar5_GCGAGTTATTGG,BC3A,NaN,BC3A
+Bipolar1_CTGTAGCTAGCT,BC3A,NaN,BC3A
+Bipolar3_TAAAGATAATAA,BC3A,NaN,BC3A
+Bipolar4_GTCGGATTTGGC,BC3A,NaN,BC3A
+Bipolar6_AACATTCGTATT,BC3A,NaN,BC3A
+Bipolar4_TGGGACTAAGTT,BC3A,NaN,BC3A
+Bipolar6_TTGGTGTACCAA,BC3A,NaN,BC3A
+Bipolar6_GTTAAGGCGAAN,BC3A,NaN,BC3A
+Bipolar3_GATCCCACAGAG,BC3A,NaN,BC3A
+Bipolar1_CGGGCTATATAC,BC3B,NaN,BC3A
+Bipolar5_CATCCTAAATTT,BC3B,NaN,BC3A
+Bipolar6_TGGATTATATCA,BC3B,NaN,BC3A
+Bipolar5_TGTCACCTATCC,BC3B,NaN,BC3A
+Bipolar5_GGGTCCAATGCG,BC5D,NaN,BC3A
+Bipolar1_TAGTCCGCGGGA,BC5D,NaN,BC3A
+Bipolar5_TCACCAGAACCA,BC5D,NaN,BC3A
+Bipolar5_TCATGCCTTTCN,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_GGTCCGATACTA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar2_AAGGCTGACTCC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar3_ATATAAATTGGT,BC2,NaN,BC3A
+Bipolar6_CCCGAGTTAAAN,BC3A,NaN,BC3A
+Bipolar5_GCCATATCCGCT,BC3A,NaN,BC3A
+Bipolar5_TCCCCCTGGTCA,BC3A,NaN,BC3A
+Bipolar3_TCACCTTTTGAA,BC3A,NaN,BC3A
+Bipolar2_AGCATGCACATT,BC3A,NaN,BC3A
+Bipolar1_ACTAGTTACGTA,BC3A,NaN,BC3A
+Bipolar1_ATACTCAGTACT,BC3A,NaN,BC3A
+Bipolar6_GCATATTGTTAC,BC3A,NaN,BC3A
+Bipolar2_GCGTGGTTTGGT,BC3A,NaN,BC3A
+Bipolar6_TCAAGCTCAGCG,BC3A,NaN,BC3A
+Bipolar5_CCGGTTCAATAA,BC3A,NaN,BC3A
+Bipolar5_GTTTCTAACCAG,BC3A,NaN,BC3A
+Bipolar6_TGCCGGATAAGA,BC3A,NaN,BC3A
+Bipolar5_TTAAGGGGAGTC,BC3A,NaN,BC3A
+Bipolar6_CAAGTTTCCAAC,BC3A,NaN,BC3A
+Bipolar5_GCGTCGGCTATC,BC3A,NaN,BC3A
+Bipolar2_GACGATAATCAG,BC3A,NaN,BC3A
+Bipolar5_GTTTGCCCTGCA,BC3A,NaN,BC3A
+Bipolar6_GACTAGATAGTT,BC3B,NaN,BC3A
+Bipolar5_GCTGATATGATG,BC3B,NaN,BC3A
+Bipolar5_CGGTCCTCAGAT,BC3B,NaN,BC3A
+Bipolar2_GAAGTCATAAAC,BC3B,NaN,BC3A
+Bipolar1_ACAAATCTACCC,BC3B,NaN,BC3A
+Bipolar5_AGACTGGAAGAG,BC5D,NaN,BC3A
+Bipolar2_ATACGATGATAA,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar4_GAAATCCTGTTT,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_TCCCACACTCCC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar3_TATAGTCCAGTG,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GATGAACGCTAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GCAAGTAAGGCT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_ACCGTTTCAATC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CGGGTTCGAACT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GCAGGTGACCCT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GACTCAAGTTGA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GTAAACAATCTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_GTTAACCCGGCC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CTGCGAGCGCGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GAGACTAAGAAC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_GGATTGATGAGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_TACTAGGCTTCT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTCGACTCGGGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TAGGGGGTGAGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_AGAAGGCAGCAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_AACGCGCACTTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_CATCCCTTGAAC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ACTGGTGTGGCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CAGTAGGTTCTT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GTCAGGATTACG,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AGATGGTCCATN,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTCGTGGAGTTA,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCTTAGCATGGC,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTGTCGAGTTTN,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CACATACTATAA,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_TTCGCTAAACCG,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TAGTCAGAAGCN,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CAGCCAACTAGT,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TCTTAGGGCCCG,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CTCGCTGTTCTG,BC6,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TCTTTTCATCAA,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CGTTAGCTTCCT,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GAGCAATTACTA,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GCCGCATCTAGG,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CAACGATGTGAT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_ATCATGGGGTGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_GACCCATATACC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CATCCTAACCTG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TGGAGCGACTCA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TGGCCAAAGACN,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TCGCTCCGGTGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCTTCGCTTCTT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GATACATATACC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TTTCCGGTCTAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_ATCCGAAAGGGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ACTGAGAGTAAA,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CTATAACGGGGA,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GAAGCGGGTCGG,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_CCGACCTTAACT,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TGGATCACTGTC,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AGTGGCCCAGCG,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GGCCCCAGTTAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_TACCCTCGCCGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CTGTCCCGGGCC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_TATCAAACAACA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_CATCCCAACATG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GATGGACGACGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GGGGCTCTCGAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_CACTAGTACTAA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ACGATCCGGGTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_ATTGAGGCAATT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GTCTCGATCTAA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_TACGGGCCGACT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_TCAAGTACAGAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CAACTAACCTCA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CGACTCGTACCC,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTATCTAGGTGG,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GGTCAGGTGTAT,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ATCTAAATTGAC,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GAACGTTTCTGA,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CTCCGAGCGTGA,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_AAGCTGTCAATT,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GTTAGTAATTGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GGAGCTATGGAC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TATTATACAGCC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GCTGATAGAAAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GTGAGCCAGGCT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_ACCTAGGTTCAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GGATAACTATGG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTGCATGATAGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_TATGTTGCGTCC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ATAGCAGGCCCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_AGTGTTTTCCGT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GTTATCCGCCTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CTTGTGTTTGCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GGTAGAATGGGC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GACCCTATTCGT,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_CAACTCCGTGTC,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_TAAGTTGCATCT,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GCTTAATACTAT,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AATACACTTGTG,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GGATAGCAAGAC,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar5_CCCACAGGTCTG,BC3B,NaN,BC5D
+Bipolar1_ATACAGTCCGCG,BC3B,NaN,BC5D
+Bipolar6_GCATATTTACAC,BC3B,NaN,BC5D
+Bipolar4_CTGCTGAGTTCG,BC3B,NaN,BC5D
+Bipolar5_AAATGTTCACGG,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar3_ACCGAGTCAATC,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar6_TCATCGTAAAGC,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar4_CGGCCGTCGCGA,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar1_CTGGCCATTCTC,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar3_GATGGATTCTGT,BC5C,NaN,BC5D
+Bipolar6_GTCCCGCTTTCG,BC5D,NaN,BC5D
+Bipolar5_GTGTAGAAGATN,BC5D,NaN,BC5D
+Bipolar5_CTTAAACGTGAC,BC5D,NaN,BC5D
+Bipolar5_CTCGCTGCCGGN,BC5D,NaN,BC5D
+Bipolar1_AATCCTTCGGCA,BC5D,NaN,BC5D
+Bipolar6_AAGGATTGTCTT,BC5D,NaN,BC5D
+Bipolar6_ATGCTCATGTGG,BC5D,NaN,BC5D
+Bipolar6_GAGTATCCCACN,BC5D,NaN,BC5D
+Bipolar5_CCGCATCATGCA,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar5_CTGCGGGCCCCA,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar5_CTGTGTAGACTT,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar2_AATGTCACTCTG,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar5_TCATTCGTGTAA,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar4_GAAGTCAGCTAA,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar6_GTCACTCGAAGA,BC7 (Cone Bipolar cell 7),NaN,BC5D
+Bipolar2_AGCTTAGGAGTC,Doublets/Contaminants,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CTGATGTGCTCC,BC3A,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TGGATGTCGGAN,BC3A,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_CCGTGACCTTCA,BC3A,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GACACCCTCTAA,BC3A,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CAAGTATTATAC,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GTCCCTATTTCA,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_AGGTAGAGCACA,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CCTACCGTGGGG,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_GATTTGCCACTA,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GGCAACCCTACA,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_TGAATGCTGGAC,BC5A (Cone Bipolar cell 5A),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_ATTGAAATAACG,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_AATATCCAGCTC,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CAGGCTTGGCTN,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TGCGGTGTCGGC,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CACACGCAGTCT,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_ACTTAGTAACGC,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CCTTCAGGAGGG,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GCCTGTTCTCCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_ATAAGACGAGCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CAGTTAGACTTA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CGGGATCCAAGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_AGCTCTAAGGAA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GAGATGCGTGTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_GATCTAACCCAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_AAGTAGACACCT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_TTTACTCAGTTC,MG (Mueller Glia),NaN,BC5D
+Bipolar5_GGTCCTGGGGAT,BC3B,NaN,BC5D
+Bipolar6_GGTGCGGAGGTA,BC3B,NaN,BC5D
+Bipolar6_CCTATCAGTCGG,BC3B,NaN,BC5D
+Bipolar5_CCAATACAAGTC,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar6_CTAGTCGCGCCG,BC5A (Cone Bipolar cell 5A),NaN,BC5D
+Bipolar6_ATTTGAAGGTTT,BC5C,NaN,BC5D
+Bipolar5_AGAGGCGGATAA,BC5D,NaN,BC5D
+Bipolar5_TCCCACGATCGG,BC5D,NaN,BC5D
+Bipolar6_CGTATAAATCGT,BC5D,NaN,BC5D
+Bipolar6_ATCCCATCCGAC,BC5D,NaN,BC5D
+Bipolar4_CATTCTACCCTC,BC6,NaN,BC5D
+Bipolar6_CCTAGACAATGA,BC8/9 (mixture of BC8 and BC9),NaN,BC5D
+Bipolar4_CTTCTATTGAGC,MG (Mueller Glia),NaN,BC5D
+Bipolar2_AGCAGGCCGCCT,MG (Mueller Glia),NaN,BC5D
+Bipolar4_CCCGTCTCATAG,MG (Mueller Glia),NaN,BC5D
+Bipolar3_ATACGTTAACGG,MG (Mueller Glia),NaN,BC3B
+Bipolar5_TCATCCAATCTT,BC3B,NaN,BC3B
+Bipolar4_ACGCCTGGCCAC,BC3B,NaN,BC3B
+Bipolar4_TAATACGTCTAG,BC3B,NaN,BC3B
+Bipolar6_GGGTCGCTGGTG,BC3B,NaN,BC3B
+Bipolar1_ATTGTCCAGTCG,BC3B,NaN,BC3B
+Bipolar6_TTTAGCAGCGTC,BC3B,NaN,BC3B
+Bipolar3_TAGGCCGCCCGT,BC3B,NaN,BC3B
+Bipolar4_GTGCAGTCGGGT,BC3B,NaN,BC3B
+Bipolar5_GAGGAAACGTCT,BC3B,NaN,BC3B
+Bipolar5_CGATTAAAATCA,BC3B,NaN,BC3B
+Bipolar5_TATCCTTGGCTG,BC3B,NaN,BC3B
+Bipolar2_CAACCTATTTAT,BC3B,NaN,BC3B
+Bipolar1_GCAACCCCTTCC,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar3_AGATAGACTCCG,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar3_AGATCGCAGTCT,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar4_TGCTGTAACGAG,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar4_TCACGCCACATA,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar5_GGTACGCACTTT,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar3_TTCTCCAAAAAT,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar2_GAATTTGGTATA,BC5A (Cone Bipolar cell 5A),NaN,BC3B
+Bipolar5_AAGACTACGTAA,BC5D,NaN,BC3B
+Bipolar2_TATATACTGTGC,BC5D,NaN,BC3B
+Bipolar6_AGTGATCGAAGT,BC5D,NaN,BC3B
+Bipolar2_GAGTTGTTGGTT,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar2_CTTATAAGGCAC,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar4_TACCTTGATTTT,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_CGGGACGTAAGN,BC2,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TACTAACTCGCT,BC3A,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar2_AGTTTTAAACGA,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_AGTAATCAGCCC,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar1_GAGCTCACAGAG,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_CACCACGGGTCC,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GTTGATCAAAAA,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_AGTCCGTCCTCG,BC3B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCGGCGGTGTCT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_ATGCTCCCAAAT,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GGGTCGCTTCTC,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GTAAGCCTGGAG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GTCCTACAAATA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_TCCCTCGACTTN,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GCCTGTGTGGGA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_TGGGTCGTGTTA,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_GTTAGACGAGCG,BC5A (Cone Bipolar cell 5A),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GCGAGCCCTATA,BC5B,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_GGATTATACGGA,BC5D,NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_GGAGGAAAGCTA,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CAGAGGTTACCG,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_CAACAGGTCGCC,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar3_AACTAAAAATTA,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TACTTCCTAGAA,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar4_GCAAATAAATTC,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar6_ACAACGCGTTTC,BC7 (Cone Bipolar cell 7),NaN,BC5A (Cone Bipolar cell 5A)
+Bipolar5_TGCGCATCGGGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CTGTTCTAAGTG,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TCGGCGGCTTCG,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AATTCGCAATCC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CCGTGAGCTCTT,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CTCAAGGCGAAC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_CATAAATACTAA,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CACTGGGTCGAT,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GGTAGCGCCTCA,BC1A,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GGAGTCAGTAGC,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_ATCGATACTTCA,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_AGGTCCGCCCCN,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AGCACACTATCT,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GGCTCCCTAAGA,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TCTGTCCGAACT,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CCAGTTCGGGTC,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_TAAGGACAGTAG,BC5D,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_ACGATCCGAAAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_GACCTGCTGACC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TTCCTAGACTAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_AGGGGGAGCCTA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_TAGAGCCGGGTA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_AGTGTGAGTGTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_TCACTGGATCAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GGCAGATCGTAA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TGGAATATTCAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GTTATCCATACG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CTTGCAACGGAA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_ATAAACCACATG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TTTAGGTCTCCC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CAACGACCATAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AGAGGATGTAAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_ACACGGTAGGAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AGCATGGAACTN,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_TACTCTACTCGA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_CTGACAGTGTAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_AATAAGCTATGC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_CACTTATCAGAC,BC8/9 (mixture of BC8 and BC9),NaN,AC (Amacrine cell)
+Bipolar2_CGTCGACGATAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_ACCCCCGCACAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GACATTCTAAAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TTAACTTCGCAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GACCCATGAGGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTAGCCTGGCCT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TATCAGGAGGGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTGTCGGGAGGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_TCATTGCGAGTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TTTAGTAGAGTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_ACCCTCAGCTCG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GCCTGACACGGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_ACGGACCGGGTG,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_GCTTCAACCTAG,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_GGGCATCCTGCG,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar5_TCCCCACTGGTC,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar4_CAACAATCGGGG,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar2_GGTGGGTAGGAG,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar3_GCGTCTTACCGG,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar3_GTTTATGCAGAG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_ATCGCATCACCC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GGTAGTGAATCT,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CGACCGCAGAGC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_ATTCCCCGTAGG,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_ATTTCACTTAGT,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_TTTCTCGCAGTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GACTATTGGATC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GGATGTCAAAGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_CTCCTAAGCGGG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GAATGCTTCGCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_CTTGGACTATAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GATTCCAGGACA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_CCGTGTGGTCCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_AAGCGGAGTGGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_CTAACCAAAGGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GACGAGTCGCGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GTCTTTTGTTCN,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_CCGTTCAATGAA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GCATTTTCGCAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CTTCCGCCACTC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TATCAGATAGGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CAAGAGTGGGAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CTGTAGTTGGTT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GTGCTATGATAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TGTTCAATGGTG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_CGTCCTCTACAA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TACAAGCGTCGC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TCAGCCCACAAT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_TATTGACCCCCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TATGGCCAGAAC,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar6_TTTAACCGAATG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CGCCCTCGGATC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GATGATGCGCCG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TGTTACTATCTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TCCGTGAGCTTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CCTCAAACGTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AATTCCCCTGTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CTCTTGGGGCCG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar1_AACAGAAGAGAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_AATCCCGGCTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_AAACGATGACAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TGGCTGATCCAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CCTATCCCTCTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTTGAATGGGAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TATATCGGCTGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TACAACGTCGGG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GAAGGACAGAGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TGAAACAGTGAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GTTCCCCGTAGG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TTGTCGCCCTTA,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_AGGTTGAAAAAC,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_CTAACACGCTCC,BC5D,NaN,AC (Amacrine cell)
+Bipolar5_ATAGGTCGCCCA,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar6_GGTAAGGGCCCC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GATTCCCCTGTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GAGCCCGTAACG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_GGACCATAGCAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_TGCGAAGTCCTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GCGATCCTAAAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AATTCCCTGTCN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CGGTATTGTGTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTCGGCGCACTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_GATCCAGGACGT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GAATGTTAGATC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GGTGAGGTGATA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TACAGAGTCCTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GCCGCGGGCTCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GACTCGGAAACG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_AGACAAGTATAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GATTGGCACCTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GCAGACTGAGAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TGCTTTTTTCGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CCTCTTCACTAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TCGTTGGTAATN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AACCAGTCGAAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTTTCAGACTTT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AGCTATGGATTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ATTGTGGAGGAC,BC5C,NaN,AC (Amacrine cell)
+Bipolar2_TTTTCGCGGGGT,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar6_TAGGATCGGTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ATGCACGCGCAN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_AACCCCCAGATG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GAATATGAAATG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_GTCTAAACGACC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TGCCACATTAGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GAACAGCTGGTN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GCACTCGACCAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GAGGCTGGCGTN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_GAGCACGGTGTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TACCCCTCGTTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GATCCCGGCTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GACCCCCAGATG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GAAGTAGGCTCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_ACCACAATTAAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CACCTAACGACC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_AGGAGGAGTACG,BC1A,NaN,AC (Amacrine cell)
+Bipolar5_GCAAGAACTAGC,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_TAGCGTTACTAN,BC5C,NaN,AC (Amacrine cell)
+Bipolar5_GAGGCCCACACA,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_CACGGTATACGT,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_TTCATTTATTCA,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_GGACGAAAATCG,BC5C,NaN,AC (Amacrine cell)
+Bipolar3_TGATCCAGAACT,BC5C,NaN,AC (Amacrine cell)
+Bipolar2_AGGAGACTAATG,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar5_GCAAACGACTCC,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar6_AACCCGGTATAA,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar5_CTTCATGGCGTC,BC8/9 (mixture of BC8 and BC9),NaN,AC (Amacrine cell)
+Bipolar5_GCACCCGTTGCA,MG (Mueller Glia),NaN,AC (Amacrine cell)
+Bipolar5_AAGTAGTATAAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_CGTTAAGTAGGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GATTCGCAATCC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TGCATCACCTTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GGTCGATCCCAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TGCTAAGGCGGT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GCATAGTTCCGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_ATCGGGGCGCCT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GGTTCGTGTCGG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GCGCCCGTGTCG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TACACGTCGGGN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ATCTGGCCGCTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTTTATACCTTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CTCCAACCACCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GATAGTCGAACA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CTCCCTAGAGAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar1_CCGCGGAAGGTA,BC5C,NaN,AC (Amacrine cell)
+Bipolar6_GCATACACGAGC,BC7 (Cone Bipolar cell 7),NaN,AC (Amacrine cell)
+Bipolar2_AGACGCTCTTCT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_CTACCCCAGTGA,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_GCAGAATTAGAC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CCGTCTGAGCCN,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_ACGACGTGAATA,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GAACAGGTTCAG,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_GAGGCGCATAAC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AATGGCTGAGTC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CATCGGACACAC,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_AACTGGGCCATA,AC (Amacrine cell),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar1_CGGGGTGAAGGT,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_CCTTCAGCGGCG,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_CATCTAACGGCA,BC5C,NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GGTGCGATCCTA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar4_GGCGGCCACTAA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_ATACCATATAGT,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_AGCCTGTCGCCG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GCTCCGATAGCA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CAGTAGCCTAAC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_CACTTATGTACG,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar2_GGCGCCTGGATA,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TCGCTCATCGCC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar3_GTATCCCGGATC,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar6_ACTACCCGTAAN,BC7 (Cone Bipolar cell 7),NaN,BC7 (Cone Bipolar cell 7)
+Bipolar5_TCACCGTGAGTG,BC8/9 (mixture of BC8 and BC9),NaN,BC1A
+Bipolar5_GACTGGGCCATA,AC (Amacrine cell),NaN,BC1A
+Bipolar4_AATGCACTTAGA,AC (Amacrine cell),NaN,BC1A
+Bipolar6_ACGTCAGGCTCN,AC (Amacrine cell),NaN,BC1A
+Bipolar2_CTCAGTTATTGC,AC (Amacrine cell),NaN,BC1A
+Bipolar5_AGTTCGTGTCGG,AC (Amacrine cell),NaN,BC1A
+Bipolar6_ATGCAAAAGGAC,AC (Amacrine cell),NaN,BC1A
+Bipolar6_ACGGAACCTCAC,AC (Amacrine cell),NaN,BC1A
+Bipolar5_AACCTCTCGACC,AC (Amacrine cell),NaN,BC1A
+Bipolar5_GGTGACAGATAG,AC (Amacrine cell),NaN,BC1A
+Bipolar5_CCTAAGACTACG,BC1A,NaN,BC1A
+Bipolar5_GCGTATGAATAA,BC1A,NaN,BC1A
+Bipolar5_AGAAGAGATTAC,BC1A,NaN,BC1A
+Bipolar6_TTCCCTGGACAA,BC1A,NaN,BC1A
+Bipolar4_CTTCGTAAACTT,BC1A,NaN,BC1A
+Bipolar5_GAGCAAAGACGA,BC1A,NaN,BC1A
+Bipolar5_TTACATAAAAGG,BC1A,NaN,BC1A
+Bipolar6_TCCTATAGTGGT,BC1A,NaN,BC1A
+Bipolar2_AGTTTATGACGT,BC1A,NaN,BC1A
+Bipolar6_CTAATAACGAAC,BC1A,NaN,BC1A
+Bipolar3_TTAGATGCTAAC,BC1A,NaN,BC1A
+Bipolar5_TAGCCCGCTTAG,BC1A,NaN,BC1A
+Bipolar1_CTAATTCGTCAG,BC1A,NaN,BC1A
+Bipolar1_TGCATGCCCTCT,BC1A,NaN,BC1A
+Bipolar1_CAGCCGAAAGAT,BC1A,NaN,BC1A
+Bipolar5_GTAGCACCTATC,BC1A,NaN,BC1A
+Bipolar6_TTCCTCCGTGCT,BC1A,NaN,BC1A
+Bipolar6_GTGAAAATCGAT,BC1A,NaN,BC1A
+Bipolar6_AGACTCTCGAAC,BC1A,NaN,BC1A
+Bipolar5_GTAACTTTTAGT,BC1A,NaN,BC1A
+Bipolar1_ACGAGGCAGTCA,BC1A,NaN,BC1A
+Bipolar2_TATAGTATAGTT,BC5D,NaN,AC (Amacrine cell)
+Bipolar5_TCCTGTGTTCTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar1_AGGTTAAGTCCC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_CTAGTAGAGAAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CCCATCTCAGCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AATTGTCCCAGT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CAATTAAAAGAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_ACGATAACAGGA,BC1A,NaN,AC (Amacrine cell)
+Bipolar6_TACCCCTGGTGC,BC1A,NaN,AC (Amacrine cell)
+Bipolar6_ATAAGCTGCTCC,BC1A,NaN,AC (Amacrine cell)
+Bipolar6_CTTGCTATGGTT,BC1A,NaN,AC (Amacrine cell)
+Bipolar5_TACGGACGGGAC,BC1A,NaN,AC (Amacrine cell)
+Bipolar6_AGGATTCAGGCN,BC1A,NaN,AC (Amacrine cell)
+Bipolar6_TAGCCCAATCGG,BC4,NaN,AC (Amacrine cell)
+Bipolar6_GTTACACAGGCA,BC5B,NaN,AC (Amacrine cell)
+Bipolar5_GGCGGTAGAGTG,BC5B,NaN,AC (Amacrine cell)
+Bipolar5_TCAATCAGCTCA,BC5B,NaN,AC (Amacrine cell)
+Bipolar5_GCCTTCCCTCGC,BC5B,NaN,AC (Amacrine cell)
+Bipolar6_ACGTAGAAGGGA,BC5D,NaN,AC (Amacrine cell)
+Bipolar5_ACGAGTAGACCA,BC5D,NaN,AC (Amacrine cell)
+Bipolar6_ATCTAAAACTGA,BC5D,NaN,AC (Amacrine cell)
+Bipolar1_GCCATTACCATC,BC5D,NaN,AC (Amacrine cell)
+Bipolar6_AAGACGGTTCTT,BC5D,NaN,AC (Amacrine cell)
+Bipolar3_ACGCCTTCCTTG,MG (Mueller Glia),NaN,AC (Amacrine cell)
+Bipolar2_AATCTACGGGCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ATCGGCGCACTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_AGTGACAGATAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_ACAATCTAGGGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CCATCGGACAGT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TTCTACTTCAGT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TGATAGATGCCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_AGAATGCCGAAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_CTGCCGCCCTCG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CTTGAGCCGACC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AGCTGCGACGAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_AATTATATGCAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ATCTCTCCGTGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CTCCGTGCCTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TTATAAAGGATG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar1_GCTATTCTAGAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_TCTTTTCATGCG,BC1A,NaN,AC (Amacrine cell)
+Bipolar3_TTTACCCGATGA,BC1A,NaN,AC (Amacrine cell)
+Bipolar2_GAGCCTTTAAGC,BC1A,NaN,AC (Amacrine cell)
+Bipolar4_TCTGCCCTTCGG,BC1A,NaN,AC (Amacrine cell)
+Bipolar6_AATGCTATAAAC,BC1A,NaN,AC (Amacrine cell)
+Bipolar5_TGGTACGGCTTG,BC1A,NaN,AC (Amacrine cell)
+Bipolar2_CTATCACATAGG,BC1A,NaN,AC (Amacrine cell)
+Bipolar3_TGCACATCTATT,BC5D,NaN,BC1A
+Bipolar4_TCACGACCTTGG,AC (Amacrine cell),NaN,BC1A
+Bipolar3_CGGATGGGTCAC,BC1A,NaN,BC1A
+Bipolar3_AGCACTGCTCCT,BC1A,NaN,BC1A
+Bipolar4_TTGCTAGGTCGC,BC1A,NaN,BC1A
+Bipolar5_CATCCACGAAAA,BC1A,NaN,BC1A
+Bipolar5_ACAACGGACTGT,BC1A,NaN,BC1A
+Bipolar6_GTACATTACAGG,BC1A,NaN,BC1A
+Bipolar5_TACCTCTCAATT,BC1A,NaN,BC1A
+Bipolar5_GAAAGAAGGTAG,BC1A,NaN,BC1A
+Bipolar3_ATTTGAAGGATC,BC1A,NaN,BC1A
+Bipolar5_GTCCCATTTGTG,BC1A,NaN,BC1A
+Bipolar3_AGAGTCCTCCTT,BC1A,NaN,BC1A
+Bipolar5_GTGAGAGTTCAG,BC1A,NaN,BC1A
+Bipolar5_TACGAGTTTTCC,BC1A,NaN,BC1A
+Bipolar4_GTTCCAAGTCAG,BC1A,NaN,BC1A
+Bipolar6_TTCCGTATAGCN,BC1A,NaN,BC1A
+Bipolar3_GTAAGAATCTCG,BC1A,NaN,BC1A
+Bipolar2_TGAACGCATAGG,BC1A,NaN,BC1A
+Bipolar6_AGTGCCTGAGTN,BC1A,NaN,BC1A
+Bipolar6_CGTCACTGGCTG,BC1A,NaN,BC1A
+Bipolar4_AGCCAGACAAGA,BC1A,NaN,BC1A
+Bipolar1_TTTAACAGTTCA,BC1A,NaN,BC1A
+Bipolar4_CCTGTCGCCTAT,BC1A,NaN,BC1A
+Bipolar2_TTAACATCCCGA,BC1A,NaN,BC1A
+Bipolar6_CCCATAAACGTG,BC1A,NaN,BC1A
+Bipolar1_AATGGTATATAT,BC1A,NaN,BC1A
+Bipolar4_GACCGTATTGGG,BC1A,NaN,BC1A
+Bipolar1_ACCTGAATTCGG,BC1A,NaN,BC1A
+Bipolar6_CTAAGACAACCG,BC1A,NaN,BC1A
+Bipolar5_AGGTACCAGAGG,BC1A,NaN,BC1A
+Bipolar5_AGCTAAGTCTAC,BC1A,NaN,BC1A
+Bipolar1_CGGTCGGCGGGA,BC1A,NaN,BC1A
+Bipolar5_GCCAAGTACCTT,BC5C,NaN,BC1A
+Bipolar5_GGTTTATGCCAT,BC5D,NaN,BC1A
+Bipolar5_CCTCTCAATGAC,BC5D,NaN,BC1A
+Bipolar3_GATGCTACTGTA,BC5D,NaN,BC1A
+Bipolar6_CTATATCGCGGN,AC (Amacrine cell),NaN,BC1A
+Bipolar5_GACCCACCGACT,AC (Amacrine cell),NaN,BC1A
+Bipolar5_TTGCGTATGCGT,AC (Amacrine cell),NaN,BC1A
+Bipolar5_CACCACTCCCCA,AC (Amacrine cell),NaN,BC1A
+Bipolar1_GTCCTTTCGGCG,BC1A,NaN,BC1A
+Bipolar5_TGTGCTATACTT,BC1A,NaN,BC1A
+Bipolar6_GATACCCCAGTC,BC1A,NaN,BC1A
+Bipolar6_TAACGGGAAATC,BC1A,NaN,BC1A
+Bipolar4_ATACGGTACTGA,BC1A,NaN,BC1A
+Bipolar6_GCCATACACATT,BC1A,NaN,BC1A
+Bipolar6_CACGGGTCACTT,BC1A,NaN,BC1A
+Bipolar3_CTTTCCGCGATT,BC1A,NaN,BC1A
+Bipolar6_AACCGTGCACCG,BC1A,NaN,BC1A
+Bipolar5_ATCAGCGCGGCA,BC1A,NaN,BC1A
+Bipolar1_TTCTTTTTCCGT,BC1A,NaN,BC1A
+Bipolar4_TACTGTTATGAT,BC1A,NaN,BC1A
+Bipolar5_CGAAAATGTAGC,BC1A,NaN,BC1A
+Bipolar6_GAGATACAGGGA,BC1A,NaN,BC1A
+Bipolar6_TTCATGTCGACA,BC1A,NaN,BC1A
+Bipolar1_CTGCTATTCTCG,BC1A,NaN,BC1A
+Bipolar4_GCTCATTATTCG,BC1A,NaN,BC1A
+Bipolar5_TTGGTTTATAAC,BC1A,NaN,BC1A
+Bipolar2_CCACAAAAGAGA,BC1A,NaN,BC1A
+Bipolar6_AGTACTCCCGCG,BC1A,NaN,BC1A
+Bipolar4_TGCTCTTGTAAC,BC1A,NaN,BC1A
+Bipolar6_ATGTCTATAGCT,BC1A,NaN,BC1A
+Bipolar3_TTTCCAGAGTTT,BC1A,NaN,BC1A
+Bipolar5_CTGATCGGTGTC,BC1A,NaN,BC1A
+Bipolar4_CTTACGACGAAA,BC1A,NaN,BC1A
+Bipolar5_GCCTAGAGTTCC,BC5C,NaN,BC1A
+Bipolar5_ACCAGTACCGTA,BC5C,NaN,BC1A
+Bipolar5_GCAACACCCCCA,BC5D,NaN,BC1A
+Bipolar3_TCCCACCTGGAT,BC5D,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTCATTTCGTTA,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TGTTGGAGCATA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CTCACGTGAAGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GTGCGCGAGCTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_CCCAGTTAACGG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ATCAGAGCGTCT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_CGAACGAATCTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGGACGTGTAAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GCGCCCCTAGTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCTGCATCACTT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_CCGTTGCCCATC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_CCCGTAGACATC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AGCTGCTAGGAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TGTCGGTGTATN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AACTAGGAGCTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ACTACTTGCCTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTTTAGTTTTCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_CTTCCCTAGGTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AAACTGCACGGG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TCTTGTAGTACG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_AAGCGCCAGCGG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GGTCTAACAATA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TGTAGCCAGACA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GGACCCTTATTN,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CGCACACGAATC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AATCAATGGAGT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CAAGGTAGGGTN,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CGTTGGGACACT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCGCGGATCCTG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GGTTGTTCGGTC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GCGAGGATAGCC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GTAGTAAGGGAG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TAAGGCAAAACT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TAATACGTGCTN,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTGCACTAGGTC,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGCTCCCATGAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TCTTTGTCAACA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GAAAACGCATCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GTTTCCCCGTAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_GGACAGAGTGTC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ACAAGTGTTGCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CGGCAGACGAAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_TAGTAAAGTAGA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_AGAAGGGTTGTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_CCCTGGGCGCAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ACCGCCTTCCTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_AGGCTGCGGATA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCCTTAGACGGC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TATGAAGCGGGC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_TTGGACACGATC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_GAATAGCCCTGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ATATACCAGTTC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_CTGCAGCTGCAC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_ACGTTTACGAAT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_GGTTTCTGTGAG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_AGGCTAAGTCGA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GCTTTGGCCCAG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GAGTACCGAGAT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TCCCCGAGAACT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGACAATATGTG,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTCGGATGGATA,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TTCGCGCCGGAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AGAGACATAGAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TGACGTCAAGAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCATATTTATGN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGCATCGTCAAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTCCCCCCTCGC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TACGTGCAGTAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TAAGGAAATACG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CTACATGTGGTG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCTGGCCTTCTT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AAGCAAGAAACT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ATGCGCGAGCTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TCTTGACAGGGG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_AACACCTGTAAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GCAGAGCTTATG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AATGGCGTATAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CAATCCGACCGN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCATGGATATAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_TTGGCCGCTCCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TGCTAGAGTCGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ATAGATGTAGAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCTTCGTCGAAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TACGAATGCATG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ATGGCACTTCCA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GATACTACTCAG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCACGAAAAGGA,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TGACATCGCTCT,BC4,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GGGATCTCCAGG,BC4,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TCAACCGGGCTA,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GCAATGGCATGA,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ATCCCCCCTCGC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_AGCAAGCTAGTT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTCGGGTAGAAN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_CTCCCAGTTAAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CACCGATCGGTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGCACACGAGAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_TGTAATTTCTGG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_TACACAGGGGTC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCGAGGAAGCTA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CAATGAATGCAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_GTTCGCCGCCCG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ACAAACAAACCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CAATGTAATGCT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTATCTCAATGN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGCGATTATCTT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCCCACATGGTN,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_TTCACCTTCAAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GTAGATGTAGAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ATAATTTAGAGC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TGCTCGAGCTAC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_CTGTTAGCACTC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_AATGACGCGGCC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTCCACCTGAGG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTTGCGGCGTCG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AGAATAAGGTTA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ATCCTTGATATA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CTCAAGGATCAA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AAACAACCAAGG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CAGATAAACAAC,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar5_GGATGGCGAAAN,BC5C,NaN,Doublets/Contaminants
+Bipolar6_TCTTCCACGCAN,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar5_GCTACTAACTCT,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar5_GAGTCGCAAGTA,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar5_GGCATGAGGCTC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar4_GATCGCTAAATA,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar3_GACCACATTCTC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_ATGCCTGAAGGN,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar4_AAGCCCCGTCGA,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar2_CTAATGAAGGTA,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_CAAGCAGATGGC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar5_TAAGGTTCATCG,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar3_GCCATCTATAGT,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_ACAGCAAGCAGC,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar6_GAGTAGACACAC,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar6_ATTACGCTGCAG,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar6_CGCAAAGACTTT,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar5_CTGAGCGCCTGN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TGGATGAAGATA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_ATCCTCGTCCAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_ATCGTAACAGCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GCCGGGACCGCC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GCAGACTATCAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_CATTGATGTGGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_CAAGTCTTTCGA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_AACCTCGTTAGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TTCCTCTGAACG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TGGAATCGCAAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_GTACAACCAGGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GTAGTCATATAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_CCCAGTTACTTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_ATCCGAAAAGCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_TCCGTCACAACA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TAGCAGCATCTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GCTTCCGGTCTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_TGCTCTTACGTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GTGGTATGCTCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TTCATAGGGAGC,BC5B,NaN,Doublets/Contaminants
+Bipolar6_AAGCGTGCATCC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_GTTGGCTGAGTA,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar3_TTCACCTTCAAC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_TTTATCAATAGN,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_CAACCCTCAATA,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_TCATTATAGGGG,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_CGCGGGATGGTA,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar6_TTCCGGGCTTGT,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar6_TCAACCTTTATA,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar6_ACGGGTACGACT,Cone Photoreceptors,NaN,Doublets/Contaminants
+Bipolar2_TTTCCAGTAGAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCTGACTTGAAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_CGCTACGGTGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_AAGCTGCAATGT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TACCACATACAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCGGGGGCCTCG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TGGGTTCCTGAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_ACGCCTATTCCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GTTACGCGAGAC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_ACTGTAAGGGAC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCCCATTAAGGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_CAGGTACATAGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCAGGACGCTAN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TTGCCAGTTCTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_AAGTTGGTGACT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_TAGAGTGTGTCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TAAGCAGTGGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TGCATGGATGCG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GACAGCGTGACN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_AAGAAAGATCCC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_CCGTGTACTAAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TTTCCATATGGC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TCCGGAAACGAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_CTAACCCGACCC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TCTCCGGTTTAA,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCACGCTCCATG,BC3A,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCATACAATAAT,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCTACTAATCCT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GGGTCAAGAGGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ATCCAACGGGAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GTTCGTGTGCGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CACATGTACTCA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTAGGCGCCTTT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AGACCGCAAAAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTTTGAGTTATT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CGGTGCCCCGGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CCGTTTTGTTCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CACTCGAGTACG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCGACGGTTACA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AGCAGCCGGCAT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTTGGGGCGCAT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GAGACATACGTG,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AGCCAAGGAATC,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTGGACTTGGCA,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TACTTATCTTAT,Cone Photoreceptors,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GCGCCCTCGCTA,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CCATACCGACGC,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTCACTATCGCA,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CCATGGCTCTCC,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GATAATCGACCC,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GGCCTTAGGTGT,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CTTCTCCATACT,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_CACCTGGCGATC,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GAGCGATCACTT,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_TCGCCTCGTAAG,Doublets/Contaminants,NaN,BC3B
+Bipolar5_GTGCTTCGGAGA,BC3B,NaN,BC3B
+Bipolar2_TCACTGGCAATT,BC3B,NaN,BC3B
+Bipolar5_GTATGCGACTAT,BC3B,NaN,BC3B
+Bipolar3_ATGGTTGTACAC,BC3B,NaN,BC3B
+Bipolar5_ATCTAATTGCTN,BC3B,NaN,BC3B
+Bipolar5_GTTCGCTAATTA,BC3B,NaN,BC3B
+Bipolar2_TCGGACACATGG,BC3B,NaN,BC3B
+Bipolar2_AGATGTCCCCAC,BC3B,NaN,BC3B
+Bipolar6_CGCCTTGCGTCC,BC3B,NaN,BC3B
+Bipolar5_CCGTCCCCCGAT,BC3B,NaN,BC3B
+Bipolar6_TTTAGTGGGTGT,BC3B,NaN,BC3B
+Bipolar4_CTCTATGTCAAA,BC3B,NaN,BC3B
+Bipolar6_ATAACTATAGGG,BC3B,NaN,BC3B
+Bipolar5_ATGAAAGTCCGC,BC3B,NaN,BC3B
+Bipolar5_AGGCTCCAATGG,BC3B,NaN,BC3B
+Bipolar6_TGGAACATAACT,BC3B,NaN,BC3B
+Bipolar5_ACGCCGGCTATA,BC3B,NaN,BC3B
+Bipolar5_ATATCCGGGCTT,BC3B,NaN,BC3B
+Bipolar5_TTATATAAACGN,BC3B,NaN,BC3B
+Bipolar1_CTGTACATTTGA,BC3B,NaN,BC3B
+Bipolar6_TCGTTCACTTCA,BC3B,NaN,BC3B
+Bipolar5_CTAGTACGTACG,BC3B,NaN,BC3B
+Bipolar4_TGTGTTCCAGAG,BC3B,NaN,BC3B
+Bipolar4_CCCCTAGATATA,BC3B,NaN,BC3B
+Bipolar6_CGGGTGTCGTGN,BC4,NaN,BC3B
+Bipolar6_TGGTGCTAAGAC,BC4,NaN,BC3B
+Bipolar6_ATGGCGGGGCCA,BC4,NaN,BC3B
+Bipolar6_TTGAATAGAGAT,BC5C,NaN,BC3B
+Bipolar4_TACGATCTCTGG,BC5C,NaN,BC3B
+Bipolar6_TTGATTAGAATG,BC5C,NaN,BC3B
+Bipolar6_TCCCAGAACGAA,BC5C,NaN,BC3B
+Bipolar6_CGACCTTCTTAG,BC5C,NaN,BC3B
+Bipolar6_GACTACATTCGC,BC5C,NaN,BC3B
+Bipolar1_TCTCCTCGTAAG,Doublets/Contaminants,NaN,BC3B
+Bipolar5_CTACAGCCCCAT,Doublets/Contaminants,NaN,BC3B
+Bipolar4_GAGTGCTAAGCA,Doublets/Contaminants,NaN,BC3B
+Bipolar1_ATCAGTAGCGAA,BC3B,NaN,BC3B
+Bipolar6_CGGGGAAATTCC,BC3B,NaN,BC3B
+Bipolar2_CCGGTAAACATC,BC3B,NaN,BC3B
+Bipolar5_ACATATTAGGCA,BC3B,NaN,BC3B
+Bipolar4_GGGCGGCGTCGG,BC3B,NaN,BC3B
+Bipolar5_AGATCGCGAATC,BC3B,NaN,BC3B
+Bipolar6_GCTCAGTGTCAC,BC3B,NaN,BC3B
+Bipolar1_GGTGCTTAGTTA,BC3B,NaN,BC3B
+Bipolar6_GCTCTAGGACTN,BC3B,NaN,BC3B
+Bipolar5_CTGACGATATGC,BC3B,NaN,BC3B
+Bipolar2_ACTAGTCTCCAA,BC3B,NaN,BC3B
+Bipolar6_TTCTACCAGAGG,BC3B,NaN,BC3B
+Bipolar6_ACCTTCTGGAGA,BC4,NaN,BC3B
+Bipolar4_GCATTCTTACCG,BC4,NaN,BC3B
+Bipolar4_AGTCTGCACCTT,BC4,NaN,BC3B
+Bipolar6_TATGAGTGGCCC,BC5C,NaN,BC3B
+Bipolar6_TACTAGTGTGGA,BC5C,NaN,BC3B
+Bipolar1_CGGGTGCTCAGT,BC5C,NaN,BC3B
+Bipolar3_CACACCCGCCTC,BC5C,NaN,BC3B
+Bipolar4_AATCGTCGATAG,BC5C,NaN,BC3B
+Bipolar4_TGGTAACACCCA,BC5C,NaN,BC3B
+Bipolar5_AGGAGCTCTAGN,BC5C,NaN,BC3B
+Bipolar5_TATCGAAGAGAT,BC5C,NaN,BC3B
+Bipolar5_AATAATAGTACA,BC5D,NaN,BC3B
+Bipolar5_GAACCGCAACCC,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar1_ATTGCACGTGAT,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar6_CAGACCCTTACA,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar5_CAGCACGTCAAC,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar6_TTACTGCATACG,BC7 (Cone Bipolar cell 7),NaN,BC3B
+Bipolar4_GTTGGAAGGTTG,Doublets/Contaminants,NaN,BC4
+Bipolar6_TAAGGACTGTAA,BC3B,NaN,BC4
+Bipolar5_TGTTGCCTGCTG,BC3B,NaN,BC4
+Bipolar5_TCATCCGCAATA,BC4,NaN,BC4
+Bipolar6_CTGTCCAAGACG,BC4,NaN,BC4
+Bipolar6_TCGCAAGAAGAG,BC4,NaN,BC4
+Bipolar6_GTTCCTGTCTTT,BC4,NaN,BC4
+Bipolar6_ACGCGTCGGTAG,BC4,NaN,BC4
+Bipolar6_CATTTAACGTCG,BC4,NaN,BC4
+Bipolar6_TGTGATGGAAAC,BC4,NaN,BC4
+Bipolar3_TAAGGGTGTATT,BC4,NaN,BC4
+Bipolar5_CGAGGGGAGGAA,BC4,NaN,BC4
+Bipolar1_CACGGTGTACAA,BC4,NaN,BC4
+Bipolar6_CCTGCTAGCAGT,BC4,NaN,BC4
+Bipolar6_ACGTTTGTTCGC,BC4,NaN,BC4
+Bipolar5_TCAGGTATAACG,BC4,NaN,BC4
+Bipolar5_TCGAACTAATCG,BC4,NaN,BC4
+Bipolar6_GCCCTGTCGAGA,BC4,NaN,BC4
+Bipolar5_GTGCCGACCTCA,BC4,NaN,BC4
+Bipolar5_GGCGCCGGATAC,BC5C,NaN,BC4
+Bipolar5_GGCACACTATCT,BC5C,NaN,BC4
+Bipolar6_TCGTCTCGTTCC,BC5C,NaN,BC4
+Bipolar6_CAGCAGGAGCTN,BC5C,NaN,BC4
+Bipolar5_AAGTCTCGATCC,BC5C,NaN,BC4
+Bipolar4_CCTCTACCGGCT,BC5C,NaN,BC4
+Bipolar2_CGAAACGTAAAA,BC7 (Cone Bipolar cell 7),NaN,BC4
+Bipolar5_TCAGCGGGATGT,Doublets/Contaminants,NaN,BC4
+Bipolar4_TAAGACACTCCA,Doublets/Contaminants,NaN,BC4
+Bipolar5_GTTTCGGCTCTA,Doublets/Contaminants,NaN,BC5C
+Bipolar4_CTTTATGAGGAC,BC3B,NaN,BC5C
+Bipolar5_TACGCCACACCC,BC3B,NaN,BC5C
+Bipolar5_ACAGCAAATGTT,BC3B,NaN,BC5C
+Bipolar5_CCGCTGACGCAT,BC3B,NaN,BC5C
+Bipolar5_AATCCCCGACTA,BC3B,NaN,BC5C
+Bipolar5_CCGCCAACAGCG,BC4,NaN,BC5C
+Bipolar4_ACGCGCTGACTG,BC4,NaN,BC5C
+Bipolar3_ACATGGTAAGAT,BC4,NaN,BC5C
+Bipolar5_CACAGCGAACAN,BC4,NaN,BC5C
+Bipolar5_ATCACATGGATT,BC4,NaN,BC5C
+Bipolar4_TATGGCCCGAAC,BC5C,NaN,BC5C
+Bipolar2_TGAGAACGGTCG,BC5C,NaN,BC5C
+Bipolar5_GTAATACGCTAC,BC5C,NaN,BC5C
+Bipolar2_CGAGCATAGCTC,BC5C,NaN,BC5C
+Bipolar2_TAGCCCGAGTAT,BC5C,NaN,BC5C
+Bipolar6_GAATGGGCCACT,BC5C,NaN,BC5C
+Bipolar5_TTCCGCGGCGCC,Doublets/Contaminants,NaN,BC5C
+Bipolar5_GCTCGGCTTATG,Doublets/Contaminants,NaN,BC5C
+Bipolar6_TACAGCAGAGCA,Doublets/Contaminants,NaN,BC3A
+Bipolar1_CTGTGTTCTTCT,BC3A,NaN,BC3A
+Bipolar5_TCGAGGGGCTTA,BC3A,NaN,BC3A
+Bipolar3_GCAGTCCTCCTT,BC3A,NaN,BC3A
+Bipolar2_GGCTCTAGCGCA,BC3A,NaN,BC3A
+Bipolar1_TTGCACTGTCGT,BC3A,NaN,BC3A
+Bipolar6_GATACCAGGCAN,BC3A,NaN,BC3A
+Bipolar2_TCGGTGTTGGTG,BC3A,NaN,BC3A
+Bipolar3_ACTAGTCGGTAC,BC3A,NaN,BC3A
+Bipolar3_GTGCCAGGGGAG,BC3A,NaN,BC3A
+Bipolar6_TTCGACGAGCAT,BC3A,NaN,BC3A
+Bipolar4_ACATAGAGTCCA,BC3A,NaN,BC3A
+Bipolar5_CCGCCCTATCTT,BC3A,NaN,BC3A
+Bipolar6_TTACATCATCCC,BC3A,NaN,BC3A
+Bipolar4_CTTGCACCATCG,BC3A,NaN,BC3A
+Bipolar3_CTTGAACGTCCT,BC3A,NaN,BC3A
+Bipolar3_GGCTAAGCTGCA,BC3A,NaN,BC3A
+Bipolar5_GGCATCGCGACC,BC3A,NaN,BC3A
+Bipolar5_GTTCGCGACCCG,BC3A,NaN,BC3A
+Bipolar6_GGCATTGGCTTA,BC3A,NaN,BC3A
+Bipolar5_CATAGCACCACT,BC3A,NaN,BC3A
+Bipolar5_TAGCAGCGAGTT,BC4,NaN,BC3A
+Bipolar6_TTCTCACTGGGN,BC5D,NaN,BC3A
+Bipolar6_GGACCGTACGTC,BC5D,NaN,BC3A
+Bipolar6_CTGAGCGGCTAT,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar4_TCAGGGCCGGCG,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar6_CGGTCGACTCGG,BC3A,NaN,BC3A
+Bipolar6_CAACTCGTGAGT,BC3A,NaN,BC3A
+Bipolar6_GTCATATTAGCC,BC3A,NaN,BC3A
+Bipolar5_GGCCTTACCCAA,BC3A,NaN,BC3A
+Bipolar6_CGCGGCCTATGG,BC3A,NaN,BC3A
+Bipolar6_AGATACGGCTAA,BC3A,NaN,BC3A
+Bipolar5_GCGCGCCCTCGN,BC3A,NaN,BC3A
+Bipolar5_CGAGCGCCCACC,BC3A,NaN,BC3A
+Bipolar5_TGGCGTCTCACT,BC3B,NaN,BC3A
+Bipolar6_AGTTACGTTTAC,BC5C,NaN,BC3A
+Bipolar5_CTGCCGCAAGCT,BC5D,NaN,BC3A
+Bipolar2_TTTGAGGCACAG,BC5D,NaN,BC3A
+Bipolar5_AATGGTTTTTTG,Doublets/Contaminants,NaN,BC3A
+Bipolar1_TTCAGCTAAAGC,Doublets/Contaminants,NaN,BC3A
+Bipolar1_TCGCCTCGTAAG,Doublets/Contaminants,NaN,BC3A
+Bipolar4_TGAAAAATCGTA,Doublets/Contaminants,NaN,BC3A
+Bipolar6_ATTCATGCGAAN,Doublets/Contaminants,NaN,BC3A
+Bipolar5_GTACAAAATAAT,Doublets/Contaminants,NaN,BC3A
+Bipolar6_TGTACAGTTAGN,BC2,NaN,BC3A
+Bipolar2_CATGTTTCACAC,BC3A,NaN,BC3A
+Bipolar4_ACCGAAACGGGA,BC3A,NaN,BC3A
+Bipolar2_CATAGGCTTGAT,BC3A,NaN,BC3A
+Bipolar4_TCACTTCGATAT,BC3A,NaN,BC3A
+Bipolar1_GGAGAGGAAACG,BC3A,NaN,BC3A
+Bipolar5_GCAATTTGCTGC,BC3A,NaN,BC3A
+Bipolar1_AGGCGCGGACCT,BC3A,NaN,BC3A
+Bipolar6_TGCAAGTTCTCG,BC3A,NaN,BC3A
+Bipolar3_TTTATCATTCTA,BC3A,NaN,BC3A
+Bipolar4_GGGGCCTCGACG,BC3A,NaN,BC3A
+Bipolar5_GGACTACGATTT,BC3A,NaN,BC3A
+Bipolar4_AGCACAGCTCGC,BC3A,NaN,BC3A
+Bipolar3_TCCCAGGCGAAC,BC3A,NaN,BC3A
+Bipolar3_CTAACATCAGCG,BC3A,NaN,BC3A
+Bipolar1_CCACCATGAACC,BC3A,NaN,BC3A
+Bipolar5_TTCAGCGACCGT,BC3A,NaN,BC3A
+Bipolar1_GCGCCGGAACCC,BC3A,NaN,BC3A
+Bipolar5_GATTGACTCCCG,BC3A,NaN,BC3A
+Bipolar3_GTCAAGAGGGTC,BC3A,NaN,BC3A
+Bipolar5_GCTTAGGCAGAA,BC3A,NaN,BC3A
+Bipolar6_GAATTAATACCG,BC3A,NaN,BC3A
+Bipolar6_CGTTGTTGCACG,BC4,NaN,BC3A
+Bipolar2_GTATGGGTTCCC,BC4,NaN,BC3A
+Bipolar5_CGTACTAGAACA,BC5C,NaN,BC3A
+Bipolar6_GAGCCGTGCGAG,BC5D,NaN,BC3A
+Bipolar3_TAAAGTCCAGTC,BC7 (Cone Bipolar cell 7),NaN,BC3A
+Bipolar6_GCTACTATAAGT,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar2_TCCCGCTTGTCC,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar6_GAACTAACTACN,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar5_GCCGTTCCCTAA,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar6_GAACATATCCGA,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar4_AGGCGCTGAACT,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar6_GCACACCCAAGT,BC8/9 (mixture of BC8 and BC9),NaN,BC3A
+Bipolar6_ATCTATTTCTCT,Doublets/Contaminants,NaN,BC3A
+Bipolar4_GTCCCTTGCGAT,Doublets/Contaminants,NaN,BC3B
+Bipolar5_TACGAAGGGGTC,BC3B,NaN,BC3B
+Bipolar6_TAGTTGGCTCCC,BC3B,NaN,BC3B
+Bipolar1_ATAGATATCCGA,BC3B,NaN,BC3B
+Bipolar2_AGTTCTAACATG,BC3B,NaN,BC3B
+Bipolar6_GTGTGAATCCTA,BC3B,NaN,BC3B
+Bipolar5_TCCCCCACCTCG,BC3B,NaN,BC3B
+Bipolar6_TCGTCACCTAAA,BC3B,NaN,BC3B
+Bipolar5_TACCTCGGTTCC,BC3B,NaN,BC3B
+Bipolar5_AGGGCCAAATCC,BC3B,NaN,BC3B
+Bipolar4_GACCCACCGGGG,BC3B,NaN,BC3B
+Bipolar6_AATCCATCAGTA,BC3B,NaN,BC3B
+Bipolar5_GGGTGATAAAAG,BC3B,NaN,BC3B
+Bipolar5_CCGCAACGAATA,BC3B,NaN,BC3B
+Bipolar2_GTAGCGCAAATA,BC3B,NaN,BC3B
+Bipolar5_TAAGCTTGTTAT,BC3B,NaN,BC3B
+Bipolar5_TTCGCGGGGGCA,BC3B,NaN,BC3B
+Bipolar5_CGCATCGTACGC,BC3B,NaN,BC3B
+Bipolar5_CTTTACCTAGCA,BC3B,NaN,BC3B
+Bipolar4_CTTAGATTTACG,BC3B,NaN,BC3B
+Bipolar5_CAACGGCGCGTA,BC3B,NaN,BC3B
+Bipolar2_CCGTGGAGAAGG,BC3B,NaN,BC3B
+Bipolar1_GCTAGATCCGTC,BC3B,NaN,BC3B
+Bipolar6_CACTTGAACCGT,BC3B,NaN,BC3B
+Bipolar5_TTATGTATGCAN,BC3B,NaN,BC3B
+Bipolar5_GCCAATCTGATG,BC3B,NaN,BC3B
+Bipolar3_GACTTGACGGGT,BC3B,NaN,BC3B
+Bipolar3_GTGTCTAGAGGG,BC3B,NaN,BC3B
+Bipolar5_GGAATCAGGAGA,BC3B,NaN,BC3B
+Bipolar1_ATTTACCCGGAA,BC3B,NaN,BC3B
+Bipolar5_GAAGACTCAGAC,BC3B,NaN,BC3B
+Bipolar6_TAAATCTCGACA,BC3B,NaN,BC3B
+Bipolar3_GGCAGGAATTTC,BC3B,NaN,BC3B
+Bipolar5_CTCAATACTCAC,BC3B,NaN,BC3B
+Bipolar6_GCTTCAACAATG,BC5B,NaN,BC3B
+Bipolar2_CGAGGGTAAACA,BC5D,NaN,BC3B
+Bipolar5_GAGCGCCCAGAG,BC5D,NaN,BC3B
+Bipolar3_TACGGGTGGCTA,BC5D,NaN,BC3B
+Bipolar5_AATGCAGACAGC,BC5D,NaN,BC3B
+Bipolar1_TTGGTGTGTTTA,BC5D,NaN,BC3B
+Bipolar4_GACCCCACTAAA,BC3B,NaN,BC3B
+Bipolar5_GCCAAATTCCCC,BC3B,NaN,BC3B
+Bipolar4_TCAAGCCTAAGA,BC3B,NaN,BC3B
+Bipolar5_TGCTCGTCTACG,BC3B,NaN,BC3B
+Bipolar4_TAAGTGCTGACC,BC3B,NaN,BC3B
+Bipolar6_AATCTTATTCGC,BC3B,NaN,BC3B
+Bipolar5_GTTAAACTTCAA,BC3B,NaN,BC3B
+Bipolar4_ACAAGCGACTCC,BC3B,NaN,BC3B
+Bipolar6_CTTGTCGGCTAC,BC3B,NaN,BC3B
+Bipolar5_TTTGGTACGCAA,BC3B,NaN,BC3B
+Bipolar6_ATGTCTTTACTN,BC3B,NaN,BC3B
+Bipolar1_GACTCTCACATC,BC3B,NaN,BC3B
+Bipolar5_CGTTCGCCTGGC,BC3B,NaN,BC3B
+Bipolar1_TCGTACACGGAA,BC3B,NaN,BC3B
+Bipolar6_CGATGTAGTTTN,BC3B,NaN,BC3B
+Bipolar5_ATTCTCCGGGGG,BC3B,NaN,BC3B
+Bipolar2_TACCGCAGCTTA,BC3B,NaN,BC3B
+Bipolar6_TTCCACGCCCTC,BC3B,NaN,BC3B
+Bipolar5_TACATGAGTTCA,BC3B,NaN,BC3B
+Bipolar6_CATCCCGTCATT,BC3B,NaN,BC3B
+Bipolar6_ATGTCGCCACTT,BC3B,NaN,BC3B
+Bipolar5_TCGTTCGTTGAC,BC3B,NaN,BC3B
+Bipolar4_ATGCGGAAGCAG,BC3B,NaN,BC3B
+Bipolar6_ATTGAGGTCAAG,BC3B,NaN,BC3B
+Bipolar5_CACGTTCTCGCG,BC5B,NaN,BC3B
+Bipolar3_TTTGCGGTCACC,BC5C,NaN,BC3B
+Bipolar6_CCGTACGCTGAA,BC5D,NaN,BC3B
+Bipolar5_TCGACCAACTCT,BC5D,NaN,BC3B
+Bipolar1_AACAGCCCGGCC,BC5D,NaN,BC3B
+Bipolar6_CTGGAAAGGTTC,BC5D,NaN,BC3B
+Bipolar5_CCTCAGGCGTGG,BC5D,NaN,BC3B
+Bipolar2_CAGCGCAATTGA,BC3A,NaN,BC3B
+Bipolar6_CGTTCCCCAAAC,BC3A,NaN,BC3B
+Bipolar6_GGCAAGCAGAAC,BC3A,NaN,BC3B
+Bipolar5_TACGTCGGGCTG,BC3A,NaN,BC3B
+Bipolar2_CGTGCGACGGCA,BC3B,NaN,BC3B
+Bipolar5_TCCTTCGGCAAT,BC3B,NaN,BC3B
+Bipolar4_ATAGACGAATGA,BC3B,NaN,BC3B
+Bipolar3_ACCAACTTTCCG,BC3B,NaN,BC3B
+Bipolar5_TTGAGAGTCTCG,BC3B,NaN,BC3B
+Bipolar6_GCCAATGCGGGG,BC3B,NaN,BC3B
+Bipolar2_TAGAGGATGTAT,BC3B,NaN,BC3B
+Bipolar4_CACAGAGTTTAA,BC3B,NaN,BC3B
+Bipolar2_CCTACCTACCCC,BC3B,NaN,BC3B
+Bipolar1_TATTCTTTAAGA,BC3B,NaN,BC3B
+Bipolar1_GTTTTTGCGAGA,BC3B,NaN,BC3B
+Bipolar2_CTCTCTCGAATT,BC3B,NaN,BC3B
+Bipolar3_ATTAGTGACGTA,BC3B,NaN,BC3B
+Bipolar6_CGAATGAGCGCC,BC3B,NaN,BC3B
+Bipolar6_GTGGATCTAATT,BC3B,NaN,BC3B
+Bipolar4_TGAGGCGTATTA,BC3B,NaN,BC3B
+Bipolar5_TCCCCGCTGCCC,BC3B,NaN,BC3B
+Bipolar5_TCCGCTTCCTGT,BC3B,NaN,BC3B
+Bipolar6_CATGCTGGCTAT,BC3B,NaN,BC3B
+Bipolar4_CTTATCATTACT,BC3B,NaN,BC3B
+Bipolar6_GTTTCCTGGACC,BC3B,NaN,BC3B
+Bipolar2_GAATTGCTAGTG,BC3B,NaN,BC3B
+Bipolar6_TAGGTGCTTCCT,BC3B,NaN,BC3B
+Bipolar5_TCTAGAACCTCG,BC3B,NaN,BC3B
+Bipolar5_CAATAGCGCTGA,BC3B,NaN,BC3B
+Bipolar2_ACAACCCGAAGG,BC3B,NaN,BC3B
+Bipolar4_CTCCCGGCCTAG,BC3B,NaN,BC3B
+Bipolar1_GGTGTCTTTAAA,BC3B,NaN,BC3B
+Bipolar6_GACAGCAAGGAA,BC3B,NaN,BC3B
+Bipolar4_CGGGGGTGCGTT,BC3B,NaN,BC3B
+Bipolar1_CCCACAAGACTA,BC5D,NaN,BC3B
+Bipolar2_ACTCGGCGGATG,BC5D,NaN,BC3B
+Bipolar6_GCTCAGAACGGC,BC5D,NaN,BC3B
+Bipolar6_GAACGCCACGTA,Doublets/Contaminants,NaN,BC3A
+Bipolar4_GCTCCGATATAC,BC1A,NaN,BC3A
+Bipolar2_ATCTGCTACCGA,BC3A,NaN,BC3A
+Bipolar5_AAGACGGCCCTG,BC3A,NaN,BC3A
+Bipolar6_CGCTCCGCGCCA,BC3A,NaN,BC3A
+Bipolar6_CGAAAACACAGC,BC3A,NaN,BC3A
+Bipolar6_ATTGCGTTGTTN,BC3A,NaN,BC3A
+Bipolar5_ATTCGCGACCCG,BC3A,NaN,BC3A
+Bipolar6_AACTGATAATGG,BC3A,NaN,BC3A
+Bipolar2_ATTGCTGTCTCT,BC3A,NaN,BC3A
+Bipolar6_GACGTTGACTTT,BC3B,NaN,BC3A
+Bipolar5_TTATGATAACTG,BC3B,NaN,BC3A
+Bipolar4_CCGTTGTAGGCG,BC3B,NaN,BC3A
+Bipolar4_GCGGTCGTTATG,BC3B,NaN,BC3A
+Bipolar5_CACCGCGCGTCT,BC3B,NaN,BC3A
+Bipolar6_GCATTAACGCAA,BC3B,NaN,BC3A
+Bipolar5_CTCGCACGTAAC,BC3B,NaN,BC3A
+Bipolar4_AGGCATATGAGT,BC5C,NaN,BC3A
+Bipolar5_CAGGGATACACT,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_GTCACCGAGGAG,AC (Amacrine cell),NaN,MG (Mueller Glia)
+Bipolar5_AAAACACCTTAA,BC1A,NaN,MG (Mueller Glia)
+Bipolar6_TCCGGATATAAA,BC5B,NaN,MG (Mueller Glia)
+Bipolar6_AGATGTCAACGA,BC5C,NaN,MG (Mueller Glia)
+Bipolar6_CTATCACACTCA,BC5C,NaN,MG (Mueller Glia)
+Bipolar6_CAATATTAACTA,BC5D,NaN,MG (Mueller Glia)
+Bipolar6_AGCGTAGACAGC,BC8/9 (mixture of BC8 and BC9),NaN,MG (Mueller Glia)
+Bipolar5_ATGTTTTACGGA,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar2_TACAACTTTTTT,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar5_TACCAGAAGCAC,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar3_TGCGGTTATCAG,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar5_GTGTATTTGGCG,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar6_ATGTGGCGTAGT,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar5_TTTCGACCAGAG,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar2_GCATGATAGGCC,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar6_ATTCGGATCCGA,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar3_GTTGACGACCGG,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar4_GATTAGCTTTCA,Doublets/Contaminants,NaN,MG (Mueller Glia)
+Bipolar5_GAAACACGAGCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_GGGCGGCAGGGA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GTGTCAAAATCC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_CCCAGTGTAGCA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_AGCGAGCTGTCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GATTAGCCTGAG,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_CAACTCCGCCAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar1_GTTTGAACGACA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar4_GCGAGTGAGTAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_AACGCGCCAGTA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar3_TCTACGTATCCT,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar2_CGTTTTCTTTAA,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar5_GGATCGGGAAAN,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_TAGGCCAACCGC,MG (Mueller Glia),NaN,MG (Mueller Glia)
+Bipolar6_CAAGTCGCCTCC,MG (Mueller Glia),NaN,Doublets/Contaminants
+Bipolar6_GGACCGCATAGA,BC5B,NaN,Doublets/Contaminants
+Bipolar6_GCGCCTACTGCG,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_CGTGAGCGTCAC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar6_AAGTAGATGTAC,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar4_CATGCTGTGCAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_AGTCGCGTAATA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TGTATCCCGCTG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_TTCCCCTAAGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_AATTTGGCGAAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GTGATTATGGTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TAACGTGCCGCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_CACTGTACATTT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_GCTATGATCGAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TGTATTAACCTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCTTCCAGCTCG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_CGTGTGGTCACC,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_GATGTGTCCGCG,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TTAGTGGCGACT,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TGCTTTACACGG,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_ATGAACTTGCCA,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_ATATAGCTTAAC,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AACCCACCGACT,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AGACCGTGACCN,AC (Amacrine cell),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GGGGATTTGGCT,BC4,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_ACGATAATATCG,BC5B,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_GACGTCCGAGCG,BC5C,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_AGCTCAACTCTG,BC5D,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GTGGCCAAGTAG,BC5D,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AGATGCACAAAA,BC5D,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCGCGTCCTGGC,BC5D,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GCATTAGCCCAG,BC7 (Cone Bipolar cell 7),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CCTACGGCGAAG,BC7 (Cone Bipolar cell 7),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_AAGATGCGCCCG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_CCCATCGTACTC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar3_AGCCTAAGGGAC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TCAGAGGTACCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_GATGTCTGCAAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CTAAGTTCTGAG,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar2_AGCGTCTGCTGT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_GCTTCGTTCCAA,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar1_AATTAGTCTGCC,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_CGACCTGAGTAT,BC8/9 (mixture of BC8 and BC9),NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar6_TCTATGAGCTTT,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar4_GTTACACGCAGA,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_ACGCTGTACTAC,Doublets/Contaminants,NaN,BC8/9 (mixture of BC8 and BC9)
+Bipolar5_AGTCACAATCAG,MG (Mueller Glia),NaN,Doublets/Contaminants
+Bipolar6_GTCGCATCACCC,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar4_TGCTAGCGCTGG,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar6_GACCTTTTACTA,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar3_GTTAACGCCCCT,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar5_TAAGGAAACACC,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar5_ACCTATAGCCAG,BC5C,NaN,Doublets/Contaminants
+Bipolar5_ATTTCAGTGGTG,BC5C,NaN,Doublets/Contaminants
+Bipolar6_CACCGGATAACT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCATGACAGGCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_CAAATTAGCAAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_AAATATATTGAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GAGTGGGGTTCN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_ACTGAGGGCTAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GATACACCTGCN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_CATTGGATGGAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_GGTATCAGTGAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_AGATTGCCCCCG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TCCCTATATCTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_GTTAAATAGGTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GTTGTGCACCCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_TCGAGGGGACAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GAGACAAGTATT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_AACTGGGAACGT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GAGTAGCACATT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TTCCAGAGGCCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_ACACTTCAATAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_CAGCGAAGATGA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_AGTGAGGTGATA,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar5_AGTACCAAAGAT,AC (Amacrine cell),NaN,Doublets/Contaminants
+Bipolar4_GTCCAGAAGATA,BC5C,NaN,Doublets/Contaminants
+Bipolar5_TTAAGGTATAGG,BC8/9 (mixture of BC8 and BC9),NaN,Doublets/Contaminants
+Bipolar2_TGCCCTGATGAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_ATAGAGGTTAAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_AGAGACCAGGCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TCGAGCTAGCAA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TTAACAACGCCT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_TACGAACGGCAN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GACGTCCGTGGN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GGATATATTCAT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_CTGGAAGTTAGT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_TGGCCGCTGACT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_AAGCCACGATTN,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GAGAGCAGTTTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_ACTTCCGGTCTC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_AGGATGACAACA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_TTGAAGCAGTGG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_GGCCTTAAAAGG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GTCCTCTCGCGT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_CAACAGCCTCGA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TGTTGACTAATT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_AAATATCGGCAC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_GACGCGGAGGGT,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GCAACCCTCGAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GTGCCTCCGGTA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar2_CATTTGTGGAGG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar1_GTTTTAAATCCA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_GACTTGTCTGAC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_ACAATGGTAGTG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_GGACATTCCTTG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar5_CTCCATAAAGAC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GAGCAAAATCGA,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar6_GGAATGGCGTCC,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar3_AATGTAATGGAG,Doublets/Contaminants,NaN,Doublets/Contaminants
+Bipolar4_TCAAATTGAATT,MG (Mueller Glia),NaN,Doublets/Contaminants
+Bipolar5_GAGATAGGATTA,MG (Mueller Glia),NaN,AC (Amacrine cell)
+Bipolar5_GAATCTCCGATC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TTCCATTGACTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AGTCCCCTGTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_CACCAGCCGAGG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_TAAACTAGTAAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TTAAATCGTCTA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_GGTGATCCACTN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TGAACTTTTCTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_TAAACGGTGCAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TCGTCCGTTAAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TTCGGACGTCGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GCTCGGTTTGAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TAGGCCAGTAGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_ACGGGAATGGAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar3_CACCATTCTTCG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TGTCGTCATGGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_TCGTTAGGTAAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_TCCAAGTGGGAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_ATCCATGTTGTT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_ATGCGTCCGACA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CGAATACATACC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CAAACGGCTCGA,BC5D,NaN,AC (Amacrine cell)
+Bipolar2_CCAGGAAATCGG,BC5D,NaN,AC (Amacrine cell)
+Bipolar5_GCGTATATTACA,Doublets/Contaminants,NaN,AC (Amacrine cell)
+Bipolar1_CGCTTTCGTCGA,Doublets/Contaminants,NaN,AC (Amacrine cell)
+Bipolar6_GCCCCCGCACAT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_GTTAGCGGGGCC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GCGATGATCGTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar1_TCCTCATAACTC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ATGTCGGGAGGA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CAGTACTCCCTG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_AATCGCATATCA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_CGCCTAACGGCT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ACGGAAGGCGGC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTTTGTAGTGTT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar2_ACCATATACGAA,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar4_ACTGCATCGATG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GCATGTCCGGAC,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GTGCGTTTAAGT,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CAGGGACCTAAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar6_CCGCCCCCCTAG,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_GCGATGTCGTGN,AC (Amacrine cell),NaN,AC (Amacrine cell)
+Bipolar5_ACATCACAAACG,BC5C,NaN,AC (Amacrine cell)
